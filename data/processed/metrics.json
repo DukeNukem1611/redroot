@@ -1,0 +1,173 @@
+{
+  "n_train": 1619,
+  "n_train_threatened": 432,
+  "n_train_medicinal": 512,
+  "n_train_medicinal_threatened": 43,
+  "n_families": 195,
+  "baseline_all": {
+    "roc_auc": 0.8841354254422915,
+    "balanced_accuracy": 0.6305851976660738,
+    "sensitivity": 0.9907407407407407,
+    "specificity": 0.2704296545914069,
+    "f1_threatened": 0.4959443800695249,
+    "brier": NaN
+  },
+  "baseline_medicinal": {
+    "roc_auc": 0.8120692219963307,
+    "balanced_accuracy": 0.6547825655774284,
+    "sensitivity": 0.9534883720930233,
+    "specificity": 0.35607675906183367,
+    "f1_threatened": 0.21243523316062177,
+    "brier": NaN
+  },
+  "ml_all": {
+    "roc_auc": 0.9123767512246873,
+    "balanced_accuracy": 0.8245822802583544,
+    "sensitivity": 0.7416666666666666,
+    "specificity": 0.907497893850042,
+    "f1_threatened": 0.7432098977494361,
+    "brier": 0.10384216926642893
+  },
+  "ml_all_sd": {
+    "roc_auc": 0.003862749734028302,
+    "balanced_accuracy": 0.004226171291742019,
+    "sensitivity": 0.00822980964566257,
+    "specificity": 0.003550346673244395,
+    "f1_threatened": 0.00589142105552772,
+    "brier": 0.002429181433840282
+  },
+  "ml_medicinal": {
+    "roc_auc": 0.8341845589329102,
+    "balanced_accuracy": 0.6326126840878663,
+    "sensitivity": 0.3023255813953488,
+    "specificity": 0.9628997867803838,
+    "f1_threatened": 0.3528311688311689,
+    "brier": 0.07092631681559414
+  },
+  "ml_medicinal_sd": {
+    "roc_auc": 0.012549342748723128,
+    "balanced_accuracy": 0.02265331296086527,
+    "sensitivity": 0.046511627906976744,
+    "specificity": 0.0028922515919510617,
+    "f1_threatened": 0.04242750760471263,
+    "brier": 0.002536699833145262
+  },
+  "range_only_auc_mean": 0.8936899357234236,
+  "range_only_auc_sd": 0.004553298238506498,
+  "confusion_ml_all": [
+    [
+      1079,
+      108
+    ],
+    [
+      110,
+      322
+    ]
+  ],
+  "confusion_baseline_all": [
+    [
+      321,
+      866
+    ],
+    [
+      4,
+      428
+    ]
+  ],
+  "confusion_ml_medicinal": [
+    [
+      452,
+      17
+    ],
+    [
+      31,
+      12
+    ]
+  ],
+  "screening_threshold": 0.29,
+  "at_threshold": {
+    "all": {
+      "roc_auc": 0.9173121626259789,
+      "balanced_accuracy": 0.8415853458766264,
+      "sensitivity": 0.8263888888888888,
+      "specificity": 0.8567818028643639,
+      "f1_threatened": 0.7445255474452555,
+      "brier": 0.0990256206879789
+    },
+    "medicinal": {
+      "roc_auc": 0.8451430554866862,
+      "balanced_accuracy": 0.7143353002429712,
+      "sensitivity": 0.4883720930232558,
+      "specificity": 0.9402985074626866,
+      "f1_threatened": 0.45652173913043476,
+      "brier": 0.06739166272114235
+    }
+  },
+  "blind_spot": {
+    "n_threatened_medicinal": 43,
+    "n_missed": 22,
+    "n_caught": 21,
+    "median_use_missed": 15.5,
+    "median_use_caught": 4.0,
+    "median_use_pct_missed": 0.6673616376042456,
+    "median_use_pct_caught": 0.3502653525398029,
+    "mannwhitney_p": 0.030055432206777845,
+    "missed_examples": [
+      "Nardostachys jatamansi",
+      "Dolomiaea costus",
+      "Santalum album",
+      "Guaiacum officinale",
+      "Commiphora wightii",
+      "Pinus palustris",
+      "Pterocarpus santalinus",
+      "Paris polyphylla"
+    ],
+    "auc_use_among_range_safe": 0.5493197278911565,
+    "auc_use_among_range_safe_ci": [
+      0.42207372290740575,
+      0.6730473592858913
+    ]
+  },
+  "watchlist_check": {
+    "n_in_profile": 63,
+    "threatened_in_profile": 8,
+    "rate_in_profile": 0.12698412698412698,
+    "rate_other_range_safe": 0.035,
+    "odds_ratio": 4.01038961038961,
+    "fisher_p": 0.005101410567946431,
+    "variants_tested": 12,
+    "note": "profile chosen among 12 threshold variants; exploratory, not corrected for multiplicity"
+  },
+  "gap": {
+    "n_species": 1319,
+    "n_assessed": 528,
+    "n_recovered_via_synonyms": 45,
+    "n_gap_before_reconciliation": 836,
+    "n_threatened_official": 46,
+    "frac_not_assessed_or_dd": 0.599696739954511,
+    "frac_heavily_used_not_assessed_or_dd": 0.5744047619047619,
+    "frac_light_used_not_assessed_or_dd": 0.6083418107833164,
+    "fisher_heavy_vs_gap_p": 0.27380985692470466,
+    "fisher_heavy_vs_gap_or": 0.8689220478518137,
+    "n_gap_scored": 736,
+    "n_gap_insufficient_data": 55,
+    "n_gap_predicted_threatened_p50": 55,
+    "n_gap_predicted_threatened_robust": 23,
+    "n_gap_screen_positive": 103,
+    "n_gap_screen_positive_native_sc": 90,
+    "n_gap_screen_positive_robust": 38,
+    "n_gap_screen_positive_endemic": 36,
+    "n_harvest_watchlist": 51,
+    "n_widely_cultivated": 138,
+    "iucn_counts": {
+      "NE": 760,
+      "LC": 470,
+      "DD": 31,
+      "VU": 20,
+      "EN": 18,
+      "NT": 11,
+      "CR": 8,
+      "EW": 1
+    }
+  }
+}

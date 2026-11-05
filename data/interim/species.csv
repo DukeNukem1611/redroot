@@ -1,0 +1,1320 @@
+speciesKey,accepted_name,family,order,use_records_global,use_activities_global,use_regions_global,use_records_south_asia,use_activities_south_asia,use_references,duke_names,top_uses,sa_communities
+5539755,Zosima absinthiifolia,Apiaceae,Apiales,1,1,1,1,1,1,Zosima orientalis,Cough,India
+3152706,Abelmoschus manihot,Malvaceae,Malvales,14,13,4,5,5,5,Abelmoschus manihot,Boil; Emmenagogue; Inflammation; Sore; Sprain,India
+8312665,Abelmoschus moschatus,Malvaceae,Malvales,49,31,21,11,11,9,Abelmoschus moschatus,Carminative; Hysteria; Itch; Nerves; Spasm; Stimulant,India
+2685619,Abies spectabilis,Pinaceae,Pinales,4,2,1,4,2,2,Abies spectabilis,Asthma; Stomachic,Nepal
+8219075,Abroma augustum,Malvaceae,Malvales,7,6,3,1,1,3,Abroma augusta,Dysmenorrhea,India
+2775619,Yucca gloriosa,Asparagaceae,Asparagales,22,13,3,20,11,2,Yucca gloriosa,Asthma; Bronchitis; Dysentery; Edema; Leprosy; Septicemia,India(Santal)
+2692968,Xyris pauciflora,Xyridaceae,Poales,1,1,1,1,1,1,Xyris pauciflora,Insomnia,India
+2692701,Xyris indica,Xyridaceae,Poales,5,4,2,4,4,2,Xyris indica,Skin; Leprosy; Itch; Ringworm,India
+2693047,Xyris complanata,Xyridaceae,Poales,5,5,1,5,5,1,Xyris complanata,Antiseptic; Itch; Leprosy; Ringworm; Skin,India
+2889811,Ximenia americana,Ximeniaceae,Santalales,42,30,10,1,1,8,Ximenia americana,Hair-Oil,India
+2883960,Xantolis tomentosa,Sapotaceae,Ericales,2,2,2,1,1,1,Xantolis tomentosa,Astringent,India
+3089154,Xanthium strumarium,Asteraceae,Asterales,134,67,15,15,14,20,Xanthium indicum; Xanthium strumarium,Cancer; Demulcent; Diaphoretic; Hemicrania; Herpes; Poison,India
+3089150,Xanthium spinosum,Asteraceae,Asterales,30,16,8,8,8,6,Xanthium spinosum,Antiseptic; Diarrhea; Diuretic; Rabies; Sudorific; Malaria,India
+5535418,Wrightia arborea,Apocynaceae,Gentianales,11,11,2,11,11,3,Wrightia tomentosa,Ache(Stomach); Dysentery; Fever; Hemorrhage; Hemostat; Renitis,India; India(Santal); Nepal
+5536686,Wrightia tinctoria,Apocynaceae,Gentianales,9,9,1,9,9,1,Wrightia tinctoria,Bilious; Carminative; Dropsy; Hypertension; Rennet; Stomachic,India
+5635525,Woodfordia fruticosa,Lythraceae,Myrtales,48,41,7,33,29,9,Woodfordia floribunda; Woodfordia fruticosa,Fever; Cancer; Sore; Chancre; Atrophy; Cholera,India; India(Santal)
+2928840,Withania somnifera,Solanaceae,Solanales,65,50,14,16,16,10,Withania somnifera,Abortifacient; Anodyne; Arthritis; Asthma; Candida; Contraceptive,India; India(Ayurvedic); India(Punjab); India(Rajasthan); Pakistan
+3801167,Withania coagulans,Solanaceae,Solanales,18,17,3,4,3,2,Withania coagulans,Rennet; Depurative; Fever,India; Pakistan
+5524676,Wikstroemia indica,Thymelaeaceae,Malvales,11,10,3,1,1,4,Wikstroemia indica,Piscicide,India
+2767031,Agave americana,Asparagaceae,Asparagales,21,17,13,1,1,6,Agave americana,Ascites,India(Santal)
+8566446,Aesculus indica,Sapindaceae,Sapindales,6,5,3,3,3,3,Aesculus indica,Colic(Veterinary); Lactogogue; Leucorrhea,India
+10974033,Ouret lanata,Amaranthaceae,Caryophyllales,10,10,4,5,5,4,Aerva lanata,Cholera; Dysuria; Bite(Snake); Dysentery; Diarrhea,India(Santal)
+5421195,Aegle marmelos,Rutaceae,Sapindales,56,39,10,27,24,7,Aegle marmelos,Dysentery; Laxative; Diarrhea; Abdomen; Bite(Snake); Ache(Stomach),India; India(Santal)
+8417744,Adina cordifolia,Rubiaceae,Gentianales,14,13,3,7,7,3,Adina cordifolia,Blindness(Veterinary); Cholera; Colic; Night-Blindness; Rinderpest; Bilious,India(Santal)
+7335278,Adiantum venustum,Pteridaceae,Polypodiales,4,4,1,4,4,2,Adiantum venustum,Demulcent; Tumor; Expectorant; Tonic,India
+7727909,Adiantum lunulatum,Pteridaceae,Polypodiales,9,8,3,6,6,3,Adiantum lunulatum,Bite(Dog); Cachexia; Diarrhea; Myalgia; Tumor; Rabies,India; India(Santal)
+2651835,Adiantum concinnum,Pteridaceae,Polypodiales,7,7,2,5,5,2,Adiantum concinnum,Bite(Dog); Diarrhea; Myalgia; Rabies; Cachexia,India(Santal)
+2651833,Adiantum caudatum,Pteridaceae,Polypodiales,4,4,2,3,3,2,Adiantum caudatum,Demulcent; Expectorant; Tonic,India
+2651816,Adiantum capillus-veneris,Pteridaceae,Polypodiales,59,37,9,3,3,13,Adiantum capillus-veneris,Demulcent; Expectorant; Tonic,India
+3173105,Justicia adhatoda,Acanthaceae,Lamiales,29,14,8,22,12,9,Adhatoda vasica; Justicia adhatoda,Asthma; Bronchitis; Cough; Tuberculosis; Expectorant; Fever,India; India(Santal); Nepal
+5527769,Adenia hondala,Passifloraceae,Malpighiales,2,2,1,2,2,1,Adenia palmata,Poison; Skin,Sri Lanka
+11261901,Actiniopteris dichotoma,Pteridaceae,Polypodiales,2,2,1,2,2,1,Actiniopteris dichotoma,Styptic; Vermifuge,India
+5371473,Actaea spicata,Ranunculaceae,Ranunculales,26,22,12,1,1,7,Actaea spicata,Sedative,India
+2873769,Acorus calamus,Acoraceae,Acorales,163,91,28,14,10,21,Acorus calamus,Bronchitis; Emetic; Nervine; Asthma; Dyspepsia; Epilepsy,India; India(Santal); Nepal
+2857697,Allium cepa,Amaryllidaceae,Asparagales,121,72,30,1,1,22,Allium cepa,Wart,India
+11374752,Alhagi pseudalhagi,Fabaceae,Fabales,5,3,4,1,1,3,Alhagi pseudalhagi,Tumor(Abdomen),India
+2945092,Alhagi maurorum,Fabaceae,Fabales,3,3,3,1,1,2,Alhagi maurorum,Tumor(Glands),India
+7331604,Alectra parasitica,Orobanchaceae,Lamiales,4,4,1,4,4,2,Alectra parasitica,Bactericide; Laxative; Leprosy; Tuberculosis,India; India(Ayurvedic)
+2973167,Albizia procera,Fabaceae,Fabales,1,1,1,1,1,1,Albizia procera,Piscicide,India
+2973031,Albizia odoratissima,Fabaceae,Fabales,2,2,2,1,1,2,Albizia odoratissima,Piscicide,India(Gujarat)
+2973009,Albizia myriophylla,Fabaceae,Fabales,5,5,3,3,3,2,Albizia myriophylla,Asthma; Bronchitis; Phthisis,India(Santal)
+2973215,Albizia lebbeck,Fabaceae,Fabales,12,11,5,2,2,6,Albizia lebbeck; Albizia lebbek,Tumor(Abdomen); Gingivosis,India
+3701832,Alangium hexapetalum,Cornaceae,Cornales,2,1,1,2,1,1,Alangium hexapetalum,Tumor(Abdomen),India
+9520699,Ajuga integrifolia,Lamiaceae,Lamiales,11,8,3,4,4,3,Ajuga bracteosa,Boil; Fever; Depurative; Wound,India
+3709036,Ailanthus excelsa,Simaroubaceae,Sapindales,1,1,1,1,1,1,Ailanthus excelsa,Wound,India(Gujarat)
+5598022,Aglaia roxburghiana,Meliaceae,Sapindales,4,4,2,1,1,2,Aglaia roxburghiana,Tumor(Abdomen),India
+5597346,Aglaia odoratissima,Meliaceae,Sapindales,1,1,1,1,1,1,Aglaia odoratissima,Bactericide,India
+5401673,Ageratum conyzoides,Asteraceae,Asterales,59,41,21,1,1,11,Ageratum conyzoides,Wound,India(Gujarat)
+3188716,Ammannia baccifera,Lythraceae,Myrtales,9,4,4,3,3,4,Ammannia baccifera,Skin; Splenomegaly; Rubefacient,India
+5401804,Oligochaeta divaricata,Asteraceae,Asterales,4,4,1,4,4,1,Amberboa divaricata,Cough; Fever; Tonic; Laxative,India
+5325855,Amaryllis belladonna,Amaryllidaceae,Asparagales,4,4,2,1,1,1,Amaryllis belladonna,Poison,India
+5384397,Amaranthus tricolor,Amaranthaceae,Caryophyllales,4,4,1,4,4,1,Amaranthus tricolor,Bronchitis; Cough; Dysentery; Tuberculosis,India(Santal)
+5384401,Amaranthus spinosus,Amaranthaceae,Caryophyllales,31,23,10,3,3,5,Amaranthus spinosus,Eczema; Nausea; Bite(Snake),India; India(Santal)
+5384334,Amaranthus viridis,Amaranthaceae,Caryophyllales,3,3,1,3,3,1,Amaranthus gracilis,Antidote(Scorpion); Bite(Snake); Emollient,India
+5384390,Amaranthus cruentus,Amaranthaceae,Caryophyllales,2,2,1,2,2,1,Amaranthus cruentus,Anasarca; Dropsy,India(Santal)
+2948677,Alysicarpus glumaceus,Fabaceae,Fabales,1,1,1,1,1,1,Alysicarpus glumaceus,Tumor(Foot),India
+3084939,Alternanthera sessilis,Amaranthaceae,Caryophyllales,26,24,4,19,18,4,Alternanthera sessilis,Fever; Anus; Bite(Dog); Diarrhea; Eyesight; Fistula,India; India(Santal)
+5414410,Alstonia scholaris,Apocynaceae,Gentianales,49,42,9,19,19,7,Alstonia scholaris,Ache(Head); Ache(Leg); Asthma; Cholera; Diarrhea; Dysentery,India; India(Santal)
+5302199,Alpinia officinarum,Zingiberaceae,Zingiberales,39,26,6,3,3,7,Alpinia officinarum,Bactericide; Candida; Fungicide,India
+5302225,Alpinia galanga,Zingiberaceae,Zingiberales,13,13,5,4,4,4,Alpinia galanga,Bronchitis; Cardiodepressant; Carminative; Catarrh,India
+2777724,Aloe vera,Asphodelaceae,Asparagales,116,62,20,10,7,19,Aloe barbadensis; Aloe vera,Purgative; Pregnancy; Inflammation; Piles; Rectitis; Emmenagogue,India; Nepal
+5329904,Alocasia macrorrhizos,Araceae,Alismatales,27,22,11,2,2,9,Alocasia macrorrhiza,Stimulant; Rubefacient,India
+2856681,Allium sativum,Amaryllidaceae,Asparagales,191,98,30,4,4,22,Allium sativum,Thirst; Tumor; Fever; Tumor(Abdomen),India; Pakistan
+3034646,Anethum graveolens,Apiaceae,Apiales,38,24,15,2,2,15,Anethum graveolens,Medicine; Tumor(Abdomen),India; Nepal
+7952313,Andropogon schoenanthus,Poaceae,Poales,1,1,1,1,1,1,Andropogon schoenanthus,Tumor(Abdomen),India
+3173178,Andrographis paniculata,Acanthaceae,Lamiales,44,35,9,15,14,7,Andrographis paniculata,Diarrhea; Ache(Stomach); Bite(Dog); Cholera; Colic; Tuberculosis,India; India(Santal)
+3659014,Ancistrocladus hamatus,Ancistrocladaceae,Caryophyllales,1,1,1,1,1,1,Ancistrocladus hamatus,Poison,Sri Lanka
+9273319,Pseudognaphalium adnatum,Asteraceae,Asterales,1,1,1,1,1,1,Anaphalis adnata,Hemostat,India
+3829613,Anamirta cocculus,Menispermaceae,Ranunculales,11,9,4,2,1,4,Anamirta cocculus,Piscicide,India
+8184903,Lysimachia arvensis,Primulaceae,Ericales,39,28,9,6,6,12,Anagallis arvensis,Fungicide; Insecticide; Nematicide; Repellant(Leech); Piscicide; Poison,India
+5421368,Anacardium occidentale,Anacardiaceae,Sapindales,110,49,29,3,3,18,Anacardium occidentale,Corn; Tumor; Wart,India
+4053243,Ampelocissus tomentosa,Vitaceae,Vitales,20,20,1,20,20,1,Ampelocissus tomentosa,Anodyne; Antidote(Spider); Carbuncle; Chest; Dysentery; Fistula,India(Santal)
+4053742,Ampelocissus latifolia,Vitaceae,Vitales,5,5,1,5,5,1,Ampelocissus latifolia,Fracture; Myalgia; Pneumonia; Sore; Bite(Snake),India(Santal)
+2871533,Amorphophallus paeoniifolius,Araceae,Alismatales,22,22,3,20,20,5,Amorphophallus campanulatus,Ache(Ear); Cholera; Diarrhea; Fever; Hemorrhage; Megalospleny,India; India(Ayurvedic); India(Santal)
+5301632,Amomum subulatum,Zingiberaceae,Zingiberales,8,6,2,4,2,3,Amomum subulatum,Neuralgia; Stomachic,Nepal
+2758930,Aframomum melegueta,Zingiberaceae,Zingiberales,18,10,4,1,1,3,Amomum melegueta,Tumor(Abdomen),India
+10958923,Wurfbainia aromatica,Zingiberaceae,Zingiberales,1,1,1,1,1,1,Amomum aromaticum,Medicine,India
+3034241,Trachyspermum ammi,Apiaceae,Apiales,52,43,10,18,18,5,Ammi copticum; Trachyspermum ammi,Anus; Atrophy; Cachexia; Tuberculosis; Cough; Diarrhea,India; India(Santal)
+2888485,Argemone mexicana,Papaveraceae,Ranunculales,81,45,28,11,10,16,Argemone mexicana,Wart; Antidote(Scorpion); Demulcent; Laxative; Ophthalmia; Skin,India; India(Gujarat); Pakistan
+2733997,Arenga pinnata,Arecaceae,Arecales,11,11,3,2,2,2,Arenga pinnata,Piscicide; Vinegar,India
+2736531,Areca catechu,Arecaceae,Arecales,76,52,10,12,12,15,Areca catechu,Cholera; Colic; Dysentery; Rhagades; Taenifuge; Venereal,India; India(Santal)
+7353729,Arctium lappa,Asteraceae,Asterales,117,63,16,1,1,15,Arctium lappa,Tumor,India
+5524192,Aquilaria agallocha,Thymelaeaceae,Malvales,25,24,4,1,1,6,Aquilaria agallocha,Tumor(Abdomen),India
+5371879,Apium graveolens,Apiaceae,Apiales,68,40,14,1,1,10,Apium graveolens,Antiseptic,India
+3076532,Antidesma acidum,Phyllanthaceae,Malpighiales,14,14,1,14,14,1,Antidesma diandrum,Adenopathy; Anasarca; Bite(Dog); Carbuncle; Dropsy; Dysentery,India(Santal)
+2911261,Breonia chinensis,Rubiaceae,Gentianales,13,12,2,12,12,2,Anthocephalus indicus,Aftosa; Anemia; Carbuncle; Cholera; Dysentery; Fever,India; India(Santal)
+2896888,Neolamarckia cadamba,Rubiaceae,Gentianales,2,2,2,1,1,2,Anthocephalus cadamba,Tumor(Abdomen),India
+9256805,Terminalia anogeissiana,Combretaceae,Myrtales,10,10,1,10,10,1,Anogeissus latifolia,Cancer; Cholera; Cold; Cough; Diarrhea; Dysuria,India(Santal)
+5407099,Annona squamosa,Annonaceae,Magnoliales,39,24,15,3,3,12,Annona squamosa,Cold; Rheumatism; Tumor,India; India(Santal)
+5407123,Annona reticulata,Annonaceae,Magnoliales,30,19,13,1,1,7,Annona reticulata,Tonic,India
+3884461,Anisomeles indica,Lamiaceae,Lamiales,13,5,6,6,3,3,Anisomeles indica,Astringent; Carminative; Tonic,India; Sri Lanka
+9853197,Coleus strobilifer,Lamiaceae,Lamiales,3,3,1,3,3,1,Anisochilus carnosus,Cough; Refrigerant; Cold,India
+5537742,Angelica glauca,Apiaceae,Apiales,12,12,2,9,9,3,Angelica glauca,Atrophy; Dysentery; Menorrhagia; Nausea; Palate; Puerperium,India; India(Santal)
+3631014,Anethum sowa,Apiaceae,Apiales,5,3,3,3,2,3,Anethum sowa,Carminative; Stomachic,India
+5344908,Astragalus tribuloides,Fabaceae,Fabales,3,2,2,1,1,2,Astragalus tribuloides,Demulcent,India
+5352898,Astragalus gummifer,Fabaceae,Fabales,1,1,1,1,1,1,Astragalus gummifer,Emollient,India
+5415352,Hygrophila auriculata,Acanthaceae,Lamiales,24,12,7,13,7,4,Asteracantha longifolia; Hygrophila auriculata; Hygrophila spinosa,Anasarca; Diuretic; Dropsy; Jaundice; Rheumatism; Urogenital,India
+2768632,Asparagus racemosus,Asparagaceae,Asparagales,26,20,6,10,10,8,Asparagus racemosus,Ache(Limb); Aphrodisiac; Ache(Bones); Glossitis; Gravel; Pleurisy,India; India(Santal)
+2768799,Asparagus adscendens,Asparagaceae,Asparagales,6,6,3,2,2,3,Asparagus adscendens,Aphrodisiac; Tonic,India
+2971981,Indigofera aspalathoides,Fabaceae,Fabales,12,10,2,2,1,3,Aspalathus indica; Indigofera aspalathoides,Cancer,India; India(Hindu)
+3170241,Asclepias curassavica,Apocynaceae,Gentianales,63,32,15,1,1,16,Asclepias curassavica,Tumor(Abdomen),India
+7873234,Artocarpus lacucha,Moraceae,Rosales,2,2,1,2,2,1,Artocarpus lakoocha,Fracture(Veterinary); Splenitis,India(Santal)
+2984565,Artocarpus heterophyllus,Moraceae,Rosales,16,15,4,9,9,5,Artocarpus heterophyllus,Caries; Puerperium; Sore; Sterility; Stomach; Ache(Tooth),India; India(Santal)
+3120946,Artemisia vulgaris,Asteraceae,Asterales,78,55,13,5,5,15,Artemisia vulgaris,Nerves; Vermifuge; Antiseptic; Expectorant; Spasm,India
+8169708,Arnebia speciosa,Boraginaceae,Boraginales,1,1,1,1,1,1,Arnebia nobilis,Fungicide,India
+8207569,Aristolochia acuminata,Aristolochiaceae,Piperales,9,9,5,1,1,4,Aristolochia tagala,Medicine,India
+7313567,Aristolochia indica,Aristolochiaceae,Piperales,17,15,1,17,15,2,Aristolochia indica,Bite(Snake); Fever; Bite(Lizard); Carminative; Dropsy; Dyspepsia,India; India(Santal)
+2866892,Arisaema speciosum,Araceae,Alismatales,5,4,2,1,1,2,Arisaema speciosum,Colic(Veterinary),India
+7914815,Argyreia speciosa,Convolvulaceae,Solanales,16,16,4,6,6,4,Argyreia speciosa,Diarrhea; Dysentery; Smallpox; Syphilis; Sore(Foot); Stomach,India(Santal)
+2928692,Argyreia nervosa,Convolvulaceae,Solanales,3,3,2,1,1,2,Argyreia nervosa,Medicine,India
+7572180,Barringtonia speciosa,Lecythidaceae,Ericales,3,1,3,1,1,3,Barringtonia speciosa,Piscicide,India
+3082727,Barringtonia racemosa,Lecythidaceae,Ericales,7,3,5,1,1,5,Barringtonia racemosa,Piscicide,India
+3082835,Barringtonia acutangula,Lecythidaceae,Ericales,5,4,2,2,2,4,Barringtonia acutangula,Cholera; Tumor(Abdomen),India; India(Santal)
+3173129,Barleria prionitis,Acanthaceae,Lamiales,20,16,5,4,3,6,Barleria prionitis,Catarrh; Feet; Tumor,India; India(Gujarat)
+3173128,Barleria cristata,Acanthaceae,Lamiales,3,3,2,1,1,2,Barleria cristata,Tumor(Abdomen),India
+2705765,Bambusa tulda,Poaceae,Poales,1,1,1,1,1,1,Bambusa tulda,Tetanus,India(Santal)
+3062296,Baliospermum solanifolium,Euphorbiaceae,Malpighiales,8,7,4,2,2,5,Baliospermum axillare; Baliospermum montanum,Ache(Tooth); Tumor(India),India
+3171169,Bacopa monnieri,Plantaginaceae,Lamiales,10,10,3,8,8,3,Bacopa monnieri,Aphrodisiac; Epilepsy; Hysteria; Insanity; Nerves; Rheumatism,India; India(Gujarat)
+3736486,Bacopa monniera,Plantaginaceae,Lamiales,25,20,7,1,1,5,Bacopa monniera,Poison,India
+3190474,Azadirachta indica,Meliaceae,Sapindales,65,49,4,31,27,7,Azadirachta indica,Fever; Sore; Smallpox; Skin; Carbuncle; Deobstruent,India; India(Santal)
+6413451,Avicennia officinalis,Acanthaceae,Lamiales,5,5,2,3,3,3,Avicennia officinalis,Boil; Tumor; Poultice,India
+2891640,Averrhoa bilimbi,Oxalidaceae,Oxalidales,17,17,7,1,1,5,Averrhoa bilimbi,Whitlow,Sri Lanka
+2960284,Cajanus scarabaeoides,Fabaceae,Fabales,11,11,1,11,11,1,Atylosia scarabaeoides,Cholera; Dysentery; Gonorrhea; Gravel; Rinderpest; Smallpox,India(Santal)
+2960370,Cajanus mollis,Fabaceae,Fabales,6,6,1,6,6,2,Atylosia mollis,Ache(Leg); Anasarca; Pregnancy; Rinderpest; Swelling; Dropsy,India(Santal)
+3802655,Atropa belladonna,Solanaceae,Solanales,40,21,12,6,3,10,Atropa belladonna,Anodyne; Narcotic; Sedative,Nepal
+7469489,Boerhaavia diffusa,Nyctaginaceae,Caryophyllales,58,36,12,10,10,12,Boerhaavia diffusa,Abdomen; Anodyne; Antidote(Scolopendrid); Anus; Fever; Fistula,India; India(Gujarat); India(Santal)
+7269004,Boenninghausenia albiflora,Rutaceae,Sapindales,1,1,1,1,1,1,Boenninghausenia albiflora,Wound,India
+5575687,Blepharis edulis,Acanthaceae,Lamiales,2,2,1,2,2,1,Blepharis edulis,Expectorant; Resolvent,India
+3628231,Biophytum sensitivum,Oxalidaceae,Oxalidales,26,21,5,16,16,7,Biophytum sensitivum,Ache(Stomach); Burn; Chest; Collapse; Contraceptive(Male); Fever,India; India(Gujarat); India(Santal)
+5332157,Betula utilis,Betulaceae,Fagales,3,3,1,3,3,1,Betula utilis,Burn; Contraceptive; Wound,India
+8971274,Beta vulgaris,Amaranthaceae,Caryophyllales,21,15,10,5,5,7,Beta vulgaris,Hepatitis; Splenitis; Tonic; Laxative; Refrigerant,India
+5646125,Bergia suffruticosa,Elatinaceae,Malpighiales,2,2,2,1,1,2,Bergia odorata,Antidote(Scorpion),India(Gujarat)
+5567668,Bergenia pacumbis,Saxifragaceae,Saxifragales,3,3,1,3,3,1,Bergenia ligulata,Burn; Diarrhea(Veterinary); Wound,India
+8330218,Bergenia ciliata,Saxifragaceae,Saxifragales,3,3,1,3,3,1,Bergenia ciliata,Diarrhea; Ophthalmia; Tonic,Nepal
+7539048,Berberis asiatica,Berberidaceae,Ranunculales,14,14,1,14,14,3,Berberis asiatica,Alterative; Aperient; Diaphoretic; Ophthalmia; Piles; Refrigerant,India
+3982087,Berberis aristata,Berberidaceae,Ranunculales,12,10,6,6,5,6,Berberis aristata,Dermatosis; Eye; Fever(Malarial); Boil; Jaundice,India; Nepal
+5298546,Iris domestica,Iridaceae,Asparagales,55,38,7,4,2,10,Belamcanda chinensis,Purgative; Tonsillitis,Nepal
+2953251,Bauhinia variegata,Fabaceae,Fabales,23,12,6,7,5,8,Bauhinia variegata,Dermatosis; Ulcer; Tumor; Obesity; Tumor(Abdomen),India; Nepal
+2953031,Bauhinia tomentosa,Fabaceae,Fabales,2,2,2,1,1,2,Bauhinia tomentosa,Tumor,India
+2953871,Bauhinia purpurea,Fabaceae,Fabales,22,22,3,20,20,3,Bauhinia purpurea,Anasarca; Anodyne; Antidote(Alcohol); Antidote(Datura); Antidote(Fish); Bite(Snake),India(Santal)
+3083504,Basella alba,Basellaceae,Caryophyllales,13,13,3,4,4,4,Basella alba,Nose; Rhinitis; Sore; Syphilis,India(Santal)
+5544043,Buchanania cochinchinensis,Anacardiaceae,Sapindales,7,7,2,6,6,2,Buchanania latifolia,Burn; Cholera; Dysuria; Fever; Phthisis; Gingivitis,India(Santal)
+2985930,Kalanchoe pinnata,Crassulaceae,Saxifragales,55,41,11,1,1,9,Bryophyllum pinnatum,Tumor,India
+7317695,Diplocyclos palmatus,Cucurbitaceae,Cucurbitales,31,29,2,28,27,4,Bryonopsis laciniosa,Bite(Snake); Ague; Adenopathy; Anodyne; Bronchitis; Carbuncle,India; India(Santal)
+5555210,Brucea javanica,Simaroubaceae,Sapindales,6,5,5,1,1,2,Brucea sumatrana,Fever,India
+3076290,Bridelia stipularis,Phyllanthaceae,Malpighiales,3,3,2,2,2,2,Bridelia stipularis,Exudation; Pleuritis,India(Santal)
+5382985,Breynia vitis-idaea,Phyllanthaceae,Malpighiales,5,5,3,1,1,4,Breynia rhamnoides,Tumor,India
+3042845,Brassica oleracea,Brassicaceae,Brassicales,15,13,11,1,1,5,Brassica oleracea,Wart,India
+3047621,Sinapis alba,Brassicaceae,Brassicales,2,2,2,1,1,1,Brassica hirta,Tumor(Abdomen),India
+8426995,Brassica campestris,Brassicaceae,Brassicales,23,19,6,8,8,7,Brassica campestris,Bronchitis; Chill; Cold; Cough; Leprosy; Pneumonia,India(Santal)
+5421354,Boswellia serrata,Burseraceae,Sapindales,12,12,4,5,5,4,Boswellia serrata; Boswellia thurifera,Bite(Snake); Nerves; Pleurisy; Rinderpest; Rheumatism,India; India(Santal)
+8330171,Boswellia sacra,Burseraceae,Sapindales,21,20,6,1,1,3,Boswellia carteri,Gonorrhea,India
+2918203,Spermacoce articularis,Rubiaceae,Gentianales,10,10,5,3,3,4,Borreria articularis,Alterative; Coffee; Stimulant,India
+2733934,Borassus flabellifer,Arecaceae,Arecales,31,30,5,17,17,5,Borassus flabellifer,Ache(Ear); Ache(Head); Adenopathy; Anodyne; Epilepsy; Hemorrhage,India; India(Santal)
+3152226,Bombax ceiba,Malvaceae,Malvales,43,39,4,30,30,5,Bombax ceiba; Bombax malabaricum,Ache(Leg); Antidote(Centipede); Antidote(Scorpion); Antidote(Spider); Aphrodisiac; Atrophy,India; India(Santal)
+5391480,Calendula officinalis,Asteraceae,Asterales,56,36,14,1,1,12,Calendula officinalis,Wart,Pakistan
+2795298,Calanthe masuca,Orchidaceae,Asparagales,1,1,1,1,1,1,Calanthe masuca,Epistaxis,Nepal
+5294063,Calamus rotang,Arecaceae,Arecales,2,2,1,2,2,1,Calamus rotang,Convulsion; Spasm,India(Santal)
+7587087,Cajanus cajan,Fabaceae,Fabales,53,39,14,4,4,15,Cajanus cajan,Colic; Convulsion; Leprosy; Tumor(Abdomen),India; India(Santal)
+3094956,Caesulia axillaris,Asteraceae,Asterales,1,1,1,1,1,1,Caesulia axillaris,Alopecia,India(Santal)
+11973078,Ticanto crista,Fabaceae,Fabales,13,7,4,1,1,4,Caesalpinia nuga,Piscicide,India
+11211297,Caesalpinia coriaria,Fabaceae,Fabales,16,14,8,1,1,5,Caesalpinia coriaria,Fever,India
+8400302,Guilandina bonduc,Fabaceae,Fabales,35,27,15,3,3,7,Caesalpinia bonduc; Caesalpinia bonducella,Antiabortifacient; Febrifuge; Tonic,India
+3054234,Cadaba farinosa,Capparaceae,Brassicales,10,9,3,4,4,3,Cadaba farinosa,Deobstruent; Sore; Uteritis; Vermifuge,India
+3668959,Byttneria herbacea,Malvaceae,Malvales,11,11,2,10,10,2,Byttneria herbacea,Bite(Tiger); Cholera; Dysentery; Gravel; Syphilis; Dyslactation,India(Santal)
+7797090,Butea superba,Fabaceae,Fabales,4,4,2,3,3,2,Butea superba,Dysuria; Fever; Gravel,India(Santal)
+8234570,Butea monosperma,Fabaceae,Fabales,18,16,3,6,6,6,Butea monosperma,Fever; Gravel; Menorrhagia; Ophthalmia; Dysentery; Tumor,India; India(Gujarat); India(Santal)
+3993153,Protium serratum,Burseraceae,Sapindales,2,2,1,2,2,1,Bursera serrata,Cholera; Rinderpest,India(Santal)
+4055437,Buddleja macrostachya,Scrophulariaceae,Lamiales,1,1,1,1,1,1,Buddleja macrostachya,Masticatory,India
+3173333,Buddleja asiatica,Scrophulariaceae,Lamiales,13,9,6,3,3,7,Buddleja asiatica,Abortifacient; Dermatosis; Inflammation,India; Nepal
+5414419,Carissa carandas,Apocynaceae,Gentianales,16,16,2,12,12,2,Carissa carandas,Bite(Dog); Collapse; Dropsy; Epilepsy; Hemiplegia; Madness,India(Santal)
+2874484,Carica papaya,Caricaceae,Brassicales,117,69,29,3,3,20,Carica papaya,Corn; Wart; Bactericide,India; Sri Lanka
+3083448,Careya arborea,Lecythidaceae,Ericales,21,17,4,6,6,5,Careya arborea,Anus; Bite(Snake); Cough; Fistula; Prolapse; Cold,India(Gujarat); India(Santal)
+3189939,Cardiospermum halicacabum,Sapindaceae,Sapindales,36,24,13,2,1,8,Cardiospermum halicacabum,Tumor,India; Pakistan
+3873929,Carallia brachiata,Rhizophoraceae,Malpighiales,9,7,5,2,2,3,Carallia brachiata,Throat; Stomatitis,India
+8403992,Capsicum frutescens,Solanaceae,Solanales,84,53,13,10,10,17,Capsicum frutescens,Antidote(Poison); Dysuria; Fumitory; Scald; Sore; Tumor,India; India(Santal)
+5601836,Capparis zeylanica,Capparaceae,Brassicales,16,14,2,9,9,3,Capparis zeylanica,Cholera; Colic; Neuralgia; Pleurisy; Rheumatism; Swelling,India(Santal)
+8117136,Canthium parviflorum,Rubiaceae,Gentianales,4,4,3,1,1,1,Canthium parviflorum,Vermifuge,India
+5361880,Cannabis sativa,Cannabaceae,Rosales,119,73,20,17,15,31,Cannabis sativa,Tumor; Cold; Ear; Narcotic; Paralysis; Epilepsy,India; India(Santal); Pakistan
+8034409,Canna indica,Cannaceae,Zingiberales,22,10,11,5,5,6,Canna indica,Antidote; Diaphoretic; Diuretic; Dropsy; Fever,India
+7799711,Canavalia ensiformis,Fabaceae,Fabales,13,10,6,1,1,8,Canavalia ensiformis,Anodyne,India(Santal)
+5414566,Calotropis procera,Apocynaceae,Gentianales,42,37,11,11,11,13,Calotropis procera,Epilepsy; Hemiplegia; Labor; Leprosy; Parturition; Rheumatism,India; India(Santal)
+3579089,Calotropis gigantea,Apocynaceae,Gentianales,76,66,14,44,43,7,Calotropis gigantea,Boil; Ache(Loin); Ache(Leg); Bite(Dog); Cholera; Convulsion,India; India(Santal)
+5609508,Callicarpa macrophylla,Lamiaceae,Lamiales,6,6,2,3,3,3,Callicarpa macrophylla,Dysentery; Stomatitis; Glossitis,India; India(Santal)
+7614428,Callicarpa lanata,Lamiaceae,Lamiales,10,8,3,1,1,2,Callicarpa lanata,Masticatory,Sri Lanka
+3085191,Celosia argentea,Amaranthaceae,Caryophyllales,52,35,7,5,5,12,Celosia argentea,Diarrhea; Eye; Sore; Depurative; Stomatitis,India
+7265565,Celastrus paniculatus,Celastraceae,Celastrales,9,9,2,6,6,3,Celastrus paniculatus,Anemia; Anodyne; Carbuncle; Syphilis; Colic; Sore,India(Gujarat); India(Santal)
+3169830,Catharanthus roseus,Apocynaceae,Gentianales,67,40,20,1,1,14,Catharanthus roseus,Cardiotonic,India
+3033999,Cassytha filiformis,Lauraceae,Laurales,15,15,5,2,2,5,Cassytha filiformis,Anasarca; Dropsy,India(Santal)
+2957728,Senna tora,Fabaceae,Fabales,61,43,10,10,9,16,Cassia tora,Tumor; Cold; Parasiticide; Scabies; Ringworm; Sore,India; India(Santal); Sri Lanka
+2957379,Senna sophera,Fabaceae,Fabales,12,12,5,1,1,5,Cassia sophera,Tumor(Abdomen),India
+2957966,Senna occidentalis,Fabaceae,Fabales,176,79,33,6,4,27,Cassia occidentalis,Dermatosis; Purgative; Scabies; Skin,India(Gujarat); Nepal
+2957408,Senna obtusifolia,Fabaceae,Fabales,13,10,4,6,3,4,Cassia obtusifolia,Dermatosis; Leprosy; Tumor,Nepal
+5357108,Cassia fistula,Fabaceae,Fabales,33,24,9,12,12,12,Cassia fistula,Burn; Cancer; Convulsion; Diarrhea; Dysuria; Epilepsy,India; India(Santal)
+6043389,Casearia tomentosa,Salicaceae,Malpighiales,20,19,2,15,15,3,Casearia tomentosa,Anodyne; Bite(Dog); Bite(Snake); Breast; Colic; Fever,India(Santal)
+11442972,Psammogeton involucratum,Apiaceae,Apiales,5,5,2,4,4,2,Carum roxburghianum; Trachyspermum roxburghianum,Dyspepsia; Stimulant; Tumor; Cardiotonic,India
+7741980,Carum copticum,Apiaceae,Apiales,4,4,3,2,2,2,Carum copticum,Fungicide; Bactericide,India
+3034714,Carum carvi,Apiaceae,Apiales,32,26,7,10,10,9,Carum carvi,Bactericide; Cholera; Fistula; Fungicide; Laxative; Prolapse,India; India(Santal)
+3034501,Bunium bulbocastanum,Apiaceae,Apiales,2,2,1,2,2,1,Carum bulbocastanum,Carminative; Repellant(Insect),India
+3138327,Carthamus tinctorius,Asteraceae,Asterales,70,47,13,3,3,18,Carthamus tinctorius,Bactericide; Fungicide; Candida,India
+3033991,Cinnamomum camphora,Lauraceae,Laurales,55,42,6,4,3,11,Cinnamomum camphora,Anthelminthic; Carminative; Stimulant,Nepal
+2901375,Cinchona calisaya,Rubiaceae,Gentianales,17,12,5,1,1,7,Cinchona calisaya,Bactericide,India
+5392252,Cichorium intybus,Asteraceae,Asterales,41,20,20,1,1,11,Cichorium intybus,Tonic,India
+3150814,Chrysanthemum indicum,Asteraceae,Asterales,29,25,6,1,1,8,Chrysanthemum indicum,Head,India
+11213051,Chrysanthemum cinerariaefolium,Asteraceae,Asterales,16,8,8,4,2,6,Chrysanthemum cinerariaefolium,Insecticide; Toxic,Nepal
+3054492,Chrozophora rottleri,Euphorbiaceae,Malpighiales,3,3,1,3,3,1,Chrozophora rottleri,Cough; Purgative; Depurative,India
+3661517,Choerospondias axillaris,Anacardiaceae,Sapindales,2,1,1,2,1,2,Choerospondias axillaris,Cold,Nepal
+2774912,Chlorophytum tuberosum,Asparagaceae,Asparagales,1,1,1,1,1,1,Chlorophytum tuberosum,Tonic,India
+7173530,Cheilanthes tenuifolia,Pteridaceae,Polypodiales,2,2,2,1,1,2,Cheilanthes tenuifolia,Medicine,India(Santal)
+3576063,Ceropegia bulbosa,Apocynaceae,Gentianales,3,3,2,1,1,2,Ceropegia bulbosa,Refrigerant,India(Gujarat)
+3087253,Baccharoides anthelmintica,Asteraceae,Asterales,11,11,2,10,10,4,Centratherum anthelminticum; Vernonia anthelmintica,Abortifacient; Cholera; Diuretic; Dysuria; Laxative; Skin,India; India(Santal)
+7896584,Centratherum anthelmintica,Asteraceae,Asterales,1,1,1,1,1,1,Centratherum anthelmintica,Asthma,India(Gujarat)
+5391292,Centipeda minima,Asteraceae,Asterales,21,20,3,3,3,4,Centipeda minima,Epilepsy; Epididymitis; Hydrocoele,India(Santal)
+3034128,Centella asiatica,Apiaceae,Apiales,64,41,13,16,13,11,Centella asiatica,Diuretic; Tonic; Leprosy; Eye; Fever; Insecticide,India
+8157807,Centaurium centaurioides,Gentianaceae,Gentianales,4,3,1,4,3,2,Centaurium roxburghii; Erythraea roxburghii,Fever; Stomachic; Tonic,India; India(Santal)
+3128483,Centaurea calcitrapa,Asteraceae,Asterales,14,13,10,3,3,4,Centaurea calcitrapa,Fistula; Gravel; Stone,India
+8355397,Clerodendrum serratum,Lamiaceae,Lamiales,33,27,5,14,14,3,Clerodendrum serratum,Anasarca; Bite(Snake); Cholera; Fever; Hemiplegia; Labor,India(Santal)
+3892486,Clerodendrum infortunatum,Lamiaceae,Lamiales,12,12,2,5,5,3,Clerodendrum infortunatum,Convulsion; Gravel; Sore; Spasm; Tumor(Abdomen),India; India(Santal)
+2925349,Clerodendrum indicum,Lamiaceae,Lamiales,24,20,3,13,11,5,Clerodendrum indicum; Clerodendrum siphonanthus,Fever; Thirst; Atrophy; Cachexia; Bronchitis; Cough,India; India(Santal)
+6370562,Arivela viscosa,Cleomaceae,Brassicales,17,15,8,9,8,8,Cleome viscosa; Polanisia viscosa,Ache(Head); Ache(Ear); Counterirritant; Diarrhea; Fever; Wound,India; India(Gujarat); India(Santal)
+3054227,Gynandropsis gynandra,Cleomaceae,Brassicales,40,30,8,4,4,10,Cleome gynandra; Gynandropsis gynandra; Gynandropsis pentaphylla,Eye; Skin; Wound; Tumor(Abdomen),India; India(Gujarat); India(Santal)
+7411662,Corynandra felina,Cleomaceae,Brassicales,3,3,2,1,1,2,Cleome felina,Tumor(Abdomen),India
+6376216,Clematis montana,Ranunculaceae,Ranunculales,8,8,2,2,2,2,Clematis montana,Cold; Cough,India
+3190157,Citrus medica,Rutaceae,Sapindales,29,24,10,7,7,8,Citrus medica,Cough; Diarrhea; Nausea; Syphilis; Tumor(Abdomen); Colic,India; India(Santal)
+8077391,Citrus aurantium,Rutaceae,Sapindales,108,76,13,3,3,23,Citrus aurantium,Ache(Stomach); Megalospleny; Menorrhagia,India(Santal)
+3190164,Citrus aurantiifolia,Rutaceae,Sapindales,56,42,15,1,1,9,Citrus aurantiifolia,Tumor(Abdomen),India
+2874622,Citrullus colocynthis,Cucurbitaceae,Cucurbitales,32,19,9,1,1,9,Citrullus colocynthis,Tumor(Abdomen),India
+4052376,Cissus adnata,Vitaceae,Vitales,19,18,4,10,10,4,Cissus adnata,Bite(Bear); Bite(Tiger); Carbuncle; Diarrhea; Menorrhagia; Sore,India(Santal)
+3033937,Cissampelos pareira,Menispermaceae,Ranunculales,95,60,10,23,22,18,Cissampelos pareira,Wound; Bite(Dog); Bronchitis; Chill; Cold; Boil,India; India(Bhil); India(Santal)
+3033987,Cinnamomum verum,Lauraceae,Laurales,28,26,8,3,3,6,Cinnamomum verum,Asthma; Tumor(Abdomen); Phthisis,India; India(Santal)
+9128079,Cinnamomum tamala,Lauraceae,Laurales,7,7,3,4,4,4,Cinnamomum tamala,Aromatic; Astringent; Sore; Tumor(Abdomen),India; India(Santal); Nepal
+8344668,Combretum latifolium,Combretaceae,Myrtales,1,1,1,1,1,1,Combretum latifolium,Abscess,India
+3699211,Combretum decandrum,Combretaceae,Myrtales,5,5,2,1,1,2,Combretum decandrum,Burn,India(Santal)
+3884974,Colebrookea oppositifolia,Lamiaceae,Lamiales,3,3,2,1,1,1,Colebrookea oppositifolia,Epilepsy,India(Santal)
+4059906,Coldenia procumbens,Coldeniaceae,Boraginales,12,5,4,4,4,4,Coldenia procumbens,Boil; Rheumatism; Swelling; Suppurative,India
+2706301,Coix lacryma-jobi,Poaceae,Poales,79,56,14,14,13,20,Coix lacryma-jobi; Coix lacrymajobi,Fever; Anthrax; Diuretic; Dysentery; Litholytic; Metroxenia,India; India(Santal)
+2811454,Coelogyne ovalis,Orchidaceae,Asparagales,1,1,1,1,1,1,Coelogyne ovalis,Tumor(Abdomen),India
+2735117,Cocos nucifera,Arecaceae,Arecales,148,93,21,5,5,21,Cocos nucifera,Astringent; Dentifrice; Gargle; Hemostatic; Mouthwash,India
+2874867,Cochlospermum religiosum,Cochlospermaceae,Malvales,3,3,1,3,3,1,Cochlospermum religiosum,Fistula; Sore; Tubercle,India(Santal)
+3830806,Cocculus pendulus,Menispermaceae,Ranunculales,5,4,3,2,2,2,Cocculus leaeba,Diuretic; Tonic,India
+3829491,Cocculus hirsutus,Menispermaceae,Ranunculales,10,10,2,2,2,2,Cocculus hirsutus,Fever; Ophthalmia,India(Gujarat)
+2874564,Coccinia grandis,Cucurbitaceae,Cucurbitales,7,7,2,4,4,2,Coccinia indica,Catarrh; Bronchitis; Diabetes; Skin,India
+8364646,Cucumis maderaspatanus,Cucurbitaceae,Cucurbitales,3,3,1,3,3,3,Coccinia cordifolia,Diabetes; Scrofula; Convulsion,India(Gujarat); India(Santal)
+2946519,Clitoria ternatea,Fabaceae,Fabales,28,18,8,1,1,8,Clitoria ternatea,Tumor(Abdomen),India
+2853796,Crinum asiaticum,Amaryllidaceae,Asparagales,30,24,10,3,2,8,Crinum asiaticum; Crinum bracteatum,Whitlow; Ipecac,India
+5415081,Crescentia cujete,Bignoniaceae,Lamiales,121,67,16,1,1,23,Crescentia cujete,Pectoral,India
+3054263,Crateva religiosa,Capparaceae,Brassicales,14,13,5,6,6,6,Crateva religiosa,Alopecia; Apertif; Epididymitis; Hydrocoele; Laxative; Tumor(Abdomen),India; India(Santal)
+5592750,Coscinium fenestratum,Menispermaceae,Ranunculales,11,11,3,2,2,3,Coscinium fenestratum,Candida; Fungicide,India
+3034871,Coriandrum sativum,Apiaceae,Apiales,73,43,13,5,5,17,Coriandrum sativum,Sore; Splenitis; Syphilis; Venereal; Tumor(Abdomen),India; India(Santal)
+5661642,Cordia macleodii,Cordiaceae,Boraginales,1,1,1,1,1,1,Cordia macleodii,Gravel,India(Santal)
+3152084,Corchorus olitorius,Malvaceae,Malvales,10,10,5,2,2,4,Corchorus olitorius,Dysentery; Fever,India
+3152092,Corchorus aestuans,Malvaceae,Malvales,4,4,2,2,2,2,Corchorus aestuans,Pneumonia; Stomachic,India
+3687038,Connarus grandis,Connaraceae,Oxalidales,4,4,2,1,1,2,Connarus grandis,Medicine,India
+3992808,Commiphora wightii,Burseraceae,Sapindales,38,33,4,2,2,6,Commiphora mukul,Sore(Throat); Tumor,India
+2764382,Commelina suffruticosa,Commelinaceae,Commelinales,1,1,1,1,1,1,Commelina suffruticosa,Menorrhagia,India(Santal)
+2764202,Commelina diffusa,Commelinaceae,Commelinales,14,14,5,1,1,4,Commelina diffusa,Boil,India
+3698309,Combretum micranthum,Combretaceae,Myrtales,2,2,1,2,2,1,Combretum raimbaultii,Astringent; Antidote(Opium),India
+8254388,Combretum nanum,Combretaceae,Myrtales,5,5,1,5,5,1,Combretum nanum,Dysentery; Stomach; Cholera; Colic; Megalospleny,India(Santal)
+2757624,Curcuma longa,Zingiberaceae,Zingiberales,183,120,16,45,43,23,Curcuma domestica; Curcuma longa,Cold; Depurative; Anodyne; Anthrax; Anus; Blindness,India; India(Santal); Nepal
+2757544,Curcuma aromatica,Zingiberaceae,Zingiberales,12,12,4,5,5,5,Curcuma aromatica,Bactericide; Candida; Carminative; Fungicide; Tonic,India
+2757542,Curcuma angustifolia,Zingiberaceae,Zingiberales,5,5,2,3,3,2,Curcuma angustifolia,Diarrhea; Fever; Gravel,India(Santal)
+2853024,Curculigo orchioides,Hypoxidaceae,Asparagales,17,17,4,1,1,4,Curculigo orchioides,Whitlow,India
+3034775,Cuminum cyminum,Apiaceae,Apiales,26,22,8,1,1,7,Cuminum cyminum,Tumor(Abdomen),India
+2874569,Cucumis sativus,Cucurbitaceae,Cucurbitales,25,18,10,2,2,9,Cucumis sativus,Pneumonia; Ache(Head),India; India(Santal)
+3170473,Cryptostegia grandiflora,Apocynaceae,Gentianales,2,2,2,1,1,2,Cryptostegia grandiflora,Fatality,India
+2869170,Cryptocoryne spiralis,Araceae,Alismatales,4,4,1,4,4,1,Cryptocoryne spiralis,Abdomen; Fever; Cough; Nausea,Sri Lanka
+8056545,Croton oblongifolius,Euphorbiaceae,Malpighiales,31,31,2,29,29,3,Croton oblongifolius,Ache(Head); Antidote(Crocodile); Bite(Dog); Bite(Snake); Cholera; Convulsion,India; India(Santal)
+2941944,Crotalaria calycina,Fabaceae,Fabales,11,11,1,11,11,1,Crotalaria calycina,Anodyne; Convulsion; Hematuria; Sore; Syphilis; Wound,India(Santal)
+2898652,Crossopteryx febrifuga,Rubiaceae,Gentianales,2,2,2,1,1,1,Crossopteryx kotschyana,Fumigant,India
+2747430,Crocus sativus,Iridaceae,Asparagales,68,44,11,1,1,13,Crocus sativus,Tumor(Abdomen),India
+2853901,Crinum latifolium,Amaryllidaceae,Asparagales,9,7,3,5,5,4,Crinum latifolium,Rheumatism; Rubefacient; Tubercle; Whitlow; Fistula,India; India(Santal)
+2706188,Dactyloctenium aegyptium,Poaceae,Poales,11,9,4,6,6,3,Dactyloctenium aegyptium,Anodyne; Childbirth; Kidney; Sore; Ache(Stomach); Cyanogenetic,India
+2716774,Cyperus scariosus,Cyperaceae,Poales,1,1,1,1,1,1,Cyperus scariosus,Tumor(Abdomen),India
+2714818,Cyperus rotundus,Cyperaceae,Poales,91,63,14,5,5,15,Cyperus rotundus,Astringent; Bowel; Stomach; Tumor(Abdomen); Vermifuge,India
+2715729,Cyperus iria,Cyperaceae,Poales,8,4,1,8,4,2,Cyperus iria,Astringent; Stimulant; Stomachic; Tonic,India
+6109637,Cynodon dactylon,Poaceae,Poales,60,37,11,25,18,14,Cynodon dactylon,Diuretic; Dysentery; Wound; Hysteria; Anasarca; Ache(Head),India; India(Santal); Nepal
+10675257,Vincetoxicum zeylanicum,Apocynaceae,Gentianales,1,1,1,1,1,1,Cynanchum micranthum,Medicine,India
+5526065,Vincetoxicum arnottianum,Apocynaceae,Gentianales,5,4,2,2,2,2,Cynanchum arnottianum,Maggot; Wound,India
+2705269,Cymbopogon schoenanthus,Poaceae,Poales,9,8,4,1,1,4,Cymbopogon schoenanthus,Medicine,India
+4138713,Cymbopogon martini,Poaceae,Poales,1,1,1,1,1,1,Cymbopogon martinii,Medicine,Nepal
+8113438,Cymbidium tenuifolium,Orchidaceae,Asparagales,2,1,2,1,1,1,Cymbidium tenuifolium,Tumor,India
+2947098,Paracalyx scariosus,Fabaceae,Fabales,5,4,2,1,1,2,Cylista scariosa,Tumor,India
+3169317,Cyclamen persicum,Primulaceae,Ericales,3,2,3,1,1,3,Cyclamen persicum,Piscicide,India
+2927545,Cuscuta reflexa,Convolvulaceae,Solanales,7,7,3,2,2,3,Cuscuta reflexa,Ache(Stomach); Pediculicide,India
+3610749,Cuscuta chinensis,Convolvulaceae,Solanales,17,17,2,6,6,3,Cuscuta chinensis,Anasarca; Cancer; Fracture; Pregnancy; Rinderpest; Dropsy,India(Santal)
+2757545,Curcuma zedoaria,Zingiberaceae,Zingiberales,24,19,8,1,1,5,Curcuma zedoaria,Stomachic,India
+3180140,Decaspermum fruticosum,Myrtaceae,Myrtales,6,5,3,3,3,2,Decaspermum fruticosum,Ache(Stomach); Astringent; Dysentery,India
+3572228,Decalepis hamiltonii,Apocynaceae,Gentianales,4,4,1,4,4,2,Decalepis hamiltonii,Apertif; Bactericide; Depurative; Poison,India
+2928751,Datura stramonium,Solanaceae,Solanales,143,66,29,15,11,29,Datura stramonium,Sedative; Dandruff; Asthma; Gum; Homicide; Pyorrhea,India; Nepal
+5341760,Brugmansia sanguinea,Solanaceae,Solanales,1,1,1,1,1,1,Datura sanguinea,Narcotic,India
+2928747,Datura metel,Solanaceae,Solanales,108,69,17,44,39,17,Datura fastuosa; Datura metel,Tumor; Sore; Cough; Spasm; Anodyne; Anasarca,India; India(Gujarat); India(Hindu); India(Santal); Pakistan
+2928755,Datura innoxia,Solanaceae,Solanales,22,18,3,22,18,5,Datura innoxia; Datura inoxia,Sedative; Asthma; Tumor; Ache(Ear); Anesthetic; Demulcent,India; Nepal; Pakistan
+7311442,Daphne bholua,Thymelaeaceae,Malvales,1,1,1,1,1,1,Daphne bholua,Intestine,India
+2968408,Dalbergia volubilis,Fabaceae,Fabales,4,4,1,4,4,1,Dalbergia volubilis,Apthae; Gargle; Sore(Throat); Gonorrhea,India
+2968703,Dalbergia horrida,Fabaceae,Fabales,3,2,2,2,2,2,Dalbergia sympathetica,Pimple; Alterative,India
+2968852,Dalbergia stipulacea,Fabaceae,Fabales,2,2,2,1,1,2,Dalbergia stipulacea,Piscicide,India
+2968532,Dalbergia sissoo,Fabaceae,Fabales,4,4,1,4,4,1,Dalbergia sissoo,Excoriation; Gonorrhea; Skin; Stimulant,India
+2968458,Dalbergia reniformis,Fabaceae,Fabales,1,1,1,1,1,1,Dalbergia reniformis,Alcoholism,India
+2968662,Dalbergia latifolia,Fabaceae,Fabales,8,8,1,8,8,2,Dalbergia latifolia,Ache(Stomach); Diarrhea; Dysentery; Dyspepsia; Leprosy; Obesity,India; India(Santal)
+2940397,Dalbergia lanceolaria,Fabaceae,Fabales,2,2,1,2,2,1,Dalbergia lanceolaria,Dyspepsia; Rheumatism,India
+11440699,Desmodium gangeticum,Fabaceae,Fabales,20,19,4,10,10,6,Desmodium gangeticum,Alterative; Dysentery; Febrifuge; Tumor(Abdomen); Catarrh; Diuretic,India; India(Santal)
+2946831,Dendrolobium triangulare,Fabaceae,Fabales,4,4,1,4,4,1,Desmodium cephalotes,Blindness; Cataract; Diarrhea; Ache(Stomach),India(Santal)
+5350336,Derris trifoliata,Fabaceae,Fabales,10,8,5,1,1,4,Derris trifoliata,Piscicide,India
+5350354,Derris polyantha,Fabaceae,Fabales,1,1,1,1,1,1,Derris polyantha,Piscicide,India
+5350229,Derris montana,Fabaceae,Fabales,7,3,3,1,1,6,Derris malaccensis,Piscicide,India
+2956062,Piscidia grandifolia,Fabaceae,Fabales,1,1,1,1,1,1,Derris grandifolia,Piscicide,India
+5350303,Derris ferruginea,Fabaceae,Fabales,2,2,1,2,2,2,Derris ferruginea,Insecticide; Piscicide,India
+5350305,Derris elliptica,Fabaceae,Fabales,16,8,10,2,2,8,Derris elliptica,Insecticide; Piscicide,India
+5350223,Derris cuneifolia,Fabaceae,Fabales,1,1,1,1,1,1,Derris cuneifolia,Piscicide,India
+4001649,Dendrophthoe pentandra,Loranthaceae,Santalales,1,1,1,1,1,1,Dendrophthoe pentandra,Sore,India
+7595217,Dendrophthoe falcata,Loranthaceae,Santalales,4,4,1,4,4,1,Dendrophthoe falcata,Tuberculosis; Menoxenia; Asthma; Mania,India
+7276704,Delphinium denudatum,Ranunculaceae,Ranunculales,5,5,1,5,5,2,Delphinium denudatum,Stimulant; Tonic; Ache(Tooth); Alterative; Sore,India
+3033836,Delphinium consolida,Ranunculaceae,Ranunculales,18,15,3,1,1,3,Delphinium consolida,Insecticide,India
+3923806,Delphinium altissimum,Ranunculaceae,Ranunculales,2,2,1,2,2,1,Delphinium altissimum,Swelling; Adenopathy,India
+2956174,Delonix elata,Fabaceae,Fabales,4,4,2,2,2,1,Delonix elata,Rheumatism; Carminative,India
+3675567,Deeringia amaranthoides,Amaranthaceae,Caryophyllales,3,3,2,2,2,2,Deeringia amaranthoides,Sore; Sternutatory,India
+4118131,Dinochloa andamanica,Poaceae,Poales,2,2,1,2,2,1,Dinochloa andamanica,Scurfiness; Vermifuge,India
+8198329,Dillenia scabrella,Dilleniaceae,Dilleniales,1,1,1,1,1,1,Dillenia scabrella,Sore,India(Santal)
+5681100,Dillenia pentagyna,Dilleniaceae,Dilleniales,7,7,1,7,7,1,Dillenia pentagyna,Carbuncle; Pleurisy; Pneumonia; Tubercle; Fistula; Neuralgia,India(Santal)
+5383898,Dillenia indica,Dilleniaceae,Dilleniales,9,9,2,6,6,3,Dillenia indica,Carbuncle; Cholera; Abdomen; Ache(Stomach); Antidote(Mercury); Astringent,India; India(Santal)
+5414995,Digitalis purpurea,Plantaginaceae,Lamiales,30,19,11,5,3,12,Digitalis purpurea,Stimulant(Cardio); Tonic; Cardiotonic,India; Nepal
+5414989,Digitalis lanata,Plantaginaceae,Lamiales,15,8,5,5,3,5,Digitalis lanata,Stimulant(Cardio); Tonic; Cardiotonic,India; Nepal
+6429755,Digera muricata,Amaranthaceae,Caryophyllales,3,2,1,3,2,2,Digera alternifolia; Digera muricata,Urogenital; Laxative,India
+3103375,Dicoma tomentosa,Asteraceae,Asterales,4,3,3,1,1,2,Dicoma tomentosa,Fever,India
+2975891,Dichrostachys cinerea,Fabaceae,Fabales,9,8,4,6,6,4,Dichrostachys cinerea,Astringent; Ophthalmia; Renitis; Stone; Rheumatism; Urogenital,India
+8682693,Hydrangea febrifuga,Hydrangeaceae,Cornales,17,9,5,2,2,7,Dichroa febrifuga,Emetic; Febrifuge,India
+3815183,Dianthus anatolicus,Caryophyllaceae,Caryophyllales,2,2,1,2,2,1,Dianthus anatolicus,Malaria; Fever,India
+8365251,Dianella ensifolia,Asphodelaceae,Asparagales,7,6,3,1,1,3,Dianella ensifolia,Herpes,India
+3155178,Desmos cochinchinensis,Annonaceae,Magnoliales,2,1,2,1,1,2,Desmos cochinchinensis,Fever,India
+2950828,Tadehagi triquetrum,Fabaceae,Fabales,2,1,2,1,1,2,Desmodium triquetrum,Piles,India
+11593609,Desmodium laxiflorum,Fabaceae,Fabales,2,2,2,1,1,2,Desmodium laxiflorum,Medicine,India
+3032984,Diospyros kaki,Ebenaceae,Ericales,27,24,4,3,3,5,Diospyros kaki,Cough; Dypsnoea; Coffee,India
+7466003,Diospyros embryopteris,Ebenaceae,Ericales,10,9,2,1,1,3,Diospyros embryopteris,Tumor,India
+3032979,Diospyros ebenum,Ebenaceae,Ericales,9,8,3,4,4,3,Diospyros ebenum,Astringent; Lithontriptic; Piscicide; Attenuant,India
+4069970,Diospyros candolleana,Ebenaceae,Ericales,2,2,1,2,2,1,Diospyros candolleana,Swelling; Rheumatism,India
+2755738,Dioscorea prazeri,Dioscoreaceae,Dioscoreales,5,3,2,3,3,2,Dioscorea prazeri,Piscicide; Shampoo; Pediculicide,India
+2754423,Dioscorea pentaphylla,Dioscoreaceae,Dioscoreales,5,5,1,5,5,2,Dioscorea pentaphylla,Dropsy; Poison; Anasarca; Swelling; Tonic,India; India(Santal)
+2754965,Dioscorea oppositifolia,Dioscoreaceae,Dioscoreales,11,11,2,6,6,3,Dioscorea oppositifolia,Epididymitis; Orchitis; Sore; Swelling; Dysentery; Hydrocoele,India; India(Santal)
+2755784,Dioscorea hispida,Dioscoreaceae,Dioscoreales,18,14,6,7,7,5,Dioscorea hispida,Bite(Dog); Boil; Poison; Poison(Arrow); Sore; Whitlow,India; India(Santal)
+2754476,Dioscorea alata,Dioscoreaceae,Dioscoreales,9,8,4,5,5,3,Dioscorea alata; Dioscorea globosa,Gonorrhea; Leprosy; Piles; Tumor(Abdomen); Vermifuge,India
+2755704,Dioscorea floribunda,Dioscoreaceae,Dioscoreales,6,3,1,6,3,2,Dioscorea floribunda,Contraceptive; Laxative; Piscicide,Nepal
+2755195,Dioscorea esculenta,Dioscoreaceae,Dioscoreales,3,2,3,1,1,2,Dioscorea esculenta,Swelling,India
+2755586,Dioscorea deltoidea,Dioscoreaceae,Dioscoreales,8,4,3,5,3,4,Dioscorea deltoidea,Contraceptive; Piscicide; Shampoo,India; Nepal
+2755489,Dioscorea bulbifera,Dioscoreaceae,Dioscoreales,23,18,7,6,5,10,Dioscorea bulbifera; Dioscorea crispata,Dysentery; Madness; Sore; Syphilis; Piles,India; India(Santal)
+7753672,Dioscorea aculeata,Dioscoreaceae,Dioscoreales,2,2,2,1,1,1,Dioscorea aculeata,Tumor(Abdomen),India
+3142981,Doronicum falconeri,Asteraceae,Asterales,2,2,1,2,2,2,Doronicum falconeri,Depression; Tonic,India
+8628529,Ferula ammoniacum,Apiaceae,Apiales,20,13,6,1,1,5,Dorema ammoniacum,Incense,India
+3172487,Dolichandrone spathacea,Bignoniaceae,Lamiales,4,3,2,2,2,2,Dolichandrone spathacea,Antiseptic; Spasm,India
+4091174,Dolichandrone falcata,Bignoniaceae,Lamiales,3,2,2,1,1,2,Dolichandrone falcata,Piscicide,India
+5421144,Dodonaea viscosa,Sapindaceae,Sapindales,42,22,9,10,10,10,Dodonaea viscosa,Astringent; Fever; Piscicide; Rheumatism; Sore; Sprain,India
+4097195,Dipterocarpus turbinatus,Dipterocarpaceae,Malvales,5,4,2,4,4,3,Dipterocarpus turbinatus,Gonorrhea; Leprosy; Psoriasis; Skin,India
+4096596,Dipterocarpus alatus,Dipterocarpaceae,Malvales,3,3,2,1,1,2,Dipterocarpus alatus,Gonorrhea,India
+2886375,Diploknema butyracea,Sapotaceae,Ericales,32,31,1,32,31,2,Diploknema butyracea; Madhuca butyracea,Rheumatism; Blood; Aphrodisiac; Carminative; Diabetes; Ear,India; India(Ayurvedic)
+7268813,Diploclisia glaucescens,Menispermaceae,Ranunculales,3,3,1,3,3,1,Diploclisia glaucescens,Bilious; Gonorrhea; Syphilis,India
+2768242,Dipcadi erythraeum,Asparagaceae,Asparagales,4,2,2,2,2,2,Dipcadi erythraeum,Cough; Expectorant,India
+3032986,Diospyros virginiana,Ebenaceae,Ericales,24,19,3,1,1,4,Diospyros virginiana,Tumor,India
+7295871,Diospyros toposia,Ebenaceae,Ericales,1,1,1,1,1,1,Diospyros toposia,Ache(Tooth),India
+7295796,Diospyros malabarica,Ebenaceae,Ericales,15,14,1,15,14,2,Diospyros peregrina,Dysentery; Aphthaee; Bactericide; Cholera; Diarrhea; Fever,India; India(Santal)
+4071425,Diospyros paniculata,Ebenaceae,Ericales,6,6,1,6,6,1,Diospyros paniculata,Bilious; Blood; Gonorrhea; Piscicide; Sore; Depurative,India
+4070768,Diospyros montana,Ebenaceae,Ericales,11,11,1,11,11,2,Diospyros montana,Antidote(Spider); Diarrhea; Dysuria; Menorrhagia; Neuralgia; Pneumonia,India; India(Santal)
+7715874,Diospyros melanoxylon,Ebenaceae,Ericales,16,15,2,6,6,2,Diospyros melanoxylon,Astringent; Mental; Nerves; Insanity; Palpitation; Intoxicant,India; India(Hindu)
+5576253,Ecbolium ligustrinum,Acanthaceae,Lamiales,7,7,2,6,6,2,Ecbolium linneanum,Dysuria; Jaundice; Menorrhagia; Rheumatism; Stricture; Gout,India
+3852884,Dysoxylum malabaricum,Meliaceae,Sapindales,3,3,1,3,3,1,Dysoxylum malabaricum,Ear; Eye; Rheumatism,India
+11629708,Didymocheton mollissimus,Meliaceae,Sapindales,1,1,1,1,1,1,Dysoxylum hamiltonii,Ache(Stomach),India
+7308947,Pogostemon auricularius,Lamiaceae,Lamiales,4,4,4,1,1,3,Dysophylla auricularia,Stomach,India
+2925655,Duranta erecta,Verbenaceae,Lamiales,7,6,5,1,1,5,Duranta repens,Larvicide,India
+3075623,Drypetes longifolia,Putranjivaceae,Malpighiales,1,1,1,1,1,1,Drypetes macrophylla,Poison,India
+3075857,Drypetes confertiflora,Putranjivaceae,Malpighiales,1,1,1,1,1,1,Drypetes confertiflora,Piscicide,India
+7126715,Drynaria quercifolia,Polypodiaceae,Polypodiales,10,8,5,1,1,4,Drynaria quercifolia,Astringent,India
+5384509,Drymaria cordata,Caryophyllaceae,Caryophyllales,12,10,8,2,2,7,Drymaria cordata,Laxative; Fever,India
+3190855,Drosera peltata,Droseraceae,Caryophyllales,12,12,3,4,4,4,Drosera peltata,Alterative; Vesicant; Syphilis; Tonic,India; India(Ayurvedic)
+3191227,Drosera spatulata,Droseraceae,Caryophyllales,2,1,2,1,1,2,Drosera burmanni,Rubefacient,India
+12202584,Stephanotis volubilis,Apocynaceae,Gentianales,11,11,2,5,5,3,Dregea volubilis,Bite(Dog); Bite(Snake); Rabies; Tumor; Lactogogue,India; India(Santal)
+5330699,Dracontium polyphyllum,Araceae,Alismatales,8,6,2,3,3,2,Dracontium polyphyllum,Asthma; Emmenagogue; Piles,India
+2927222,Dracocephalum moldavica,Lamiaceae,Lamiales,6,6,2,5,5,2,Dracocephalum moldavica,Astringent; Demulcent; Fever; Tonic; Vulnerary,India
+3142993,Doronicum kamaonense,Asteraceae,Asterales,1,1,1,1,1,1,Doronicum roylei,Tonic,India
+3142951,Doronicum pardalianches,Asteraceae,Asterales,8,8,3,3,3,3,Doronicum pardalianches,Cardiac; Nervine; Tonic,India
+10988361,Elaeocarpus sphaericus,Elaeocarpaceae,Oxalidales,5,3,2,4,2,3,Elaeocarpus sphaericus,Ache(Head); Epilepsy,Nepal
+7880979,Elaeocarpus serratus,Elaeocarpaceae,Oxalidales,4,4,1,4,4,1,Elaeocarpus serratus,Dysentery; Diarrhea; Antidote; Rheumatism,India
+7445501,Elaeocarpus oblongus,Elaeocarpaceae,Oxalidales,6,6,1,6,6,1,Elaeocarpus oblongus,Dropsy; Emetic; Leprosy; Rheumatism; Sore; Pneumonia,India
+7290985,Elaeocarpus floribundus,Elaeocarpaceae,Oxalidales,4,2,3,1,1,3,Elaeocarpus floribundus,Gingivitis,India
+3039267,Elaeagnus umbellata,Elaeagnaceae,Rosales,5,5,1,5,5,1,Elaeagnus umbellata,Astringent; Cardiac; Cough; Lung; Stimulant,India
+4048232,Elaeagnus latifolia,Elaeagnaceae,Rosales,2,2,1,2,2,1,Elaeagnus latifolia,Astringent; Cardiac,India
+4066311,Ehretia microphylla,Ehretiaceae,Boraginales,8,8,4,3,3,2,Ehretia microphylla,Antidote; Cachexia; Syphilis,India
+4066496,Ehretia laevis,Ehretiaceae,Boraginales,2,2,1,2,2,2,Ehretia laevis,Syphilis; Venereal,India; India(Santal)
+5420855,Edgeworthia chrysantha,Thymelaeaceae,Malvales,2,2,2,1,1,1,Edgeworthia tomentosa,Piscicide,India
+5384950,Eclipta prostrata,Asteraceae,Asterales,36,34,3,14,14,3,Eclipta prostrata,Antidote(Scorpion); Catarrh; Deobstruent; Dysuria; Elephantiasis; Hair-Oil,India
+5384955,Eclipta alba,Asteraceae,Asterales,35,32,8,1,1,9,Eclipta alba,Cosmetic (Grey hair),India
+5535699,Vallaris solanacea,Apocynaceae,Gentianales,2,2,1,2,2,1,Echites dichotoma; Vallaris heynei,Tumor(Abdomen); Tumor,India
+5392787,Echinops echinatus,Asteraceae,Asterales,6,6,1,6,6,1,Echinops echinatus,Diuretic; Dyspepsia; Hoarseness; Tonic; Cough; Hysteria,India
+2702822,Echinochloa frumentacea,Poaceae,Poales,2,2,1,2,2,1,Echinochloa frumentacea,Bilious; Constipation,India
+2702808,Echinochloa crus-galli,Poaceae,Poales,7,5,4,2,2,3,Echinochloa crus-galli,Carbuncle; Sore,India(Santal)
+7334137,Echeveria secunda,Crassulaceae,Saxifragales,1,1,1,1,1,1,Echeveria glauca,Bactericide,India
+3170131,Enicostema axillare,Gentianaceae,Gentianales,18,12,3,12,12,3,Enicostema littorale,Depurative; Dropsy; Hernia; Internulcer; Itch; Laxative,India
+7310580,Engelhardtia spicata,Juglandaceae,Fagales,2,2,1,2,2,1,Engelhardtia spicata,Piscicide; Fumigant,India
+7914294,Engelhardtia roxburghiana,Juglandaceae,Fagales,2,1,2,1,1,2,Engelhardtia polystachya,Piscicide,India
+7376217,Emilia sonchifolia,Asteraceae,Asterales,35,32,6,9,9,7,Emilia sonchifolia,Diarrhea; Eye; Fever; Night-Blindness; Otitis; Sudorific,India; India(Santal)
+7330930,Embelia tsjeriam-cottam,Primulaceae,Ericales,10,10,1,10,10,1,Embelia tsjeriam-cottam,Carbuncle; Neuralgia; Pleurisy; Pneumonia; Slow-Pulse; Sore,India(Santal)
+7330952,Embelia ribes,Primulaceae,Ericales,22,18,8,11,10,5,Embelia ribes,Alterative; Astringent; Carminative; Chest; Cough; Fever,India
+3720212,Embelia nutans,Primulaceae,Ericales,1,1,1,1,1,1,Embelia nutans,Intoxicant,India
+8002762,Elsholtzia blanda,Lamiaceae,Lamiales,3,3,1,3,3,1,Elsholtzia blanda,Cholera; Diarrhea; Sore,India
+2705953,Eleusine indica,Poaceae,Poales,24,18,8,1,1,9,Eleusine indica,Cyanogenetic,India
+2705957,Eleusine coracana,Poaceae,Poales,7,5,4,4,4,2,Eleusine coracana,Measles; Pleurisy; Pneumonia; Smallpox,India(Santal)
+2759871,Elettaria cardamomum,Zingiberaceae,Zingiberales,50,36,6,6,6,9,Elettaria cardamomum,Bronchitis; Tuberculosis; Cough; Phthisis; Tumor(Abdomen); Asthma,India; India(Santal)
+5395925,Elephantopus scaber,Asteraceae,Asterales,43,34,11,3,3,6,Elephantopus scaber,Astringent; Tonic; Vermifuge,India
+2717712,Eleocharis dulcis,Cyperaceae,Poales,2,2,1,2,2,1,Eleocharis dulcis,Antibiotic; Bactericide,India
+7420672,Elaeodendron albens,Celastraceae,Celastrales,8,8,1,8,8,1,Elaeodendron roxburghii,Tuberculosis; Cough; Epilepsy; Pimple; Bite(Snake); Bronchitis,India(Santal)
+3791886,Elaeodendron glaucum,Celastraceae,Celastrales,15,12,3,9,9,3,Elaeodendron glaucum,Emetic; Fumigant; Poison; Sternutatory; Tumor; Ache(Head),India
+4031240,Elaeocarpus tuberculatus,Elaeocarpaceae,Oxalidales,6,6,1,6,6,1,Elaeocarpus tuberculatus,Dyspepsia; Hematemesis; Rheumatism; Typhoid; Epilepsy; Bilious,India
+7422148,Tabernaemontana dichotoma,Apocynaceae,Gentianales,4,4,2,3,3,1,Ervatamia dichotoma,Cathartic; Narcotic; Poison,India
+3169625,Tabernaemontana divaricata,Apocynaceae,Gentianales,20,17,7,10,10,6,Ervatamia coronaria; Tabernaemontana coronaria,Ophthalmia; Ache(Tooth); Tumor(Abdomen); Wound; Anodyne; Poison,India
+5348930,Eriosema chinense,Fabaceae,Fabales,3,3,1,3,3,2,Eriosema chinense; Eriosema chinensis,Sore; Medicine; Syphilis,India; India(Santal)
+10858707,Eriolaena quinquelocularis,Malvaceae,Malvales,1,1,1,1,1,1,Eriolaena quinquelocularis,Wound,India
+3884807,Phlomoides vicaryi,Lamiaceae,Lamiales,1,1,1,1,1,1,Eremostachys vicaryi,Piscicide,India
+7845184,Eranthemum roseum,Acanthaceae,Lamiales,2,2,1,2,2,1,Eranthemum roseum,Leucorrhea; Pregnancy(Veterinary),India
+10769463,Equisetum debile,Equisetaceae,Equisetales,6,6,4,2,2,4,Equisetum debile,Gonorrhea; Refrigerant,India
+3189172,Epilobium hirsutum,Onagraceae,Myrtales,8,5,6,1,1,5,Epilobium hirsutum,Poison,India
+9246200,Ephedra gerardiana,Ephedraceae,Ephedrales,8,4,2,8,4,3,Ephedra gerardiana,Cardiotonic; Circulation-Tonic; Hypotensive; Asthma,India; Nepal
+3125377,Epaltes divaricata,Asteraceae,Asterales,2,2,1,2,2,1,Epaltes divaricata,Astringent; Tonic,India
+5402447,Enydra fluctuans,Asteraceae,Asterales,22,10,4,16,10,6,Enydra fluctuans,Laxative; Bilious; Nerves; Demulcent; Skin; Ascites,India; India(Santal)
+2976244,Entada phaseoloides,Fabaceae,Fabales,37,31,11,16,16,8,Entada phaseoloides; Entada scandens,Ache(Loin); Anasarca; Dropsy; Epilepsy; Laxative; Malaria,India; India(Santal)
+5338713,Wendlandia tinctoria,Rubiaceae,Gentianales,4,4,2,2,2,2,Wendlandia tinctoria,Rinderpest; Sore,India(Santal)
+7271382,Walsura trifoliolata,Meliaceae,Sapindales,3,1,1,3,1,3,Walsura piscidia,Piscicide,India
+10995009,Causonis trifolia,Vitaceae,Vitales,5,5,3,1,1,2,Vitis trifolia,Tumor,India
+7860171,Vitis setosa,Vitaceae,Vitales,1,1,1,1,1,1,Vitis setosa,Tumor,India
+2925561,Vitex trifolia,Lamiaceae,Lamiales,52,40,14,2,2,8,Vitex trifolia,Ache(Head); Anodyne,India
+8188339,Vitex peduncularis,Lamiaceae,Lamiales,14,14,2,8,8,2,Vitex peduncularis,Bite(Dog); Rabies; Fracture; Splenitis; Whitlow; Wound,India(Santal)
+2925564,Vitex negundo,Lamiaceae,Lamiales,58,44,11,15,12,10,Vitex negundo,Ache(Head); Rheumatism; Swelling; Alterative; Cold; Anasarca,India; India(Santal)
+7309443,Vitex leucoxylon,Lamiaceae,Lamiales,7,6,2,2,2,1,Vitex leucoxylon,Fever; Anemia,India
+2925562,Vitex agnus-castus,Lamiaceae,Lamiales,25,24,14,1,1,6,Vitex agnus-castus,Lactogogue,India
+8150485,Viscum orientale,Viscaceae,Santalales,10,7,3,4,4,3,Viscum orientale,Excitant; Poison; CNS stimulant; Tonic,India; India(Hindu)
+4068797,Viscum articulatum,Viscaceae,Santalales,9,9,2,7,7,2,Viscum articulatum,Ache(Leg); Anodyne; Atrophy; Rheumatism; Tumor; Cachexia,India(Santal)
+2889828,Viscum album,Viscaceae,Santalales,47,33,10,2,1,8,Viscum album,Tumor,India; Pakistan
+5665503,Viola pilosa,Violaceae,Malpighiales,25,25,2,2,2,1,Viola pilosa,Cold; Cough,India(Unani)
+5331181,Viola odorata,Violaceae,Malpighiales,51,31,18,1,1,12,Viola odorata,Cancer,Pakistan
+5664083,Viola canescens,Violaceae,Malpighiales,3,3,1,3,3,1,Viola canescens,Purgative; Cold; Cough,India
+2982409,Vigna vexillata,Fabaceae,Fabales,6,6,1,6,6,1,Vigna vexillata,Cholera; Sore; Tongue; Cachexia; Glossitis; Atrophy,India(Santal)
+7537356,Eulophia virens,Orchidaceae,Asparagales,2,2,2,1,1,2,Eulophia virens,Vermifuge,India
+5312009,Eulophia pratensis,Orchidaceae,Asparagales,1,1,1,1,1,1,Eulophia pratensis,Scrofula,India
+5312136,Eulophia nuda,Orchidaceae,Asparagales,6,6,1,6,6,1,Eulophia nuda,Bronchitis; Neck; Scrofula; Tumor; Vermifuge; Blood,India
+5311546,Eulophia epidendraea,Orchidaceae,Asparagales,2,1,1,2,1,2,Eulophia epidendraea,Vermifuge,India
+5311480,Eulophia dabia,Orchidaceae,Asparagales,10,5,3,5,5,2,Eulophia campestris,Heart; Tonic; Aphrodisiac; Cough; Stomatitis,India
+2951871,Euchresta horsfieldii,Fabaceae,Fabales,16,10,3,2,2,4,Euchresta horsfieldii,Insecticide; Poison,India
+11869920,Eucalyptus camaldulensis,Myrtaceae,Myrtales,15,12,4,6,6,3,Eucalyptus camaldulensis,Dysentery; Hemorrhage; Laryngalgia; Trachalgia; Astringent; Diarrhea,India
+2873939,Erythroxylum coca,Erythroxylaceae,Malpighiales,61,42,10,6,6,20,Erythroxylum coca,Anesthetic; Astringent; Masticatory; Mydriatic; Neuritis; Stimulant,India
+7730359,Erythroxylum acuminatum,Erythroxylaceae,Malpighiales,1,1,1,1,1,1,Erythroxylum acuminatum,Anthelminthic,Sri Lanka
+5349581,Erythrina variegata,Fabaceae,Fabales,46,34,12,21,21,9,Erythrina variegata,Ache(Ear); Anodyne; Astringent; Bite(Snake); Bubo; Convulsion,India; India(Santal)
+5349546,Erythrina suberosa,Fabaceae,Fabales,1,1,1,1,1,1,Erythrina suberosa,Tumor,Pakistan
+5349642,Erythrina stricta,Fabaceae,Fabales,7,7,1,7,7,1,Erythrina stricta,Antidote; Bilious; Fever; Leprosy; Asthma; Itch,India
+3034425,Eryngium foetidum,Apiaceae,Apiales,56,30,10,1,1,10,Eryngium foetidum,Stomachic,India
+3632852,Eryngium caeruleum,Apiaceae,Apiales,3,3,1,3,3,1,Eryngium caeruleum,Aphrodisiac; Tonic; Piles,India
+7324227,Erycibe paniculata,Convolvulaceae,Solanales,1,1,1,1,1,1,Erycibe paniculata,Cholera,India
+8055080,Euphorbia pilulifera,Euphorbiaceae,Malpighiales,24,20,16,2,2,8,Euphorbia pilulifera,Vermifuge; Wart,India
+3065700,Euphorbia pilosa,Euphorbiaceae,Malpighiales,3,3,2,2,2,2,Euphorbia pilosa,Fistula; Sore,India
+3069046,Euphorbia parviflora,Euphorbiaceae,Malpighiales,7,7,1,7,7,2,Euphorbia parviflora,Astringent; Diarrhea; Dysentery; Narcotic; Leucorrhea; Dysmenorrhea,India
+3064863,Euphorbia nivulia,Euphorbiaceae,Malpighiales,6,6,1,6,6,2,Euphorbia nivulia,Ache(Ear); Dropsy; Purgative; Rheumatism; Diuretic; Wart,India
+3064865,Euphorbia neriifolia,Euphorbiaceae,Malpighiales,41,29,11,13,12,8,Euphorbia ligularia; Euphorbia neriifolia,Wart; Ache(Ear); Expectorant; Asthma; Piscicide; Purgative,India; India(Santal); Sri Lanka
+3068937,Euphorbia hirta,Euphorbiaceae,Malpighiales,75,53,19,14,13,15,Euphorbia hirta,Dysentery; Anodyne; Colic; Cough; Lactogogue; Post-Natal,India; India(Santal)
+3066367,Euphorbia helioscopia,Euphorbiaceae,Malpighiales,33,17,18,1,1,7,Euphorbia helioscopia,Wart,India
+3070132,Euphorbia granulata,Euphorbiaceae,Malpighiales,3,3,1,3,3,1,Euphorbia granulata,Asthma; Bronchitis; Phthisis,India(Santal)
+3070194,Euphorbia dracunculoides,Euphorbiaceae,Malpighiales,3,1,2,2,1,3,Euphorbia dracunculoides,Wart,India
+3065495,Euphorbia atoto,Euphorbiaceae,Malpighiales,10,8,3,2,2,3,Euphorbia atoto,Abortifacient; Emmenagogue,India
+3069535,Euphorbia antiquorum,Euphorbiaceae,Malpighiales,35,32,10,27,25,5,Euphorbia antiquorum,Dropsy; Tumor; Anasarca; Breast; Anodyne; Deafness,India; India(Santal); Sri Lanka
+3142644,Ayapana triplinervis,Asteraceae,Asterales,23,17,4,7,7,4,Eupatorium triplinerve,Cardiotonic; Diaphoretic; Emetic; Laxative; Stimulant; Tonic,India
+3793460,Euonymus tingens,Celastraceae,Celastrales,4,4,2,3,3,2,Euonymus tingens,Constipation; Dyspepsia; Eye,India
+3169121,Euonymus atropurpureus,Celastraceae,Celastrales,20,18,4,4,4,6,Euonymus atropurpureus,Bilious; Cathartic; Constipation; Hepatitis,India
+3071728,Excoecaria acerifolia,Euphorbiaceae,Malpighiales,1,1,1,1,1,1,Excoecaria acerifolia,Rheumatism,India
+3840363,Exacum tetragonum,Gentianaceae,Gentianales,2,2,1,2,2,1,Exacum tetragonum,Stomachic; Tonic,India
+3840755,Exacum pedunculatum,Gentianaceae,Gentianales,2,2,1,2,2,1,Exacum pedunculatum,Tonic; Stomachic,India
+3840973,Exacum lawii,Gentianaceae,Gentianales,2,2,1,2,2,1,Exacum lawii,Kidney; Laxative,India
+2928673,Evolvulus alsinoides,Convolvulaceae,Solanales,9,9,3,5,5,3,Evolvulus alsinoides,Alopecia; Tonic; Vermifuge; Fever; Hair-Growth,India
+5594377,Tetradium fraxinifolium,Rutaceae,Sapindales,2,2,2,1,1,1,Evodia fraxinifolia,Dysentery,India
+7795516,Euryale ferox,Nymphaeaceae,Nymphaeales,24,17,2,3,3,5,Euryale ferox,Tonic; Astringent; Deobstruent,India
+8106874,Euphrasia officinalis,Orobanchaceae,Lamiales,10,7,4,4,4,4,Euphrasia officinalis,Astringent; Conjunctivitis; Jaundice; Tonic,India
+3190008,Dimocarpus longan,Sapindaceae,Sapindales,5,5,2,4,4,1,Euphoria longan,Fever; Refrigerant; Stomachic; Vermifuge,India
+3067098,Euphorbia trigona,Euphorbiaceae,Malpighiales,6,5,2,4,4,2,Euphorbia trigona,Ache(Ear); Boil; Purgative; Vesicant,India
+3069353,Euphorbia tirucalli,Euphorbiaceae,Malpighiales,33,28,7,15,14,6,Euphorbia tirucalli,Wart; Abscess; Asthma; Colic; Emetic; Ache(Ear),India
+3066919,Euphorbia thymifolia,Euphorbiaceae,Malpighiales,36,28,7,13,12,8,Euphorbia thymifolia,Repellant(Insect); Ardor; Atrophy; Astringent; Erysipelas; Laxative,India; India(Santal)
+3069845,Euphorbia thomsoniana,Euphorbiaceae,Malpighiales,5,4,2,5,4,2,Euphorbia thomsoniana,Purgative; Detergent; Shampoo; Hair,India; Kashmir
+3065786,Euphorbia royleana,Euphorbiaceae,Malpighiales,5,5,1,5,5,3,Euphorbia royleana,Alopecia; Cathartic; Vermifuge; Wart; Evil eye,India
+3066357,Euphorbia rosea,Euphorbiaceae,Malpighiales,1,1,1,1,1,1,Euphorbia rosea,Vermifuge,India
+3068445,Euphorbia resinifera,Euphorbiaceae,Malpighiales,9,8,8,1,1,3,Euphorbia resinifera,Purgative,India
+5571944,Ficus arnottiana,Moraceae,Rosales,1,1,1,1,1,1,Ficus arnottiana,Medicine,India
+3637382,Ferula moschata,Apiaceae,Apiales,15,9,3,5,5,3,Ferula sumbul,Apertif; Hysteria; Sedative; Stimulant; Nervine,India
+3638866,Ferula diversivittata,Apiaceae,Apiales,1,1,1,1,1,1,Ferula suaveolens,Nervine,India
+6026967,Ferula persica,Apiaceae,Apiales,13,13,2,11,11,2,Ferula persica,Asthma; Bronchitis; Carminative; Flatulence; Inflammation; Pertussis,India
+3034687,Ferula narthex,Apiaceae,Apiales,1,1,1,1,1,1,Ferula narthex,Fever,India
+3638132,Ferula jaeschkeana,Apiaceae,Apiales,1,1,1,1,1,1,Ferula jaeschkeana,Wound,Kashmir
+3034683,Ferula gummosa,Apiaceae,Apiales,11,9,3,7,7,3,Ferula galbaniflua,Expectorant; Spasm; Stimulant; Swelling; Uterotonic; Carminative,India
+8113074,Ferula assa-foetida,Apiaceae,Apiales,34,27,5,7,7,5,Ferula assa-foetida,Colic; Convulsion; Hemiplegia; Rinderpest; Cramp; Epilepsy,India(Santal)
+5421342,Limonia acidissima,Rutaceae,Sapindales,14,14,2,12,12,3,Feronia limonia,Alexiteric; Astringent; Cardiac; Carminative; Diarrhea; Dysentery,India
+3048008,Farsetia jacquemontii,Brassicaceae,Brassicales,3,3,1,3,3,1,Farsetia jacquemontii,Refrigerant; Rheumatism; Tonic,India; India(Punjab)
+3047985,Farsetia stylosa,Brassicaceae,Brassicales,3,3,1,3,3,1,Farsetia hamiltonii,Refrigerant; Rheumatism; Tonic,India
+4036310,Fagopyrum cymosum,Polygonaceae,Caryophyllales,15,15,3,5,5,3,Fagopyrum cymosum,Abdomen; Cholera; Colic; Diarrhea; Flux,India
+6384851,Fagonia cretica,Zygophyllaceae,Zygophyllales,18,15,4,5,4,3,Fagonia cretica,Tumor; Alterative; Laxative; Stimulant,India; Pakistan
+6384901,Fagonia bruguieri,Zygophyllaceae,Zygophyllales,1,1,1,1,1,1,Fagonia bruguieri,Tumor,India
+6384929,Fagonia arabica,Zygophyllaceae,Zygophyllales,1,1,1,1,1,1,Fagonia arabica,Tumor,India
+3071702,Excoecaria agallocha,Euphorbiaceae,Malpighiales,14,12,8,7,7,3,Excoecaria agallocha,Abortifacient; Leprosy; Paralysis; Piscicide; Rheumatism; Sore,India
+5361935,Ficus religiosa,Moraceae,Rosales,34,27,2,28,27,4,Ficus religiosa,Laxative; Astringent; Alterative; Atrophy; Cachexia; Cholera,India; India(Santal)
+5361904,Ficus racemosa,Moraceae,Rosales,12,12,1,12,12,2,Ficus racemosa,Adenopathy; Boil; Cancer; Epididymitis; Hydrocoele; Lactogogue,India; India(Santal)
+5361930,Ficus pumila,Moraceae,Rosales,18,17,4,1,1,4,Ficus pumila,Parasiticide,India
+5361916,Ficus palmata,Moraceae,Rosales,6,6,1,6,6,3,Ficus palmata,Bladder; Demulcent; Dysentery; Laxative; Lung; Splinter,India
+5571884,Ficus lucescens,Moraceae,Rosales,2,2,1,2,2,1,Ficus lucescens,Sore; Rinderpest,India(Santal)
+5572206,Ficus lacor,Moraceae,Rosales,3,3,2,2,2,2,Ficus lacor,Gargle; Sore,India
+7879404,Ficus hispida,Moraceae,Rosales,12,10,4,4,4,3,Ficus hispida,Boil; Lactogogue; Tonic; Emetic,India
+8418037,Ficus heterophylla,Moraceae,Rosales,2,2,1,2,2,2,Ficus heterophylla,Medicine; Tumor(Abdomen),India
+7694515,Ficus glomerata,Moraceae,Rosales,16,16,3,9,9,3,Ficus glomerata,Bilious; Cancer; Carminative; Diarrhea; Piles; Stomachic,India; Pakistan
+3767426,Ficus tinctoria,Moraceae,Rosales,1,1,1,1,1,1,Ficus gibbosa,Medicine,India
+7262725,Ficus fistulosa,Moraceae,Rosales,1,1,1,1,1,1,Ficus fistulosa,Medicine,India
+5572730,Ficus dalhousiae,Moraceae,Rosales,1,1,1,1,1,1,Ficus dalhousiae,Medicine,India
+7422755,Ficus semicordata,Moraceae,Rosales,3,3,2,2,2,2,Ficus cunia,Bladder; Aptha,India
+5361932,Ficus benjamina,Moraceae,Rosales,2,1,1,2,1,1,Ficus benjamina; Ficus comosa,Medicine,India
+5361919,Ficus benghalensis,Moraceae,Rosales,33,27,3,14,14,5,Ficus benghalensis,Atrophy; Cachexia; Cholera; Diarrhea; Dysentery; Fever,India; India(Santal)
+7981517,Flemingia nana,Fabaceae,Fabales,2,2,1,2,2,1,Flemingia nana,Sore; Swelling,India
+5359848,Flemingia bracteata,Fabaceae,Fabales,4,4,1,4,4,1,Flemingia bracteata,Anodyne; Hysteria; Epilepsy; Sedative,India
+5287564,Flagellaria indica,Flagellariaceae,Poales,9,7,4,4,4,2,Flagellaria indica,Astringent; Cyanogenetic; Diuretic; Vulnerary,India
+5331162,Flacourtia indica,Salicaceae,Malpighiales,14,13,3,9,9,4,Flacourtia indica; Flacourtia sepiaria,Carbuncle; Chest; Cholera; Fever; Rheumatism; Sore,India; India(Santal)
+5331164,Flacourtia jangomas,Salicaceae,Malpighiales,13,13,3,7,7,2,Flacourtia jangomas,Gargle; Gum; Stomachic; Ache(Tooth); Astringent; Bilious,India
+7322920,Firmiana colorata,Malvaceae,Malvales,2,2,1,2,2,1,Firmiana colorata,Cholera; Sore,India(Santal)
+2708724,Fimbristylis schoenoides,Cyperaceae,Poales,9,9,1,9,9,1,Fimbristylis schoenoides,Asthma; Cholera; Dysentery; Measles; Phthisis; Sterility(Female),India(Santal)
+2708407,Abildgaardia ovata,Cyperaceae,Poales,15,15,1,15,15,1,Fimbristylis monostachya,Ache(Stomach); Bronchitis; Carbuncle; Dysentery; Gravel; Scrofula,India(Santal)
+8054577,Fimbristylis junciformis,Cyperaceae,Poales,1,1,1,1,1,1,Fimbristylis junciformis,Dysentery,India(Santal)
+2708500,Fimbristylis falcata,Cyperaceae,Poales,1,1,1,1,1,1,Fimbristylis falcata,Dysentery,India(Santal)
+5572290,Ficus amplissima,Moraceae,Rosales,1,1,1,1,1,1,Ficus tsiela,Medicine,India
+7852448,Ficus septica,Moraceae,Rosales,10,9,4,1,1,4,Ficus septica,Fungoid,India
+5571130,Ficus rumphii,Moraceae,Rosales,7,7,2,3,3,2,Ficus rumphii,Emetic; Asthma; Vermifuge,India
+3765871,Ficus retusa,Moraceae,Rosales,5,4,4,1,1,4,Ficus retusa,Medicine,India
+3189565,Garcinia dulcis,Clusiaceae,Malpighiales,2,2,2,1,1,2,Garcinia dulcis,Medicine,India
+3715021,Garcinia cowa,Clusiaceae,Malpighiales,1,1,1,1,1,1,Garcinia cowa,Ache(Head),India
+3787993,Ganophyllum falcatum,Sapindaceae,Sapindales,2,2,1,2,2,1,Ganophyllum falcatum,Pediculicide; Soap,India
+2914110,Galium rotundifolium,Rubiaceae,Gentianales,9,6,2,3,3,2,Galium rotundifolium,Chest; Colic; Sore(Throat),India
+5341300,Galeopsis tetrahit,Lamiaceae,Lamiales,12,10,3,4,4,3,Galeopsis tetrahit,Expectorant; Lung; Resolvent; Spasm,India
+2769796,Furcraea foetida,Asparagaceae,Asparagales,2,2,2,1,1,2,Furcraea gigantea,Piscicide,India
+5334216,Fumaria vaillantii,Papaveraceae,Ranunculales,7,7,2,3,3,1,Fumaria vaillantii,Anodyne; Liver; Stomach,India
+5334215,Fumaria parviflora,Papaveraceae,Ranunculales,14,11,5,2,2,5,Fumaria parviflora,Wound; Boil,India
+5300358,Fritillaria cirrhosa,Liliaceae,Liliales,28,23,4,6,4,5,Fritillaria cirrhosa; Fritillaria roylei,Asthma; Tuberculosis; Bronchitis; Poison,India; Nepal
+5300716,Fritillaria imperialis,Liliaceae,Liliales,8,4,4,4,4,2,Fritillaria imperialis,Diuretic; Emollient; Poison; Resolvent,India
+2874692,Frankenia pulverulenta,Frankeniaceae,Caryophyllales,1,1,1,1,1,1,Frankenia pulverulenta,Demulcent,India
+3029817,Fragaria vesca,Rosaceae,Rosales,34,24,9,1,1,9,Fragaria vesca,Coffee,Kashmir
+2765559,Floscopa scandens,Commelinaceae,Commelinales,6,5,3,1,1,2,Floscopa scandens,Eye,India
+5359856,Flemingia tuberosa,Fabaceae,Fabales,2,2,1,2,2,1,Flemingia tuberosa,Dysentery; Leucorrhea,India
+5359843,Flemingia strobilifera,Fabaceae,Fabales,8,7,3,4,4,2,Flemingia strobilifera,Anodyne; Epilepsy; Hysteria; Sedative,India(Santal)
+7270259,Gentiana kurroo,Gentianaceae,Gentianales,5,5,1,5,5,1,Gentiana kurroo,Fattening(Veterinary); Fever; Stomachic; Tonic; Urogenital,India
+7793491,Gentiana decumbens,Gentianaceae,Gentianales,1,1,1,1,1,1,Gentiana decumbens,Stomachic,India
+3881909,Platostoma menthoides,Lamiaceae,Lamiales,1,1,1,1,1,1,Geniosporum prostratum,Fever,India
+4020282,Gelsemium elegans,Gelsemiaceae,Gentianales,19,15,5,1,1,5,Gelsemium elegans,Poison,India
+7328504,Gaultheria fragrantissima,Ericaceae,Ericales,19,15,3,18,14,4,Gaultheria fragrantissima,Stimulant; Rheumatism; Antiseptic; Abortifacient; Carminative; Tumor,India; Nepal
+3993458,Garuga pinnata,Burseraceae,Sapindales,6,5,3,3,3,2,Garuga pinnata,Asthma; Conjunctivitis; Digestive,India
+2893419,Ceriscoides turgida,Rubiaceae,Gentianales,14,14,1,14,14,3,Gardenia turgida,Antidote(Fish); Antidote(Scorpion); Bite(Snake); Dyspepsia; Epilepsy; Fever,India; India(Santal)
+5334965,Gardenia resinifera,Rubiaceae,Gentianales,5,5,2,2,2,2,Gardenia lucida,Antiseptic; Bactericide,India
+5334948,Gardenia latifolia,Rubiaceae,Gentianales,1,1,1,1,1,1,Gardenia latifolia,Bite(Snake),India(Santal)
+5335125,Gardenia jasminoides,Rubiaceae,Gentianales,43,34,4,14,14,5,Gardenia jasminoides,Ache(Head); Antiseptic; Diuretic; Dyspepsia; Jaundice; Kidney,India
+5335166,Gardenia gummifera,Rubiaceae,Gentianales,15,15,1,15,15,1,Gardenia gummifera,Dentition; Diaphoretic; Diarrhea; Expectorant; Fever; Repellant,India
+2893403,Ceriscoides campanulata,Rubiaceae,Gentianales,7,5,2,5,5,3,Gardenia campanulata,Cathartic; Larvicide; Megalospleny; Piscicide; Vermifuge,India
+7624454,Garcinia morella,Clusiaceae,Malpighiales,12,10,2,6,6,3,Garcinia morella,Cathartic; Dropsy; Vermifuge; Bactericide; Abortifacient; Sore,India
+3189571,Garcinia mangostana,Clusiaceae,Malpighiales,19,13,6,7,7,5,Garcinia mangostana,Diarrhea; Dysentery; Eczema; Itch; Skin; Cystitis,India
+3189566,Garcinia indica,Clusiaceae,Malpighiales,4,4,1,4,4,1,Garcinia indica,Cardiotonic; Demulcent; Fissure; Vermifuge,India
+3714760,Garcinia echinocarpa,Clusiaceae,Malpighiales,2,2,1,2,2,1,Garcinia echinocarpa,Vermifuge; Dropsy,India
+3080562,Glochidion zeylanicum,Phyllanthaceae,Malpighiales,4,4,1,4,4,1,Glochidion zeylanicum,Itch; Refrigerant; Stomachic; Restorative,India
+3080126,Glochidion lanceolarium,Phyllanthaceae,Malpighiales,2,2,1,2,2,2,Glochidion lanceolarium,Anemia; Stomach,India; India(Santal)
+3080109,Glochidion acuminatum,Phyllanthaceae,Malpighiales,1,1,1,1,1,1,Glochidion acuminatum,Stomach,India
+7548362,Glinus oppositifolius,Molluginaceae,Caryophyllales,14,11,2,12,10,3,Glinus oppositifolius; Mollugo oppositifolia,Skin; Itch; Aperient; Antiseptic; Lochia; Cathartic,India
+3084616,Glinus lotoides,Molluginaceae,Caryophyllales,3,2,2,2,2,2,Glinus lotoides,Abdomen; Purgative,India
+7265816,Gisekia pharnaceoides,Gisekiaceae,Caryophyllales,5,5,2,3,3,2,Gisekia pharnaceoides,Aperient; Vermifuge; Wart,India
+8293016,Aphananthe cuspidata,Cannabaceae,Rosales,4,4,1,4,4,1,Gironniera cuspidata,Depurative; Eruption; Itch; Skin,Sri Lanka
+7300847,Girardinia diversifolia,Urticaceae,Rosales,4,4,1,4,4,1,Girardinia zeylanica,Swelling; Fever; Joint; Ache(Head),India
+5369652,Geum urbanum,Rosaceae,Rosales,45,27,8,4,4,7,Geum urbanum,Ague; Catarrh; Fever; Chill,India
+8329444,Geum elatum,Rosaceae,Rosales,1,1,1,1,1,1,Geum elatum,Astringent,India
+7753570,Gerbera lanuginosa,Asteraceae,Asterales,1,1,1,1,1,1,Gerbera lanuginosa,Wound,India
+2890972,Geranium wallichianum,Geraniaceae,Geraniales,2,2,1,2,2,1,Geranium wallichianum,Eye; Ache(Tooth),India
+2890266,Geranium nepalense,Geraniaceae,Geraniales,3,3,2,2,2,2,Geranium nepalense,Astringent; Renitis,India(Punjab)
+2890560,Geranium lucidum,Geraniaceae,Geraniales,2,2,1,2,2,1,Geranium lucidum,Diuretic; Vulnerary,India
+12208367,Eulophia cernua,Orchidaceae,Asparagales,1,1,1,1,1,1,Geodorum nutans,Tumor,India
+3170040,Gentiana lutea,Gentianaceae,Gentianales,10,7,5,1,1,5,Gentiana lutea,Apertif,India
+3890502,Gomphostemma lucidum,Lamiaceae,Lamiales,1,1,1,1,1,1,Gomphostemma lucidum,Pneumonia,India
+3694784,Gomphia serrata,Ochnaceae,Malpighiales,4,4,4,1,1,1,Gomphia serrata,Stomachic,India
+9717715,Gnetum edule,Gnetaceae,Gnetales,2,2,1,2,2,1,Gnetum ula,Malaria; Rheumatism,India
+2653221,Gnetum montanum,Gnetaceae,Gnetales,2,2,1,2,2,2,Gnetum montanum,Masticatory; Piscicide,India
+2653172,Gnetum latifolium,Gnetaceae,Gnetales,1,1,1,1,1,1,Gnetum latifolium,Water,India
+5341168,Gmelina asiatica,Lamiaceae,Lamiales,11,11,2,10,10,1,Gmelina asiatica,Alterative; Astringent; Bladder; Demulcent; Gonorrhea; Bactericide,India
+8247889,Gmelina arborea,Lamiaceae,Lamiales,52,45,2,51,45,4,Gmelina arborea,Dyspepsia; Fever; Sore; Anasarca; Anthrax; Bite(Rat),India; India(Ayurvedic); India(Santal)
+2965732,Glycyrrhiza glabra,Fabaceae,Fabales,52,39,10,4,4,10,Glycyrrhiza glabra,Tumor(Abdomen); Bactericide; Candida; Fungicide,India
+8241662,Glycosmis pentaphylla,Rutaceae,Sapindales,15,13,3,6,6,3,Glycosmis pentaphylla,Vermifuge; Anemia; Cough; Fever; Jaundice; Rheumatism,India
+5359660,Glycine max,Fabaceae,Fabales,79,76,6,1,1,8,Glycine max,Stomach(Veterinary),India
+9594793,Cynanchum varians,Apocynaceae,Gentianales,1,1,1,1,1,1,Glossonema varians,Refrigerant,India
+5390273,Glossocardia bidens,Asteraceae,Asterales,10,10,1,10,10,2,Glossogyne bidens; Glossogyne pinnatifida,Bite(Dog); Cholera; Cough; Impotency; Lactogogue; Syphilis,India; India(Santal)
+5390268,Glossocardia bosvallia,Asteraceae,Asterales,1,1,1,1,1,1,Glossocardia bosvallia,Emmenagogue,India
+2740024,Gloriosa superba,Colchicaceae,Liliales,45,36,12,31,26,7,Gloriosa superba,Abortifacient; Labor; Sore; Tumor; Poison; Bite(Snake),India; India(Santal)
+4259991,Grewia tiliifolia,Malvaceae,Malvales,5,5,1,5,5,1,Grewia tiliifolia,Antidote; Cowitch; Dysentery; Shampoo; Soap,India
+7311070,Grewia tenax,Malvaceae,Malvales,3,3,1,3,3,1,Grewia tenax,Anodyne; Cough; Side,India
+4260341,Grewia sclerophylla,Malvaceae,Malvales,4,4,1,4,4,1,Grewia sclerophylla,Bladder; Emollient; Intestine; Cough,India
+4260442,Grewia sapida,Malvaceae,Malvales,6,6,1,6,6,1,Grewia sapida,Bite(Tiger); Colic; Tongue; Wound; Dysentery; Sore,India(Santal)
+4261311,Grewia optiva,Malvaceae,Malvales,2,2,1,2,2,1,Grewia optiva,Parturition; Soap,India
+4259928,Microcos paniculata,Malvaceae,Malvales,9,9,1,9,9,1,Grewia microcos,Dysentery; Eczema; Fever; Itch; Sore; Stomatitis,India
+4259716,Grewia hirsuta,Malvaceae,Malvales,5,4,1,5,4,2,Grewia hirsuta,Wound; Diarrhea; Dysentery; Suppurative,India; India(Gujarat)
+3152080,Grewia asiatica,Malvaceae,Malvales,13,9,3,8,8,4,Grewia asiatica,Astringent; Bactericide; Demulcent; Eruption; Refrigerant; Stomachic,India; India(Santal)
+4260801,Grewia acuminata,Malvaceae,Malvales,2,2,2,1,1,2,Grewia acuminata,Wound,India
+3173137,Graptophyllum pictum,Acanthaceae,Lamiales,14,11,3,8,8,2,Graptophyllum pictum,Constipation; Emollient; Resolvent; Sore; Swelling; Wound,India
+8028873,Grangea maderaspatana,Asteraceae,Asterales,10,8,2,7,7,3,Grangea maderaspatana,Ache(Ear); Antiseptic; Deobstruent; Menoxenia; Spasm; Stomachic,India
+2821306,Grammatophyllum scriptum,Orchidaceae,Asparagales,10,10,3,1,1,3,Grammatophyllum scriptum,Tumor,India
+3152663,Gossypium arboreum,Malvaceae,Malvales,32,26,7,4,4,5,Gossypium arboreum,Ache(Ear); Convulsion; Madness; Labor,India(Santal)
+11134308,Polyspora obtusa,Theaceae,Ericales,4,4,1,4,4,1,Gordonia obtusa,Stomachic; Stimulant; Tea; Apertif,India
+3154635,Goniothalamus sesquipedalis,Annonaceae,Magnoliales,1,1,1,1,1,1,Goniothalamus sesquipedalis,Incense,India
+3674769,Gomphrena wallichii,Amaranthaceae,Caryophyllales,3,3,2,1,1,1,Gomphrena wallichii,Dysentery,India(Ayurvedic)
+2950903,Haematoxylum campechianum,Fabaceae,Fabales,42,22,10,6,6,13,Haematoxylum campechianum,Astringent; Diarrhea; Dysentery; Leucorrhea; Tonic; Dyspepsia,India
+8111118,Habenaria susannae,Orchidaceae,Asparagales,1,1,1,1,1,1,Habenaria susannae,Wart,India
+3878096,Gynocardia odorata,Achariaceae,Malpighiales,16,13,3,6,6,4,Gynocardia odorata,Fungicide; Insecticide; Piscicide; Skin; Bactericide; Fever,India
+7263520,Gymnostachyum febrifugum,Acanthaceae,Lamiales,5,4,1,5,4,2,Gymnostachyum febrifugum,Fever; Blister; Tongue; Sore,India
+3793980,Gymnosporia royleana,Celastraceae,Celastrales,1,1,1,1,1,1,Gymnosporia royleana,Ache(Tooth),India
+3793847,Gymnosporia senegalensis,Celastraceae,Celastrales,5,5,3,1,1,3,Gymnosporia montana,Sore,India
+2874605,Trichosanthes cucumerina,Cucurbitaceae,Cucurbitales,34,27,6,3,3,5,Gymnopetalum cochinchinense; Trichosanthes anguina; Trichosanthes cucumerina,Poison; Tumor(Abdomen); Purgative,India
+2944213,Gymnocladus assamicus,Fabaceae,Fabales,1,1,1,1,1,1,Gymnocladus assamicus,Shampoo,India
+8040540,Gymnema sylvestre,Apocynaceae,Gentianales,19,18,6,14,14,4,Gymnema silvestre; Gymnema sylvestre,Diabetes; Errhine; Eye; Furunculosis; Parageusia; Refrigerant,India
+3743021,Gymnacranthera canarica,Myristicaceae,Magnoliales,1,1,1,1,1,1,Gymnacranthera canarica,Soap,India
+3986813,Guaiacum officinale,Zygophyllaceae,Zygophyllales,43,27,9,7,7,11,Guaiacum officinale,Depurative; Gout; Rheumatism; Stimulant; Tonsillitis; Pharyngitis,India
+4259732,Grewia villosa,Malvaceae,Malvales,11,11,2,7,7,3,Grewia villosa,Carbuncle; Cholera; Diarrhea; Dysentery; Sore; Wound,India; India(Santal)
+10705078,Hedyotis stipulata,Rubiaceae,Gentianales,2,2,1,2,2,1,Hedyotis stipulata,Maggot(Veterinary); Sore(Veterinary),India
+9411691,Dimetia scandens,Rubiaceae,Gentianales,5,5,1,5,5,1,Hedyotis scandens,Piscicide; Sprain; Toothblack; Puerperium; Eye,India
+8144095,Hedyotis hispida,Rubiaceae,Gentianales,3,3,1,3,3,1,Hedyotis hispida,Ache(Stomach); Dysentery; Ache(Head),India
+7866673,Hedyotis herbacea,Rubiaceae,Gentianales,13,13,1,13,13,1,Hedyotis herbacea,Anodyne; Asthma; Tuberculosis; Depression; Elephantiasis; Gastritis,India
+9290647,Exallage insularis,Rubiaceae,Gentianales,8,4,3,2,2,2,Hedyotis glabra,Sore; Depurative,India
+9594482,Hedyotis fruticosa,Rubiaceae,Gentianales,1,1,1,1,1,1,Hedyotis fruticosa,Eye,Sri Lanka
+2758631,Hedychium spicatum,Zingiberaceae,Zingiberales,5,5,2,3,3,2,Hedychium spicatum,Candida; Fungicide; Bactericide,India
+7883492,Hedychium coronarium,Zingiberaceae,Zingiberales,13,13,7,3,3,5,Hedychium coronarium,Excitant; Rheumatism; Tonic,India
+2758716,Hedychium coccineum,Zingiberaceae,Zingiberales,1,1,1,1,1,1,Hedychium coccineum,Evil eye,India
+8351737,Hedera helix,Araliaceae,Apiales,39,28,14,7,7,6,Hedera helix,Cathartic; Diaphoretic; Emmenagogue; Pediculicide; Rheumatism; Vasoconstrictor,India
+3190016,Harpullia arborea,Sapindaceae,Sapindales,6,6,3,4,4,3,Harpullia arborea,Leech; Piscicide; Rheumatism; Shampoo,India
+3770262,Haplanthodes verticillatus,Acanthaceae,Lamiales,1,1,1,1,1,1,Haplanthus verticillatus,Fever,India
+7263340,Haplanthodes tentaculatus,Acanthaceae,Lamiales,1,1,1,1,1,1,Haplanthus tentaculatus,Fever,India
+3758958,Haloxylon salicornicum,Amaranthaceae,Caryophyllales,1,1,1,1,1,1,Haloxylon salicornicum,Internulcer,India
+11222431,Soda stocksii,Amaranthaceae,Caryophyllales,3,3,1,3,3,1,Haloxylon recurvum,Internulcer; Poison; Soap,India
+3759004,Haloxylon multiflorum,Amaranthaceae,Caryophyllales,1,1,1,1,1,1,Haloxylon multiflorum,Internulcer,India
+5290179,Heteropogon contortus,Poaceae,Poales,13,12,3,10,10,3,Heteropogon contortus,Antidote(Scorpion); Atrophy; Bite(Dog); Dysentery; Fever; Myalgia,India(Santal)
+4091635,Heterophragma quadriloculare,Bignoniaceae,Lamiales,1,1,1,1,1,1,Heterophragma quadriloculare,Skin,India
+3836590,Naringi crenulata,Rutaceae,Sapindales,7,7,2,6,6,1,Hesperethusa crenulata,Antidote; Fever; Purgative; Stomachic; Tonic; Sudorific,India
+8282016,Hernandia ovigera,Hernandiaceae,Laurales,15,15,5,2,2,5,Hernandia ovigera,Antidote; Depilatory,India
+7725132,Heritiera littoralis,Malvaceae,Malvales,6,4,2,3,3,2,Heritiera littoralis,Diarrhea; Dysentery; Toothbrush,India
+3635581,Tetrataenium wallichii,Apiaceae,Apiales,4,2,2,4,2,2,Heracleum wallichii,Aphrodisiac; Tonic,India; Nepal
+2650617,Asplenium ceterach,Aspleniaceae,Polypodiales,8,8,2,7,7,1,Hemidictyum ceterach,Diuretic; Incontinence; Megalospleny; Splenitis; Astringent; Jaundice,India
+8125676,Hemidesmus indicus,Apocynaceae,Gentianales,18,15,2,15,15,3,Hemidesmus indicus,Alterative; Bacteriostat; Demulcent; Depurative; Inflammation; Syphilis,India
+2650123,Helminthostachys zeylanica,Ophioglossaceae,Ophioglossales,19,12,7,3,3,3,Helminthostachys zeylanica,Anodyne; Intoxicant; Sciatica,India
+8219833,Heliotropium subulatum,Heliotropiaceae,Boraginales,2,2,1,2,2,1,Heliotropium subulatum,Tonic; Stimulant,India
+4062306,Euploca strigosa,Heliotropiaceae,Boraginales,14,9,2,7,7,2,Heliotropium strigosum,Anodyne; Boil; Eye; Sore; Wound; Laxative,India
+7295023,Heliotropium ovalifolium,Heliotropiaceae,Boraginales,5,3,2,1,1,2,Heliotropium ovalifolium,Poison,India
+2925788,Heliotropium indicum,Heliotropiaceae,Boraginales,60,42,12,28,24,13,Heliotropium indicum,Abortifacient; Emollient; Emmenagogue; Diuretic; Boil; Bite(Bug),India; India(Santal)
+5546922,Helicteres isora,Malvaceae,Malvales,28,23,4,19,16,7,Helicteres isora,Dysentery; Colic; Ache(Stomach); Antigalactogogue; Carbuncle; Bilious,India; India(Gujarat); India(Santal)
+9206251,Helianthus annuus,Asteraceae,Asterales,80,52,13,22,22,16,Helianthus annuus,Aftosa; Anodyne; Bite(Snake); Bite(Tiger); Blindness; Carbuncle,India(Santal)
+5420914,Heimia salicifolia,Lythraceae,Myrtales,33,21,4,1,1,4,Heimia salicifolia,Intoxicant,India
+9585399,Cynanchum annularium,Apocynaceae,Gentianales,9,9,1,9,9,1,Holostemma annularis,Ache(Stomach); Cough; Diabetes; Gonorrhea; Lactogogue; Ophthalmia,India
+3661655,Holigarna arnottiana,Anacardiaceae,Sapindales,2,2,1,2,2,1,Holigarna arnottiana,Medicine; Vesicant,India
+3191302,Hiptage benghalensis,Malpighiaceae,Malpighiales,9,7,2,8,6,4,Hiptage bengalensis; Hiptage benghalensis,Insecticide; Skin; Asthma; Rheumatism; Scabies; Tumor(Abdomen),India
+7293122,Hippophae salicifolia,Elaeagnaceae,Rosales,3,3,1,3,3,1,Hippophae salicifolia,Eruption; Lung; Skin,India
+3039285,Hippophae rhamnoides,Elaeagnaceae,Rosales,8,8,6,3,3,4,Hippophae rhamnoides,Eruption; Skin; Lung,India
+3794294,Reissantia arborea,Celastraceae,Celastrales,1,1,1,1,1,1,Hippocratea arborea,Sore,India(Santal)
+7115794,Talipariti tiliaceum,Malvaceae,Malvales,52,34,11,13,13,10,Hibiscus tiliaceus,Ache(Ear); Apertif; Diuretic; Dysentery; Emollient; Fever,India
+3152583,Hibiscus syriacus,Malvaceae,Malvales,21,17,4,5,5,5,Hibiscus syriacus,Cold; Diuretic; Sore; Stomachic; Ache(Head),India
+3941020,Hibiscus surattensis,Malvaceae,Malvales,13,11,5,7,7,4,Hibiscus surattensis,Cough; Gonorrhea; Skin; Sore; Venereal; Laxative,India
+3152582,Hibiscus sabdariffa,Malvaceae,Malvales,48,29,10,12,12,9,Hibiscus sabdariffa,Antiseptic; Choleretic; Diuretic; Emollient; Hypertension; Laxative,India
+3152559,Hibiscus rosa-sinensis,Malvaceae,Malvales,89,51,19,4,4,16,Hibiscus rosa-sinensis,Tuberculosis; Cough; Menorrhagia; Urogenital,India(Santal)
+3152595,Hibiscus radiatus,Malvaceae,Malvales,1,1,1,1,1,1,Hibiscus radiatus,Medicine,India
+8356610,Hibiscus micranthus,Malvaceae,Malvales,1,1,1,1,1,1,Hibiscus micranthus,Medicine,India
+3152547,Hibiscus cannabinus,Malvaceae,Malvales,19,11,4,2,2,5,Hibiscus cannabinus,Fever; Puerperium,India(Santal)
+3852273,Heynea trijuga,Meliaceae,Sapindales,6,5,2,3,3,2,Heynea trijuga,Cholera; Poison; Tonic,India
+5380015,Hura crepitans,Euphorbiaceae,Malpighiales,33,19,10,2,2,8,Hura crepitans,Poison; Purgative,India
+5536465,Hunteria zeylanica,Apocynaceae,Gentianales,3,3,2,2,2,1,Hunteria zeylanica,Wound; Sore,Sri Lanka
+2984535,Humulus lupulus,Cannabaceae,Rosales,42,28,10,4,2,10,Humulus lupulus,Hypnotic; Sedative,Nepal
+5356760,Humboldtia vahliana,Fabaceae,Fabales,4,4,1,4,4,1,Humboldtia vahliana,Bilious; Epilepsy; Sore; Leprosy,India
+5658035,Hugonia mystax,Linaceae,Malpighiales,8,8,1,8,8,3,Hugonia mystax,Antidote; Bite(Snake); Inflammation; Tumor; Vermicide; Fever,India
+3575505,Hoya alexicaca,Apocynaceae,Gentianales,2,2,1,2,2,1,Hoya pendula,Alexipharmic; Emetic,India
+3573230,Hoya multiflora,Apocynaceae,Gentianales,4,2,2,1,1,2,Hoya multiflora,Diuretic,India
+3039410,Hovenia dulcis,Rhamnaceae,Rosales,17,13,3,1,1,5,Hovenia dulcis,Intoxication,India
+5384931,Houttuynia cordata,Saururaceae,Piperales,65,45,6,7,7,10,Houttuynia cordata,Diuretic; Dysentery; Eye; Gonorrhea; Measles; Skin,India
+2706056,Hordeum vulgare,Poaceae,Poales,42,34,11,11,11,9,Hordeum vulgare,Bladder; Bronchitis; Chest; Demulcent; Inflammation; Intoxicant,India; Nepal
+5595116,Hoppea dichotoma,Gentianaceae,Gentianales,3,3,1,3,3,1,Hoppea dichotoma,Epilepsy; Piles; Bite(Snake),India
+5669231,Hopea odorata,Dipterocarpaceae,Malvales,8,5,4,3,3,3,Hopea odorata,Astringent; Styptic; Gum,India
+3071623,Homonoia riparia,Euphorbiaceae,Malpighiales,11,8,6,3,3,4,Homonoia riparia,Diuretic; Skin; Laxative,India
+2868726,Homalomena rubescens,Araceae,Alismatales,3,3,2,2,2,1,Homalomena rubescens,Skin; Stimulant,India
+2868616,Homalomena aromatica,Araceae,Alismatales,3,2,2,2,2,2,Homalomena aromatica,Skin; Stimulant,India
+3085349,Holosteum umbellatum,Caryophyllaceae,Caryophyllales,1,1,1,1,1,1,Holosteum umbellatum,Demulcent,Kashmir
+2904440,Hymenodictyon orixense,Rubiaceae,Gentianales,13,13,2,9,9,3,Hymenodictyon excelsum,Astringent; Atrophy; Dyslactation; Malaria; Sore; Fever,India; India(Santal)
+4147943,Hygroryza aristata,Poaceae,Poales,1,1,1,1,1,1,Hygroryza aristata,Bilious,India
+7591349,Hygrophila ringens,Acanthaceae,Lamiales,4,2,2,2,2,2,Hygrophila quadrivalvis,Ache(Tooth); Wound,India
+5415347,Hygrophila angustifolia,Acanthaceae,Lamiales,2,2,2,1,1,2,Hygrophila angustifolia,Tumor,India
+3612749,Hydrolea zeylanica,Hydroleaceae,Solanales,8,4,1,8,4,3,Hydrolea zeylanica,Callus; Antiseptic; Sore; Poultice,India
+8418338,Hydrocotyle sibthorpioides,Araliaceae,Apiales,13,13,5,8,8,4,Hydrocotyle sibthorpioides,Diuretic; Dyspepsia; Lung; Rheumatism; Skin; Vermifuge,India
+6026987,Hydrocotyle javanica,Araliaceae,Apiales,15,13,4,12,12,3,Hydrocotyle javanica,Alterative; Depurative; Nerves; Piscicide; Stimulant; Skin,India
+3034129,Hydrocotyle asiatica,Araliaceae,Apiales,24,24,3,2,2,2,Hydrocotyle asiatica,Fungicide; Bactericide,India
+5329272,Hydrocharis dubia,Hydrocharitaceae,Alismatales,1,1,1,1,1,1,Hydrocharis dubia,Astringent,India
+3645663,Hydrangea aspera,Hydrangeaceae,Cornales,1,1,1,1,1,1,Hydrangea aspera,Cyanogenetic,India
+3877971,Hydnocarpus pentandrus,Achariaceae,Malpighiales,12,12,1,12,12,2,Hydnocarpus laurifolia; Hydnocarpus wightiana,Ophthalmia; Purgative; Rheumatism; Sciatica; Sprain; Bruise,India
+2874151,Hydnocarpus kurzii,Achariaceae,Malpighiales,26,20,5,11,10,6,Hydnocarpus kurzii; Taraktogenos kurzii,Leprosy; Piscicide; Skin; Sore; Fever; Bactericide,India
+11446635,Pigea enneasperma,Violaceae,Malpighiales,9,9,2,7,7,1,Hybanthus enneaspermus,Demulcent; Tonic; Urogenital; Bowel; Diuretic; Gonorrhea,India
+5549975,Illigera villosa,Hernandiaceae,Laurales,1,1,1,1,1,1,Illigera villosa,Fever,India
+2889756,Illicium verum,Schisandraceae,Austrobaileyales,42,30,5,1,1,6,Illicium verum,Constipation,India
+3592309,Illicium griffithii,Schisandraceae,Austrobaileyales,3,3,1,3,3,1,Illicium griffithii,Astringent; Poison; Carminative,India
+7778424,Ichnocarpus frutescens,Apocynaceae,Gentianales,46,45,1,46,45,3,Ichnocarpus frutescens,Fever; Alterative; Atrophy; Bite(Dog); Ache(Head); Cachexia,India; India(Santal)
+5341387,Hyssopus officinalis,Lamiaceae,Lamiales,38,30,5,2,2,7,Hyssopus officinalis,Sclerosis(Liver); Tumor(Abdomen),India
+3889017,Mesosphaerum suaveolens,Lamiaceae,Lamiales,74,43,13,2,2,13,Hyptis suaveolens,Ache(Head); Epistaxis,India
+2926815,Hyptis capitata,Lamiaceae,Lamiales,21,17,5,4,4,4,Hyptis capitata,Cyanogenetic; Excitant; Stimulant; Tonic,India
+7306536,Hyptis brevipes,Lamiaceae,Lamiales,9,7,6,2,2,3,Hyptis brevipes,Wound; Bite,India
+2852790,Hypoxis aurea,Hypoxidaceae,Asparagales,19,13,3,2,2,3,Hypoxis aurea,Emaciation; Eye,India
+3189486,Hypericum perforatum,Hypericaceae,Malpighiales,44,36,7,2,2,9,Hypericum perforatum,Emmenagogue; Vermifuge,India
+3713491,Hypericum patulum,Hypericaceae,Malpighiales,4,4,3,1,1,2,Hypericum patulum,Stimulant,India
+3713869,Hypericum oblongifolium,Hypericaceae,Malpighiales,2,2,1,2,2,1,Hypericum cernuum,Boil; Wound,India
+3802521,Hyoscyamus pusillus,Solanaceae,Solanales,1,1,1,1,1,1,Hyoscyamus pusillus,Poison,India
+2928978,Hyoscyamus niger,Solanaceae,Solanales,75,45,13,13,10,11,Hyoscyamus niger,Asthma; Narcotic; Sedative; Cancer; Gout; Diabetes,India; Nepal
+2928977,Hyoscyamus muticus,Solanaceae,Solanales,21,13,9,3,2,5,Hyoscyamus muticus,Fumitory; Intoxicant,India
+2928979,Hyoscyamus albus,Solanaceae,Solanales,27,19,12,1,1,5,Hyoscyamus albus,Diabetes,India
+4927164,Ipomoea tuberculata,Convolvulaceae,Solanales,1,1,1,1,1,1,Ipomoea dasysperma,Rabies,India
+2928590,Ipomoea carnea,Convolvulaceae,Solanales,1,1,1,1,1,1,Ipomoea carnea,Poison,India
+2928551,Ipomoea batatas,Convolvulaceae,Solanales,26,22,14,1,1,13,Ipomoea batatas,Dyslactation,India(Santal)
+2928525,Ipomoea aquatica,Convolvulaceae,Solanales,18,11,5,10,7,3,Ipomoea aquatica,Debility; Purgative; Piles; Refrigerant; Ringworm; Emetic,India
+7414441,Ipomoea aculeata,Convolvulaceae,Solanales,1,1,1,1,1,1,Ipomoea aculeata,Bite(Snake),India
+7468408,Inula royleana,Asteraceae,Asterales,4,4,1,4,4,1,Inula royleana,Antiseptic; Pediculicide; Poison; Parasiticide,India
+4933624,Inula racemosa,Asteraceae,Asterales,6,6,1,6,6,2,Inula racemosa,Antiseptic; Aphrodisiac; Expectorant; Sclerosis; Vermifuge; Diuretic,India
+3148340,Inula helenium,Asteraceae,Asterales,43,28,8,1,1,10,Inula helenium,Sclerosis,India
+3101193,Dittrichia graveolens,Asteraceae,Asterales,6,5,3,2,2,3,Inula graveolens,Calculus; Diuretic,Pakistan
+3125409,Iphiona grantioides,Asteraceae,Asterales,1,1,1,1,1,1,Inula grantioides,Asthma,India
+2972043,Indigofera tinctoria,Fabaceae,Fabales,56,51,7,4,4,8,Indigofera tinctoria,Larvicide; Tumor(Abdomen); Urogenital; Wound,India
+2971507,Indigofera cassioides,Fabaceae,Fabales,7,7,1,7,7,2,Indigofera pulchella,Chest; Cough; Menorrhagia; Stomach; Swelling; Dysuria,India; India(Santal)
+2971525,Indigofera linifolia,Fabaceae,Fabales,5,4,3,1,1,2,Indigofera linifolia,Amenorrhea,India(Santal)
+2972082,Indigofera hirsuta,Fabaceae,Fabales,4,4,3,1,1,1,Indigofera hirsuta,Poison,India
+8424006,Imperata cylindrica,Poaceae,Poales,74,49,12,5,5,13,Imperata cylindrica,Diarrhea; Dysentery; Hemostat; Gonorrhea; Vulnerary,India
+5298086,Iris pallida,Iridaceae,Asparagales,10,10,4,1,1,4,Iris pallida,Cancer,India
+5298079,Iris florentina,Iridaceae,Asparagales,16,16,5,1,1,3,Iris florentina,Cancer,India
+5298900,Iris ensata,Iridaceae,Asparagales,17,16,3,5,5,3,Iris ensata,Alterative; Depurative; Dropsy; Hepatitis; Venereal,India
+5298353,Iris decora,Iridaceae,Asparagales,2,1,1,2,1,2,Iris decora,Diuretic,Nepal
+5341747,Operculina turpethum,Convolvulaceae,Solanales,11,8,6,2,2,6,Ipomoea turpethum; Operculina turpethum,Purgative; Tumor(Abdomen),India
+5549041,Merremia emarginata,Convolvulaceae,Solanales,16,9,4,5,5,4,Ipomoea reniformis; Merremia emarginata,Alterative; Deobstruent; Neuralgia; Sore; Tumor(Abdomen),India
+2928562,Ipomoea quamoclit,Convolvulaceae,Solanales,15,12,7,3,3,4,Ipomoea quamoclit,Anodyne; Sore; Breast,India(Santal)
+2928624,Ipomoea hederifolia,Convolvulaceae,Solanales,2,2,1,2,2,1,Ipomoea phoenicea,Bite(Snake); Sternutatory,India(Munda)
+2928524,Ipomoea pes-tigridis,Convolvulaceae,Solanales,9,8,5,1,1,3,Ipomoea pes-tigridis,Tumor,Sri Lanka
+7999386,Ipomoea pes-caprae,Convolvulaceae,Solanales,48,39,13,3,3,9,Ipomoea pes-caprae,Evil eye; Pregnancy; Rheumatism,India
+2928565,Ipomoea obscura,Convolvulaceae,Solanales,3,2,2,2,2,2,Ipomoea obscura,Aphthae; Sore,India
+2928534,Ipomoea nil,Convolvulaceae,Solanales,4,2,2,3,2,3,Ipomoea nil,Purgative; Cathartic,India; India*
+2928598,Ipomoea indica,Convolvulaceae,Solanales,1,1,1,1,1,1,Ipomoea learii,Dysentery,India(Munda)
+2928538,Ipomoea hederacea,Convolvulaceae,Solanales,10,8,3,1,1,4,Ipomoea hederacea,Purgative,India
+2928545,Ipomoea eriocarpa,Convolvulaceae,Solanales,6,6,1,6,6,1,Ipomoea eriocarpa,Ache(Head); Epilepsy; Fever; Rheumatism; Sore; Leprosy,India
+8249252,Ipomoea digitata,Convolvulaceae,Solanales,21,20,4,5,5,4,Ipomoea digitata,Cholagogue; Tonic; Tumor(Abdomen); Lactagogue; Rennet,India
+2715620,Cyperus serotinus,Cyperaceae,Poales,2,2,1,2,2,1,Juncellus inundatus,Stimulant; Tonic,India
+3054368,Juglans regia,Juglandaceae,Fagales,73,53,8,8,6,14,Juglans regia,Anthelminthic; Rheumatism; Insecticide; Dentifrice; Toe; Sore,India; Nepal
+3072953,Jatropha curcas,Euphorbiaceae,Malpighiales,177,95,35,16,16,26,Jatropha curcas,Anasarca; Antidote; Carbuncle; Convulsion; Dropsy; Pleurisy,India; India(Santal); India(Travancore)
+7587215,Jasminum sambac,Oleaceae,Lamiales,39,27,9,1,1,8,Jasminum sambac,Tumor(Breast),India
+3682295,Jasminum rottlerianum,Oleaceae,Lamiales,2,2,1,2,2,1,Jasminum rottlerianum,Depurative; Eczema,India
+7325904,Jasminum ritchiei,Oleaceae,Lamiales,1,1,1,1,1,1,Jasminum ritchiei,Ache(Tooth),India
+3172267,Jasminum multiflorum,Oleaceae,Lamiales,1,1,1,1,1,1,Jasminum multiflorum,Sore,India
+3683375,Jasminum malabaricum,Oleaceae,Lamiales,1,1,1,1,1,1,Jasminum malabaricum,Cataract,India
+3172262,Jasminum grandiflorum,Oleaceae,Lamiales,7,7,6,2,2,2,Jasminum grandiflorum,Cancer; Emmenagogue,India
+7970015,Jasminum flexile,Oleaceae,Lamiales,3,3,1,3,3,1,Jasminum flexile,Sinus; Fistula; Ringworm,India
+3682675,Jasminum auriculatum,Oleaceae,Lamiales,1,1,1,1,1,1,Jasminum auriculatum,Tuberculosis,India
+3682778,Jasminum arborescens,Oleaceae,Lamiales,9,9,1,9,9,2,Jasminum arborescens,Asthma; Emetic; Fever; Sore; Stomachic; Tonic,India; India(Santal)
+8377988,Jasminum angustifolium,Oleaceae,Lamiales,2,2,1,2,2,1,Jasminum angustifolium,Ringworm; Emetic,India
+2905716,Ixora parviflora,Rubiaceae,Gentianales,2,2,1,2,2,1,Ixora parviflora,Antidote(Spider); Dysuria,India(Santal)
+2905255,Ixora nigricans,Rubiaceae,Gentianales,1,1,1,1,1,1,Ixora nigricans,Dysentery,India
+2870438,Lagenandra ovata,Araceae,Alismatales,5,5,2,3,3,1,Lagenandra ovata,Kidney; Swelling; Heart,India
+2952236,Lablab purpureus,Fabaceae,Fabales,22,22,4,6,6,5,Lablab purpureus,Ache(Ear); Blindness; Epilepsy; Megalospleny; Throat; Swelling,India(Santal)
+7279431,Kydia calycina,Malvaceae,Malvales,4,4,2,1,1,2,Kydia calycina,Anodyne,India(Gujarat)
+5536025,Kopsia fruticosa,Apocynaceae,Gentianales,4,4,3,1,1,1,Kopsia fruticosa,Cholinergic,India
+5568213,Bassia indica,Amaranthaceae,Caryophyllales,1,1,1,1,1,1,Kochia indica,Cardiotonic,India
+10667020,Knema angustifolia,Myristicaceae,Magnoliales,4,4,1,4,4,1,Knema angustifolia,Sore; Astringent; Dysentery; Stomatitis,India
+2985933,Kalanchoe laciniata,Crassulaceae,Saxifragales,26,20,5,7,7,3,Kalanchoe laciniata,Asthma; Diarrhea; Dyspepsia; Fever; Urticaria; Bronchitis,India(Santal)
+2985939,Kalanchoe integra,Crassulaceae,Saxifragales,4,4,2,3,3,1,Kalanchoe integra,Abscess; Purgative; Insecticide,India
+5301445,Kaempferia rotunda,Zingiberaceae,Zingiberales,5,4,4,2,1,4,Kaempferia rotunda,Tumor,India
+5301451,Kaempferia galanga,Zingiberaceae,Zingiberales,45,30,9,1,1,7,Kaempferia galanga,Pediculicide,India
+7692793,Justicia vasculosa,Acanthaceae,Lamiales,1,1,1,1,1,1,Justicia vasculosa,Inflammation,India
+8304469,Justicia tranquebariensis,Acanthaceae,Lamiales,4,4,1,4,4,1,Justicia tranquebariensis,Refrigerant; Smallpox; Aperient; Bruise,India
+7418885,Justicia betonica,Acanthaceae,Lamiales,4,3,3,1,1,2,Justicia betonica,Boil,Sri Lanka
+5420987,Ludwigia octovalvis,Onagraceae,Myrtales,26,21,7,4,3,6,Jussiaea suffruticosa,Fever; Thirst; Puerperium,India; India(Santal)
+3973001,Vicia lens,Fabaceae,Fabales,4,4,3,1,1,3,Lens culinaris,Tumor(Abdomen),India
+4160394,Leea macrophylla,Vitaceae,Vitales,20,19,3,11,11,4,Leea macrophylla,Anodyne; Chest; Dysentery; Fracture(Veterinary); Pleurisy; Pleuritis,India(Gujarat); India(Santal)
+4160336,Leea indica,Vitaceae,Vitales,14,12,8,2,1,5,Leea indica,Wart,India; Sri Lanka
+8752689,Leea crispa,Vitaceae,Vitales,2,2,1,2,2,1,Leea crispa,Wound; Larvicide,India
+7994517,Leea aequata,Vitaceae,Vitales,16,14,2,13,13,4,Leea aequata,Antiseptic; Bactericide; Dysentery; Dysuria; Fever; Neuralgia,India; India(Santal)
+5420912,Lawsonia inermis,Lythraceae,Myrtales,60,43,15,5,5,13,Lawsonia inermis,Ache(Head); Bactericide; Fungicide; Myalgia; Candida,India; India(Santal)
+5356488,Lathyrus sativus,Fabaceae,Fabales,8,6,6,3,3,5,Lathyrus sativus,Ache(Leg); Dysentery; Stomach,India(Santal)
+5330870,Lasia spinosa,Araceae,Alismatales,19,17,6,8,8,3,Lasia aculeata; Lasia spinosa,Asthma; Bronchitis; Tuberculosis; Cough; Fistula; Phthisis,India(Santal); Sri Lanka
+2984469,Laportea interrupta,Urticaceae,Rosales,10,10,3,1,1,2,Laportea interrupta,Diuretic,India
+3661151,Lannea coromandelica,Anacardiaceae,Sapindales,15,14,2,9,9,2,Lannea coromandelica,Antidote; Carbuncle; Convulsion; Diarrhea; Dysentery; Hematuria,India(Bengal); India(Santal)
+3086704,Pseudoconyza viscosa,Asteraceae,Asterales,2,2,1,2,2,1,Laggera aurita,Cut; Styptic,India(Munda)
+3988512,Lagerstroemia parviflora,Lythraceae,Myrtales,13,13,1,13,13,1,Lagerstroemia parviflora,Bite(Dog); Bronchitis; Carbuncle; Cough; Rabies; Wound,India(Santal)
+2874672,Lagenaria siceraria,Cucurbitaceae,Cucurbitales,56,42,10,11,11,13,Lagenaria siceraria; Lagenaria vulgaris,Convulsion; Medicine; Sore; Splenitis; Tetanus; Wound,India; India(Santal)
+4937248,Lilium wallichianum,Liliaceae,Liliales,8,2,3,6,2,4,Lilium wallichianum,Demulcent; Pectoral,India(Hindu); Nepal
+3172294,Ligustrum sinense,Oleaceae,Lamiales,5,3,2,5,3,3,Ligustrum indicum,Diuretic; Bruise; Odontitis,India; Nepal
+2860425,Leucojum aestivum,Amaryllidaceae,Asparagales,1,1,1,1,1,1,Leucojum aestivum,Emetic,India
+7361676,Leucas stelligera,Lamiaceae,Lamiales,3,3,1,3,3,1,Leucas stelligera,Carminative; Stimulant; Emmenagogue,India
+7788585,Leucas lanata,Lamiaceae,Lamiales,1,1,1,1,1,1,Leucas lanata,Cough,India
+5606828,Leucas clarkei,Lamiaceae,Lamiales,2,2,1,2,2,1,Leucas clarkei,Cephalitis; Swelling,India(Santal)
+5606847,Leucas cephalotes,Lamiaceae,Lamiales,20,12,2,14,11,3,Leucas cephalotes,Stimulant; Cough; Cold; Bite(Snake); Antiseptic; Ache(Head),India; India(Santal)
+5607947,Leucas aspera,Lamiaceae,Lamiales,11,9,4,7,7,2,Leucas aspera,Bactericide; Cough; Fever; Psoriasis; Swelling; Cold,India
+2970418,Leucaena leucocephala,Fabaceae,Fabales,19,15,8,1,1,7,Leucaena leucocephala,Anodyne,Assam
+3580162,Leptadenia reticulata,Apocynaceae,Gentianales,8,8,2,1,1,1,Leptadenia reticulata,Antiabortifacient,India
+3658877,Lepionurus sylvestris,Opiliaceae,Santalales,1,1,1,1,1,1,Lepionurus sylvestris,Ache(Head),India
+5376565,Lepidium sativum,Brassicaceae,Brassicales,53,39,14,13,13,11,Lepidium sativum,Ache(Stomach); Anodyne; Asthma; Bronchitis; Dysentery; Phthisis,India(Santal)
+7263961,Lepidagathis incurva,Acanthaceae,Lamiales,2,1,2,1,1,2,Lepidagathis incurva,Cough,India
+7263977,Lepidagathis hamiltoniana,Acanthaceae,Lamiales,1,1,1,1,1,1,Lepidagathis hamiltoniana,Skin,India
+3776967,Lepidagathis cristata,Acanthaceae,Lamiales,8,8,2,7,7,2,Lepidagathis cristata,Adenopathy; Itch; Scabies; Skin; Sore; Syphilis,India; India(Santal)
+4924659,Leonotis nepetifolia,Lamiaceae,Lamiales,33,21,7,6,6,7,Leonotis nepetaefolia,Burn; Convulsion; Eyelid; Ophthalmia; Spasm; Swelling,India(Gujarat); India(Santal)
+7322187,Ludwigia adscendens,Onagraceae,Myrtales,3,3,1,3,3,1,Ludwigia adscendens,Poultice; Sore; Skin,India
+4001655,Scurrula cordifolia,Loranthaceae,Santalales,1,1,1,1,1,1,Loranthus buddleioides,Cholera,India(Santal)
+5408559,Lobelia pyramidalis,Campanulaceae,Asterales,4,2,1,4,2,2,Lobelia pyramidalis,Antispasmodic; Poison,Nepal
+5407839,Lobelia excelsa,Campanulaceae,Asterales,1,1,1,1,1,1,Lobelia excelsa,Fumitory,India
+4182444,Litsea monopetala,Lauraceae,Laurales,8,8,1,8,8,1,Litsea polyantha,Ache(Stomach); Anodyne; Carbuncle; Dropsy; Loin; Anasarca,India(Santal)
+8956507,Litsea lancifolia,Lauraceae,Laurales,2,2,1,2,2,1,Litsea lancifolia,Wound; Sprain,India
+2873861,Linum usitatissimum,Linaceae,Malpighiales,61,39,17,6,6,14,Linum usitatissimum,Demulcent; Diuretic; Emollient; Expectorant; Intoxication; Cough,India(Santal); India*
+5523904,Linostoma decandrum,Thymelaeaceae,Malvales,2,1,2,1,1,2,Linostoma decandrum,Piscicide,India
+3733807,Bonnaya antipoda,Linderniaceae,Lamiales,15,15,1,15,15,1,Lindernia veronicaefolia,Abdomen; Anthrax; Cholera; Convulsion; Fever; Puerperium,India(Santal)
+3733655,Bonnaya oppositifolia,Linderniaceae,Lamiales,1,1,1,1,1,1,Lindernia oppositifolia,Larvicide,India
+3171892,Torenia crustacea,Linderniaceae,Lamiales,16,10,5,2,2,4,Lindernia crustacea,Boil; Poultice,India
+10975167,Torenia anagallis,Linderniaceae,Lamiales,6,5,3,1,1,2,Lindernia cordifolia,Gonorrhea,India
+3731671,Lindenbergia indica,Orobanchaceae,Lamiales,2,2,1,2,2,1,Lindenbergia indica,Bronchitis; Eruption,India
+5415004,Limnophila indica,Plantaginaceae,Lamiales,10,6,3,3,3,2,Limnophila indica,Antiseptic; Elephantiasis; Fever,India
+5415005,Limnophila aromatica,Plantaginaceae,Lamiales,13,11,5,1,1,3,Limnophila aromatica,Expectorant,India
+5592249,Nymphoides hydrophylla,Menyanthaceae,Asterales,11,6,3,8,6,4,Limnanthemum cristatum; Nymphoides cristatum,Bite(Bug); Sore; Jaundice; Parasiticide; Vermifuge; Fever,India
+3981498,Mahonia napaulensis,Berberidaceae,Ranunculales,4,2,1,4,2,2,Mahonia napaulensis,Diuretic; Dysentery,Nepal
+3153582,Magnolia denudata,Magnoliaceae,Magnoliales,3,3,2,1,1,2,Magnolia denudata,Medicine,India
+7736989,Maesa indica,Primulaceae,Ericales,2,1,2,1,1,2,Maesa indica,Piscicide,India
+2883346,Madhuca longifolia,Sapotaceae,Ericales,91,57,2,70,49,7,Madhuca indica; Madhuca latifolia; Madhuca longifolia,Tuberculosis; Gingivitis; Ear; Carminative; Bilious; Bronchitis,India; India(Ayurvedic); India(Gujarat); India(Santal)
+7287970,Macrosolen cochinchinensis,Loranthaceae,Santalales,3,3,2,1,1,2,Macrosolen cochinchinensis,Ache(Head),India
+7328514,Lyonia ovalifolia,Ericaceae,Ericales,7,6,3,4,3,4,Lyonia ovalifolia,Dermatosis; Boil; Pimple,India; Nepal
+5341478,Lycopus europaeus,Lamiaceae,Lamiales,10,9,5,1,1,4,Lycopus europaeus,Refrigerant,India(Punjab)
+2963817,Lupinus luteus,Fabaceae,Fabales,2,2,2,1,1,1,Lupinus luteus,Poison,India
+5305879,Luisia tenuifolia,Orchidaceae,Asparagales,4,4,1,4,4,1,Luisia tenuifolia,Abscess; Boil; Emollient; Tumor,India
+2874601,Luffa acutangula,Cucurbitaceae,Cucurbitales,51,32,9,10,10,7,Luffa acutangula,Adenopathy; Anodyne; Convulsion; Scabies; Scrofula; Sore,India(Santal)
+5545149,Ludwigia prostrata,Onagraceae,Myrtales,2,2,1,2,2,1,Ludwigia prostrata,Myalgia; Ache(Tooth),India
+8129014,Ludwigia perennis,Onagraceae,Myrtales,2,1,1,2,1,2,Ludwigia perennis,Fever,India
+2927208,Mentha aquatica,Lamiaceae,Lamiales,14,9,3,6,3,4,Mentha citrata,Carminative; Diuretic; Stomachic,Nepal
+2927192,Mentha arvensis,Lamiaceae,Lamiales,76,49,8,4,2,16,Mentha arvensis,Carminative; Stomachic,Nepal
+3152125,Melochia corchorifolia,Malvaceae,Malvales,18,12,4,5,5,4,Melochia corchorifolia,Abdomen; Bite(Snake); Sore; Swelling; Dysentery,India
+4115908,Melocanna baccifera,Poaceae,Poales,1,1,1,1,1,1,Melocanna bambusoides,Medicine,India
+5914287,Melia azedarach,Meliaceae,Sapindales,112,54,21,1,1,19,Melia azedarach,Tumor,India(Ayurvedic)
+5377378,Matthiola incana,Brassicaceae,Brassicales,5,5,2,1,1,2,Matthiola incana,Cancer,India
+3172618,Martynia annua,Martyniaceae,Lamiales,11,10,2,5,5,3,Martynia annua,Alopecia; Carbuncle; Sore; Sore(Throat); Scabies,India(Gujarat); India(Santal)
+5274875,Marsilea quadrifolia,Marsileaceae,Salviniales,22,18,2,8,8,3,Marsilea quadrifolia,Bite(Snake); Dyslactation; Fracture; Impetigo; Menorrhagia; Myalgia,India(Santal)
+12227408,Gongronemopsis tenacissima,Apocynaceae,Gentianales,3,2,1,3,2,2,Marsdenia tenacissima,Purgative; Colic,India; India(Munda)
+2761352,Maranta arundinacea,Marantaceae,Zingiberales,25,16,8,1,1,10,Maranta arundinacea,Medicine,India
+2885158,Manilkara zapota,Sapotaceae,Ericales,19,12,7,1,1,5,Manilkara zapota,Diuretic,India
+2885150,Manilkara kauki,Sapotaceae,Ericales,12,10,3,4,4,2,Manilkara kauki,Delirium; Diarrhea; Leprosy; Ophthalmia,India
+3190638,Mangifera indica,Anacardiaceae,Sapindales,148,80,20,12,12,23,Mangifera indica,Anasarca; Anemia; Cholera; Diarrhea; Dropsy; Dysentery,India(Santal)
+5341748,Mandragora officinarum,Solanaceae,Solanales,12,10,4,1,1,5,Mandragora officinarum,Narcotic,India
+3001509,Malus sylvestris,Rosaceae,Rosales,47,33,20,2,2,11,Malus sylvestris,Digestive; Cardiac,India
+5378605,Mallotus philippensis,Euphorbiaceae,Malpighiales,19,18,3,2,2,4,Mallotus philippensis,Tumor(Abdomen); Sore,India; India(Santal)
+5359830,Flemingia procumbens,Fabaceae,Fabales,2,2,1,2,2,1,Moghania vestita,Piscicide; Tapeworm,India
+5359866,Flemingia macrophylla,Fabaceae,Fabales,8,8,1,8,8,1,Moghania macrophylla,Cholera; Prolapse; Smallpox; Splenitis; Anus; Fistula,India(Santal)
+4122105,Mnesithea laevis,Poaceae,Poales,4,4,1,4,4,1,Mnesithea laevis,Atrophy; Cachexia; Anodyne; Epilepsy,India(Santal)
+3086240,Mirabilis jalapa,Nyctaginaceae,Caryophyllales,54,34,18,2,2,18,Mirabilis jalapa,Tumor; Cosmetic,India; Pakistan
+8335386,Mimusops kauki,Sapotaceae,Ericales,1,1,1,1,1,1,Mimusops kauki,Tumor,India
+2883768,Mimusops elengi,Sapotaceae,Ericales,47,41,13,13,13,6,Mimusops elengi,Bite(Tiger); Bronchitis; Carbuncle; Tuberculosis; Cough; Dropsy,India(Santal)
+2969303,Mimosa rubicaulis,Fabaceae,Fabales,17,17,1,17,17,1,Mimosa rubicaulis,Bite(Snake); Cachexia; Cholera; Tuberculosis; Cough; Dysuria,India(Santal)
+3156618,Miliusa velutina,Annonaceae,Magnoliales,3,3,2,2,2,2,Miliusa velutina,Jaundice; Rinderpest,India(Santal)
+7307212,Micromeria biflora,Lamiaceae,Lamiales,1,1,1,1,1,1,Micromeria biflora,Wound(Veterinary),India(Munda)
+3153099,Magnolia champaca,Magnoliaceae,Magnoliales,56,45,13,19,19,7,Michelia champaca,Asthma; Bronchitis; Carbuncle; Cholera; Cough; Dysentery,India; India(Santal)
+5354740,Mezoneuron cucullatum,Fabaceae,Fabales,3,3,2,2,2,2,Mezoneuron cucullatum,Convulsion; Spasm,India(Santal)
+7330039,Mesua ferrea,Calophyllaceae,Malpighiales,19,16,5,8,6,7,Mesua ferrea,Piles; Cough; Candida; Bactericide; Fungicide; Tumor(Abdomen),India; Nepal
+9619573,Camonea vitifolia,Convolvulaceae,Solanales,6,6,3,1,1,2,Merremia vitifolia,Stomachic,India(Munda)
+2927175,Mentha spicata,Lamiaceae,Lamiales,30,21,7,4,2,8,Mentha spicata,Carminative; Stomachic,Nepal
+8707933,Mentha piperita,Lamiaceae,Lamiales,49,34,12,1,1,13,Mentha piperita,Medicine,Nepal
+3926315,Clematis zeylanica,Ranunculaceae,Ranunculales,3,3,1,3,3,1,Naravelia zeylanica,Ache(Head); Chewstick; Ache(Tooth),India
+2687779,Nageia nagi,Podocarpaceae,Pinales,2,2,1,2,2,2,Myrica nagi,Piscicide; Tumor(Abdomen),India
+3745012,Morella esculenta,Myricaceae,Fagales,21,17,3,5,3,4,Myrica esculenta,Ache(Head); Antiseptic; Fever,India; Nepal
+2762950,Musa balbisiana,Musaceae,Zingiberales,1,1,1,1,1,1,Musa rosacea,Smallpox,India
+2762752,Musa paradisiaca,Musaceae,Zingiberales,135,93,18,11,11,18,Musa paradisiaca,Diarrhea; Hematuria; Hemiplegia; Hemorrhage; Nausea; Septicemia,India(Santal)
+2933885,Mundulea sericea,Fabaceae,Fabales,1,1,1,1,1,1,Mundulea suberosa,Piscicide,India
+2951499,Mucuna pruriens,Fabaceae,Fabales,45,30,16,15,15,15,Mucuna pruriens,Anasarca; Anodyne; Antidote(Crocodile); Antidote(Scorpion); Bite(Dog); Cancer,India; India(Santal)
+2951434,Mucuna monosperma,Fabaceae,Fabales,7,6,2,2,2,3,Mucuna monosperma,Spasm; Sedative,India; India(Hindu)
+3054181,Moringa oleifera,Moringaceae,Brassicales,118,82,20,23,23,12,Moringa oleifera,Adenopathy; Antidote(Centipede); Antidote(Scorpion); Antidote(Spider); Baldness; Cholera,India; India(Santal)
+2766031,Pontederia plantaginea,Pontederiaceae,Commelinales,3,3,1,3,3,1,Monochoria plantaginea,Dysentery; Rheumatism; Anemia,India(Santal)
+2765991,Pontederia hastata,Pontederiaceae,Commelinales,5,5,3,3,3,2,Monochoria hastata,Alterative; Refrigerant; Tonic,India
+2874579,Momordica dioica,Cucurbitaceae,Cucurbitales,9,9,2,3,3,2,Momordica dioica,Ache(Head); Swelling; Head,India(Santal)
+2874581,Momordica charantia,Cucurbitaceae,Cucurbitales,155,88,29,4,4,25,Momordica charantia,Bite(Snake); Diabetes Mellitis; Eczema; Hyperglycemia,India
+9381433,Trigastrotheca pentaphylla,Molluginaceae,Caryophyllales,13,9,4,4,4,3,Mollugo pentaphylla,Antiseptic; Stomachic; Aperient; Emmenagogue,India
+11203517,Glinus hirtus,Molluginaceae,Caryophyllales,5,5,1,5,5,1,Mollugo hirta,Diarrhea; Purgative; Abdomen; Itch; Skin,India
+2882429,Nymphaea lotus,Nymphaeaceae,Nymphaeales,24,19,6,12,12,5,Nymphaea edulis; Nymphaea lotus,Antidote(Chameleon); Bronchitis; Colic; Tuberculosis; Cough; Dysentery,India; India(Santal)
+5371700,Nigella sativa,Ranunculaceae,Ranunculales,53,42,8,17,17,9,Nigella indica; Nigella sativa,Anus; Atrophy; Bactericide; Cachexia; Convulsion; Gum,India; India(Santal)
+7395321,Neuracanthus sphaerostachyus,Acanthaceae,Lamiales,2,2,1,2,2,1,Neuracanthus sphaerostachyus,Dyspepsia; Ringworm,India
+7317019,Nerium indicum,Apocynaceae,Gentianales,46,36,6,28,26,9,Nerium indicum,Leprosy; Swelling; Bactericide; Bronchitis; Insecticide; Gingivitis,India; India(Santal); Nepal
+5353547,Neptunia triquetra,Fabaceae,Fabales,1,1,1,1,1,1,Neptunia triquetra,Ache(Head),India
+5610453,Nepeta hindostana,Lamiaceae,Lamiales,2,2,2,2,2,1,Nepeta hindostana,Gonorrhea; Sore(Throat),India; Nepal
+3702236,Nepenthes khasiana,Nepenthaceae,Caryophyllales,3,3,1,3,3,1,Nepenthes khasiana,Cholera; Eye; Urogenital,India
+7304387,Neolitsea umbrosa,Lauraceae,Laurales,3,2,2,2,2,2,Neolitsea umbrosa,Massage; Skin,India
+2882449,Nelumbo nucifera,Nelumbonaceae,Proteales,83,62,4,3,3,10,Nelumbo nucifera,Deobstruent; Tumor(Abdomen); Intestine,India; India(Santal)
+3597149,Natsiatum herpeticum,Icacinaceae,Icacinales,1,1,1,1,1,1,Natsiatum herpeticum,Flu,India
+3849548,Naregamia alata,Meliaceae,Sapindales,20,15,6,7,5,3,Naregamia alata,Bilious; Rheumatism; Dysentery; Itch; Emetic,India
+4095989,Nardostachys jatamansi,Caprifoliaceae,Dipsacales,65,43,6,33,27,8,Nardostachys jatamansi,Convulsion; Epilepsy; Hysteria; CNS depressant; Cholera; Cough,India; India(Santal); Nepal
+2858963,Narcissus tazetta,Amaryllidaceae,Asparagales,31,25,6,6,3,7,Narcissus tazetta,Diuretic; Emetic; Purgative,India
+4196795,Oleandra wallichii,Oleandraceae,Polypodiales,2,2,1,2,2,1,Oleandra wallichii,Rejuvenation; Senility,India
+6062622,Oleandra neriiformis,Oleandraceae,Polypodiales,1,1,1,1,1,1,Oleandra neriiformis,Emmenagogue,India
+8072036,Olea ferruginea,Oleaceae,Lamiales,4,4,1,4,4,1,Olea ferruginea,Astringent; Malaria; Debility; Fever,India
+2916292,Oldenlandia paniculata,Rubiaceae,Gentianales,4,4,2,3,3,2,Oldenlandia paniculata,Anasarca; Dropsy; Ascites,India(Santal)
+2911992,Oldenlandia herbacea,Rubiaceae,Gentianales,4,4,1,4,4,1,Oldenlandia heynei,Asthma; Fever; Bite(Snake); Rheumatism,India
+2911970,Oldenlandia corymbosa,Rubiaceae,Gentianales,14,11,5,5,4,7,Oldenlandia corymbosa,Fever; Hepatitis; Tumor(Abdomen); Jaundice,India; India(Santal)
+3685892,Olax zeylanica,Olacaceae,Santalales,1,1,1,1,1,1,Olax zeylanica,Dysuria,India
+3686148,Olax psittacorum,Olacaceae,Santalales,3,3,2,2,2,2,Olax scandens,Fever; Anemia,India
+3685545,Olax nana,Olacaceae,Santalales,2,2,1,2,2,2,Olax nana,Dysuria; Medicine,India; India(Santal)
+2927100,Ocimum tenuiflorum,Lamiaceae,Lamiales,56,45,8,24,21,10,Ocimum sanctum,Bronchitis; Ache(Ear); Expectorant; Bite(Dog); Cholera; Cough,India; India(Santal); Nepal
+8344835,Ocimum kilimandscharicum,Lamiaceae,Lamiales,3,3,2,1,1,2,Ocimum kilimandscharicum,Medicine,Nepal
+2927094,Ocimum gratissimum,Lamiaceae,Lamiales,72,54,15,6,6,10,Ocimum gratissimum,Ejaculation; Intoxicant; Paralysis; Rheumatism; Fumigation; Gonorrhea,India; India(Gujarat)
+2927097,Ocimum americanum,Lamiaceae,Lamiales,16,14,4,9,9,4,Ocimum canum,Bite(Dog); Bite(Snake); Cholera; Convulsion; Rabies; Ardor,India; India(Santal)
+2927096,Ocimum basilicum,Lamiaceae,Lamiales,114,86,20,20,20,21,Ocimum basilicum,Ache(Ear); Ache(Head); Anasarca; Antidote(Alcohol); Bite(Dog); Bite(Snake),India; India(Gujarat); India(Santal)
+7675054,Ochna pumila,Ochnaceae,Malpighiales,9,9,2,1,1,1,Ochna pumila,Epilepsy,India
+8427624,Oxalis corniculata,Oxalidaceae,Oxalidales,105,65,24,9,7,19,Oxalis corniculata,Refrigerant; Scurvy; Swelling; Wart; Wound; Tumor(Abdomen),India; Nepal; Pakistan
+2967471,Ougeinia oojeinensis,Fabaceae,Fabales,7,5,2,4,4,3,Ougeinia dalbergioides; Ougeinia oojeinensis,Cholera; Diarrhea; Dysentery; Piscicide,India; India(Santal)
+5329515,Ottelia alismoides,Hydrocharitaceae,Alismatales,6,3,4,1,1,3,Ottelia alismoides,Rubefacient,India
+7473922,Osyris lanceolata,Santalaceae,Santalales,1,1,1,1,1,1,Osyris arborea,Emetic,India
+3172278,Osmanthus fragrans,Oleaceae,Lamiales,6,5,2,1,1,3,Osmanthus fragrans,Repellant(Insect),India
+3866460,Osbeckia chinensis,Melastomataceae,Myrtales,9,7,3,2,2,3,Osbeckia chinensis,Diarrhea; Wound(Veterinary),India
+2703459,Oryza sativa,Poaceae,Poales,57,47,16,3,3,15,Oryza sativa,Intoxicant; Larvicide; Wart,India
+3892020,Orthosiphon rubicundus,Lamiaceae,Lamiales,1,1,1,1,1,1,Orthosiphon rubicundus,Colic,India
+7414934,Oroxylum indicum,Bignoniaceae,Lamiales,50,39,7,24,23,7,Oroxylum indicum,Diarrhea; Antiseptic; Anthrax; Astringent; Bite(Snake); Diaphoretic,India; India(Ayurvedic); India(Gujarat); India(Santal)
+2926612,Origanum vulgare,Lamiaceae,Lamiales,58,44,11,3,3,10,Origanum vulgare,Fever; Flu; Cold,India
+6378623,Opuntia dillenii,Cactaceae,Caryophyllales,6,5,2,3,3,3,Opuntia dillenii,Pimple; Sore; Syphilis,India(Santal)
+5340801,Ophiorrhiza mungos,Rubiaceae,Gentianales,6,5,2,1,1,2,Ophiorrhiza mungos,Cancer,India
+7321401,Ophioderma pendulum,Ophioglossaceae,Ophioglossales,4,4,3,1,1,3,Ophioglossum pendulum,Hair-Oil,India
+5566645,Onychium siliculosum,Pteridaceae,Polypodiales,1,1,1,1,1,1,Onychium siliculosum,Dysentery,India
+8058520,Setaria flavida,Poaceae,Poales,3,2,2,2,2,3,Paspalidium flavidum,Cyanogenetic; Overindulgence,India; India(Santal)
+7317262,Parsonsia alboflavescens,Apocynaceae,Gentianales,4,3,3,1,1,3,Parsonsia helicandra,Insanity,India(Hindu)
+5295929,Paris polyphylla,Melanthiaceae,Liliales,27,22,3,2,1,8,Paris polyphylla,Anthelminthic,Nepal
+2888439,Papaver somniferum,Papaveraceae,Ranunculales,134,69,17,16,15,18,Papaver somniferum,Aphrodisiac; Anodyne; Cancer; Catarrh; Conjunctivitis; Dysentery,India; India(Ayurvedic); India(Unani)
+2888443,Papaver rhoeas,Papaveraceae,Ranunculales,34,23,13,2,2,11,Papaver rhoeas,Narcotic; Sedative,India
+2705093,Panicum repens,Poaceae,Poales,21,20,4,17,17,4,Panicum repens,Anodyne; Asthma; Atrophy; Bloat; Cholera; Cold,India(Santal)
+2705079,Panicum sumatrense,Poaceae,Poales,2,1,1,2,1,2,Panicum psilopodium,Intoxicant,India
+2705141,Panicum antidotale,Poaceae,Poales,2,2,1,2,2,1,Panicum miliare,Carbuncle; Sore,India(Santal)
+8023236,Pandanus tectorius,Pandanaceae,Pandanales,8,8,3,1,1,3,Pandanus tectorius,Sore,India(Santal)
+2853243,Pancratium zeylanicum,Amaryllidaceae,Asparagales,9,8,3,1,1,2,Pancratium zeylanicum,Medicine,Sri Lanka
+4094464,Pajanelia longifolia,Bignoniaceae,Lamiales,13,13,3,1,1,2,Pajanelia longifolia,Diarrhea,India
+2909527,Paederia foetida,Rubiaceae,Gentianales,35,30,10,3,3,6,Paederia foetida,Splenitis; Ache(Tooth); Toothblack,India
+7268715,Pachygone ovata,Menispermaceae,Ranunculales,4,3,2,2,2,2,Pachygone ovata,Vermifuge; Piscicide,India
+3581762,Oxystelma wallichii,Apocynaceae,Gentianales,4,4,1,4,4,2,Oxystelma esculentum,Sore; Depurative; Megalospleny; Jaundice,India; India(Santal)
+2891708,Oxalis violacea,Oxalidaceae,Oxalidales,6,6,2,1,1,2,Oxalis violacea,Wart,India
+2891755,Oxalis latifolia,Oxalidaceae,Oxalidales,3,3,2,1,1,2,Oxalis latifolia,Soporific,India(Oraon)
+5293117,Phoenix acaulis,Arecaceae,Arecales,8,8,1,8,8,1,Phoenix acaulis,Bronchitis; Cachexia; Tuberculosis; Fever; Gravel; Puerperium,India(Santal)
+3775553,Phlogacanthus tubiflorus,Acanthaceae,Lamiales,1,1,1,1,1,1,Phlogacanthus tubiflorus,Soap,India
+3775560,Phlogacanthus thyrsiformis,Acanthaceae,Lamiales,9,9,1,9,9,1,Phlogacanthus thyrsiflorus,Antiseptic; Asthma; Tuberculosis; Cough; Jaundice; Spasm,India(Punjab)
+7989033,Leptospron adenanthum,Fabaceae,Fabales,4,4,2,2,2,2,Phaseolus adenanthus,Bowel; Salivation,India
+3628794,Peucedanum nagpurense,Apiaceae,Apiales,2,1,1,2,1,2,Peucedanum nagpurense,Stomachic,India
+3631540,Peucedanum dhana,Apiaceae,Apiales,3,2,1,3,2,2,Peucedanum dhana,Tonic; Fever,India
+7707846,Periploca aphylla,Apocynaceae,Gentianales,6,3,3,1,1,3,Periploca aphylla,Tumor,India
+5384214,Pereskia grandifolia,Cactaceae,Caryophyllales,1,1,1,1,1,1,Pereskia grandifolia,Swelling,India
+3152140,Pentapetes phoenicea,Malvaceae,Malvales,8,8,2,7,7,3,Pentapetes phoenicea,Bronchitis; Cough; Dysentery; Tumor(Abdomen); Tuberculosis; Fever,India; India(Santal)
+3189912,Peganum harmala,Tetradiclidaceae,Sapindales,65,40,19,11,11,7,Peganum harmala,Abortifacient; Aphrodisiac; Asthma; Diuretic; Emmenagogue; Fever,India; Pakistan
+3740352,Pedicularis pectinata,Orobanchaceae,Lamiales,5,4,2,1,1,2,Pedicularis pectinata,Hemoptysis,India(Hindu)
+5527253,Pedalium murex,Pedaliaceae,Lamiales,21,15,6,2,2,3,Pedalium murex,Demulcent; Tonic,India
+5617913,Pavonia zeylanica,Malvaceae,Malvales,2,2,1,2,2,1,Pavonia zeylanica,Vermifuge; Fever,India
+10746336,Pavonia zeylonica,Malvaceae,Malvales,9,9,2,1,1,2,Pavonia odorata,Tumor(Abdomen),India
+2924801,Pavetta indica,Rubiaceae,Gentianales,20,17,4,1,1,3,Pavetta indica,Dysentery,India(Santal)
+2705610,Paspalum scrobiculatum,Poaceae,Poales,15,10,4,6,6,5,Paspalum scrobiculatum,Antidote(Scorpion); Carbuncle; Poison; Sore; Diabetes; Intoxication,India; India(Santal)
+5285816,Pinus palustris,Pinaceae,Pinales,30,29,4,1,1,6,Pinus palustris,Tumor(Abdomen),India
+8325032,Pinus longifolia,Pinaceae,Pinales,3,3,1,3,3,1,Pinus longifolia,Bactericide; Candida; Fungicide,India
+6027010,Pimpinella diversifolia,Apiaceae,Apiales,1,1,1,1,1,1,Pimpinella diversifolia,Carminative,India
+3727300,Picrorhiza kurroa,Plantaginaceae,Lamiales,15,12,4,4,4,6,Picrorhiza kurroa,Fever; Medicine; Tumor; Stomach,India; Nepal
+3190677,Picrasma quassioides,Simaroubaceae,Sapindales,7,5,4,2,2,2,Picrasma quassioides,Insecticide; Fever,India(Punjab)
+3708935,Picrasma javanica,Simaroubaceae,Sapindales,6,5,5,2,2,4,Picrasma javanica,Dyspepsia; Larvicide,India
+2946860,Physostigma venenosum,Fabaceae,Fabales,20,18,4,1,1,4,Physostigma venenosum,Poison,India
+3799821,Physochlaina praealta,Solanaceae,Solanales,6,6,2,1,1,1,Physochlaina praealta,Bilious,India
+5382780,Phyllanthus urinaria,Phyllanthaceae,Malpighiales,57,43,7,4,4,5,Phyllanthus urinaria,Gonorrhea; Piscicide; Insomnia; Urogenital,India
+5382061,Phyllanthus virgatus,Phyllanthaceae,Malpighiales,13,8,4,4,4,3,Phyllanthus simplex,Abscess; Antiseptic; Itch; Mammary,India
+5381945,Phyllanthus niruri,Phyllanthaceae,Malpighiales,55,37,15,4,4,9,Phyllanthus niruri,Gonorrhea; Tumor(Abdomen); Diuretic; Dysentery,India
+5381498,Phyllanthus fraternus,Phyllanthaceae,Malpighiales,26,21,2,5,5,2,Phyllanthus fraternus,Dysentery; Ophthalmia; Stomachic; Jaundice; Sore,India
+5381660,Phyllanthus emblica,Phyllanthaceae,Malpighiales,33,28,3,32,27,7,Phyllanthus emblica,Anemia; Acrid; Laxative; Thirst; Bactericide; Anthrax,India; India(Santal); Nepal
+5341112,Phyla nodiflora,Verbenaceae,Lamiales,21,18,5,11,11,4,Phyla nodiflora,Boil; Demulcent; Diuretic; Dyspepsia; Fever; Gonorrhea,India
+5293177,Phoenix sylvestris,Arecaceae,Arecales,1,1,1,1,1,1,Phoenix sylvestris,Gingivitis,India(Santal)
+2870583,Pistia stratiotes,Araceae,Alismatales,71,40,11,7,7,10,Pistia stratiotes,Asthma; Cough; Ear; Skin; Dysentery; Piles,India; India(Munda)
+3661956,Pistacia mutica,Anacardiaceae,Sapindales,1,1,1,1,1,1,Pistacia mutica,Cancer,India
+3662027,Pistacia khinjuk,Anacardiaceae,Sapindales,1,1,1,1,1,1,Pistacia khinjuk,Cancer,India
+4185269,Piper sylvaticum,Piperaceae,Piperales,1,1,1,1,1,1,Piper sylvaticum,Carminative,India(Bengal)
+4185920,Piper peepuloides,Piperaceae,Piperales,2,2,2,1,1,1,Piper peepuloides,Leprosy,India
+3086357,Piper nigrum,Piperaceae,Piperales,67,46,14,10,10,12,Piper nigrum,Rubefacient; Skin; Sterilizant; Vertigo; Fever; Cholera,India
+3086338,Piper longum,Piperaceae,Piperales,97,64,8,19,15,13,Piper longum,Bronchitis; Fever; Tonic; Cholera; Diarrhea; Phthisis,India; India(Santal); Nepal
+4185573,Piper suipigua,Piperaceae,Piperales,1,1,1,1,1,1,Piper gamblei,Swelling,India
+7606629,Piper cubeba,Piperaceae,Piperales,61,33,8,8,8,8,Piper cubeba,Anus; Cholera; Fever; Prolapse; Bronchitis; Fistula,India(Santal)
+3086342,Piper retrofractum,Piperaceae,Piperales,3,3,3,1,1,2,Piper chaba,Tumor(Abdomen),India
+4187904,Piper betle,Piperaceae,Piperales,97,67,12,12,12,11,Piper betel; Piper betle,Asthma; Colic; Tuberculosis; Masticatory; Phthisis; Sore,India; India(Santal)
+4187359,Piper wallichii,Piperaceae,Piperales,1,1,1,1,1,1,Piper aurantiacum,Tumor(Abdomen),India
+8215152,Piper attenuatum,Piperaceae,Piperales,6,6,2,1,1,2,Piper attenuatum,Diuretic,India
+5285084,Pinus roxburghii,Pinaceae,Pinales,30,27,3,12,9,5,Pinus roxburghii,Gonorrhea; Stomachic; Stimulant; Dysuria; Fracture; Tumor(Abdomen),India; Nepal
+3981186,Sinopodophyllum hexandrum,Berberidaceae,Ranunculales,22,18,4,7,5,8,Podophyllum emodi; Podophyllum hexandrum,Cholagogue; Stimulant(Hepatic); Bilious; Cancer(Skin); Intoxicant,India; Nepal
+4142071,Desmostachya bipinnata,Poaceae,Poales,1,1,1,1,1,1,Poa cynosuroides,Tumor(Abdomen),India
+3169674,Plumeria rubra,Apocynaceae,Gentianales,74,50,14,4,4,13,Plumeria acutifolia; Plumeria rubra,Abortifacient; Tumor; Cholera; Dyspepsia,India; India(Santal)
+3169673,Plumeria alba,Apocynaceae,Gentianales,27,23,4,1,1,4,Plumeria alba,Tumor,India
+3082282,Plumbago zeylanica,Plumbaginaceae,Caryophyllales,61,38,19,8,8,12,Plumbago zeylanica,Fungicide; Skin; Tumor(Abdomen); Tumor(Glands); Digestive; Candida,India; India(Ayurvedic); India(Gujarat); India(Santal); Pakistan
+3082286,Plumbago indica,Plumbaginaceae,Caryophyllales,34,31,7,3,3,5,Plumbago indica; Plumbago rosea,Sudorific; Tumor(Abdomen); Vesicant,India
+7923000,Pluchea lanceolata,Asteraceae,Asterales,4,4,2,2,2,1,Pluchea lanceolata,Arthritis; Rheumatism,India(Ayurvedic)
+3836714,Pleiospermium alatum,Rutaceae,Sapindales,2,2,1,2,2,1,Pleiospermium alatum,Rheumatism; Anodyne,India
+10604331,Equilabium molle,Lamiaceae,Lamiales,5,5,2,3,3,1,Plectranthus mollis,Fever; Repellant(Insect); Hemostat,India
+3189723,Plantago ovata,Plantaginaceae,Lamiales,23,19,4,4,4,5,Plantago ispagula; Plantago ovata,Anodyne; Bronchitis; Dysentery; Whitlow,India; India(Santal)
+7303042,Plantago amplexicaulis,Plantaginaceae,Lamiales,11,6,2,5,5,2,Plantago amplexicaulis,Malaria; Ophthalmia; Fever; Lung; Astringent,India(Hindu)
+5347846,Lathyrus oleraceus,Fabaceae,Fabales,19,15,8,3,2,9,Pisum arvense; Pisum sativum,Dysentery; Contraceptive,India; India(Santal)
+2928472,Poranopsis paniculata,Convolvulaceae,Solanales,4,4,2,3,3,3,Porana paniculata,Medicine; Stomach; Anemia,India; India(Santal)
+3804846,Populus euphratica,Salicaceae,Malpighiales,4,3,2,3,2,2,Populus euphratica,Vermifuge; Chewstick,India
+7266620,Populus ciliata,Salicaceae,Malpighiales,3,3,1,3,3,1,Populus ciliata,Stimulant; Tonic; Depurative,India(Hindu)
+2965911,Pongamia pinnata,Fabaceae,Fabales,50,41,10,5,5,8,Pongamia pinnata,Piscicide; Skin; Tumor; Tumor(Abdomen); Leprosy,India; India(Gujarat); India(Santal); Sri Lanka
+11377893,Pongamia glabra,Fabaceae,Fabales,1,1,1,1,1,1,Pongamia glabra,Piscicide,India
+7291264,Bistorta amplexicaulis,Polygonaceae,Caryophyllales,1,1,1,1,1,1,Polygonum amplexicaule,Kidney,Kashmir
+2770004,Polygonatum verticillatum,Asparagaceae,Asparagales,3,3,2,2,2,2,Polygonatum verticillatum,Diuretic; Poison,India
+2770153,Polygonatum cirrhifolium,Asparagaceae,Asparagales,3,3,1,3,3,1,Polygonatum cirrhifolium,Soap; Tonic; Vulnerary,India
+4049199,Polygala longifolia,Polygalaceae,Fabales,1,1,1,1,1,1,Polygala longifolia,Lactogogue,India
+3191438,Polygala crotalarioides,Polygalaceae,Fabales,14,13,2,10,10,2,Polygala crotalarioides,Ache(Head); Colic; Cough; Epilepsy; Measles; Neuralgia,India(Santal)
+7293659,Polygala glomerata,Polygalaceae,Fabales,15,14,2,9,9,3,Polygala chinensis,Ache(Stomach); Breast; Delirium; Epilepsy; Hiccup; Inflammation,India(Gujarat); India(Santal)
+3085781,Polycarpaea corymbosa,Caryophyllaceae,Caryophyllales,12,10,5,3,3,4,Polycarpaea corymbosa,Bite(Snake); Cachexia; Atrophy,India; India(Santal)
+2704851,Eulaliopsis binata,Poaceae,Poales,5,5,1,5,5,1,Pollinia eriopoda,Fever; Prolapse; Puerperium; Uterus; Wound,India(Santal)
+2982583,Vigna unguiculata,Fabaceae,Fabales,32,31,5,20,19,6,Vigna cylindrica; Vigna unguiculata,Smallpox; Anus; Adenopathy; Astringent; Diuretic; Fistula,India; India(Santal)
+2982533,Vigna mungo,Fabaceae,Fabales,37,32,8,12,12,7,Vigna mungo,Cholera; Colic; Dysentery; Fistula; Gravel; Impotency,India; India(Santal)
+3146542,Vicoa indica,Asteraceae,Asterales,1,1,1,1,1,1,Vicoa indica,Medicine,India
+7352653,Vetiveria zizanioides,Poaceae,Poales,57,43,16,15,15,13,Vetiveria zizanioides,Antidote(Scorpion)(Veterinary); Boil(Veterinary); Burn(Veterinary); Hepatitis(Veterinary); Malaria(Veterinary); Mouth(Veterinary),India; India(Santal)
+3172062,Veronica beccabunga,Plantaginaceae,Lamiales,35,17,7,1,1,7,Veronica beccabunga,Whitlow,India
+3125210,Strobocalyx arborea,Asteraceae,Asterales,3,3,3,1,1,2,Vernonia javanica,Masticatory,India
+6445734,Cyanthillium cinereum,Asteraceae,Asterales,38,34,5,8,8,7,Vernonia cinerea,Cholera; Lactogogue; Night-Blindness; Splenitis; Tumor; Dysentery,India; India(Gujarat); India(Santal)
+3171949,Verbascum thapsus,Scrophulariaceae,Lamiales,72,50,10,4,4,12,Verbascum thapsus,Aphrodisiac; Narcotic; Cramp; Migraine,India
+7273609,Ventilago denticulata,Rhamnaceae,Rosales,11,11,1,11,11,1,Ventilago calyculata,Alopecia; Cachexia; Dysuria; Fever; Laxative; Pimple,India(Santal)
+3189688,Vateria indica,Dipterocarpaceae,Malvales,13,13,2,10,10,1,Vateria indica,Adenopathy; Alexipharmic; Boil; Emollient; Piles; Gonorrhea,India; India(Ayurvedic)
+2783229,Vanda tessellata,Orchidaceae,Asparagales,7,7,1,7,7,3,Vanda roxburghii,Ache(Ear); Dyspepsia; Rheumatism; Sore; Tumor(Abdomen); Urticaria,India; India(Hindu); India(Santal)
+8213018,Valeriana jatamansi,Caprifoliaceae,Dipsacales,32,26,10,16,13,7,Valeriana jatamansi; Valeriana wallichii,Chorea; Epilepsy; Neurosis; Dysuria; Carminative; Hypochondria,India; Nepal
+3021409,Prunus cerasoides,Rosaceae,Rosales,6,5,2,6,5,4,Prunus cerasoides; Prunus puddum,Gravel; Burn; Religion; Wound; Tumor(Glands),India; Nepal
+8149923,Prunus persica,Rosaceae,Rosales,72,51,12,1,1,24,Prunus persica,Eczema,India
+5358492,Prosopis farcta,Fabaceae,Fabales,4,2,2,2,2,2,Prosopis stephaniana,Astringent; Dysentery,India
+5358521,Prosopis cineraria,Fabaceae,Fabales,3,3,2,2,2,1,Prosopis cineraria,Astringent; Demulcent,India
+3025406,Prinsepia utilis,Rosaceae,Rosales,5,3,2,5,3,3,Prinsepia utilis,Rheumatism; Rubefacient; Evil eye,India; Nepal
+7290656,Primula reticulata,Primulaceae,Ericales,3,2,2,1,1,2,Primula reticulata,Anodyne,India(Hindu)
+6411486,Premna serratifolia,Lamiaceae,Lamiales,15,14,5,4,4,4,Premna integrifolia; Premna obtusifolia,Laxative; Tumor(Abdomen); Fever; Stomachic,India; India(Ayurvedic)
+3896962,Premna mollissima,Lamiaceae,Lamiales,3,3,1,3,3,2,Premna mucronata,Colic(Veterinary); Eczema; Boil,India
+3897506,Premna herbacea,Lamiaceae,Lamiales,11,10,2,4,4,2,Premna herbacea,Atrophy; Cachexia; Rheumatism; Cholera,India(Santal)
+6026426,Prangos pabularia,Apiaceae,Apiales,27,20,8,3,3,3,Prangos pabularia,Antiseptic; Tonic; Liver-Fluke(Veterinary),India; Kashmir
+4100866,Gonostegia pentandra,Urticaceae,Rosales,2,2,2,1,1,2,Pouzolzia pentandra,Epistaxis,India(Santal)
+8322396,Potentilla fulgens,Rosaceae,Rosales,5,4,3,4,3,5,Potentilla fulgens,Ache(Tooth); Masticatory; Dentifrice,India; Nepal
+3084699,Portulaca quadrifida,Portulacaceae,Caryophyllales,24,21,8,4,4,4,Portulaca quadrifida,Kidney; Skin; Bladder; Lung,India
+3084719,Portulaca oleracea,Portulacaceae,Caryophyllales,147,83,22,10,10,23,Portulaca oleracea,Bladder; Detergent; Diuretic; Heat; Kidney; Lung,India
+2881060,Quercus lusitanica,Fagaceae,Fagales,3,3,3,1,1,1,Quercus lusitanica,Wart(Vagina),India
+3190660,Samadera indica,Simaroubaceae,Sapindales,19,14,7,1,1,2,Quassia indica,Fever,India
+5362639,Pyrus pashia,Rosaceae,Rosales,1,1,1,1,1,1,Pyrus pashia,Eye,India
+5362573,Pyrus communis,Rosaceae,Rosales,15,13,7,1,1,5,Pyrus communis,Diuretic,India
+3023388,Prunus ceylanica,Rosaceae,Rosales,1,1,1,1,1,1,Pygeum gardneri,Piscicide,India
+3641195,Pycnocycla glauca,Apiaceae,Apiales,1,1,1,1,1,1,Pycnocycla glauca,Dysentery,India
+3076079,Putranjiva roxburghii,Putranjivaceae,Malpighiales,4,4,2,3,3,2,Putranjiva roxburghii,Evil eye; Liver; Fever,India
+5420901,Punica granatum,Lythraceae,Myrtales,96,55,19,3,3,21,Punica granatum,Cough; Pimple; Tumor(Abdomen),India
+2977609,Pueraria tuberosa,Fabaceae,Fabales,8,8,3,4,4,3,Pueraria tuberosa,Fever; Gravel; Menorrhagia; Syphilis,India(Santal)
+7161901,Pterygota alata,Malvaceae,Malvales,2,1,2,1,1,2,Pterygota alata,Opiate,India
+3669210,Pterospermum acerifolium,Malvaceae,Malvales,14,14,2,3,3,2,Pterospermum acerifolium,Fever; Puerperium; Menorrhagia,India(Santal)
+5708628,Pterocarpus santalinus,Fabaceae,Fabales,29,26,7,1,1,5,Pterocarpus santalinus,Cosmetic,India(Hindu)
+5349309,Pterocarpus marsupium,Fabaceae,Fabales,23,17,6,7,7,5,Pterocarpus marsupium,Ache(Stomach); Burn; Diabetes; Menorrhagia; Syphilis; Cholera,India; India(Santal)
+5349242,Pterocarpus indicus,Fabaceae,Fabales,23,18,7,1,1,4,Pterocarpus indicus,Tumor(Abdomen),India
+2948930,Cullen corylifolium,Fabaceae,Fabales,52,36,5,9,6,9,Psoralea corylifolia,Diuretic; Leprosy; Leucoderma; Inflammation; Psoriasis; Skin,India; Nepal
+5420380,Psidium guajava,Myrtaceae,Myrtales,105,57,25,2,2,19,Psidium guajava,Carbuncle; Sore,India(Santal)
+4037708,Rheum nobile,Polygonaceae,Caryophyllales,1,1,1,1,1,1,Rheum nobile,Fumitory,India
+4037741,Rheum moorcroftianum,Polygonaceae,Caryophyllales,1,1,1,1,1,1,Rheum moorcroftianum,Purgative,India
+4038150,Rheum australe,Polygonaceae,Caryophyllales,10,10,2,9,9,3,Rheum emodi,Astringent; Dentifrice; Purgative; Sprain; Swelling; Sore,India
+3877053,Rhamnus wightii,Rhamnaceae,Rosales,3,3,1,3,3,1,Rhamnus wightii,Deobstruent; Tonic; Astringent,India
+7273971,Rhamnus virgata,Rhamnaceae,Rosales,3,3,1,3,3,1,Rhamnus virgata,Emetic; Purgative; Spleen,India
+12256834,Rhamnus triquetra,Rhamnaceae,Rosales,3,3,1,3,3,1,Rhamnus triquetra,Astringent; Deobstruent; Tonic,India
+3875682,Rhamnus purpurea,Rhamnaceae,Rosales,1,1,1,1,1,1,Rhamnus purpurea,Purgative,India
+3876137,Rhamnus pentapomica,Rhamnaceae,Rosales,1,1,1,1,1,1,Rhamnus pentapomica,Emetic,India
+4928522,Rhamnus napalensis,Rhamnaceae,Rosales,1,1,1,1,1,1,Rhamnus napalensis,Herpes,India
+5658009,Reinwardtia indica,Linaceae,Malpighiales,5,5,2,3,3,2,Reinwardtia indica,Boil; Paralysis; Wound,India
+5535211,Reaumuria alternifolia,Tamaricaceae,Caryophyllales,2,2,1,2,2,1,Reaumuria hypericoides,Prurigo; Itch,India(Hindu)
+3169787,Rauvolfia serpentina,Apocynaceae,Gentianales,29,15,9,10,9,5,Rauvolfia serpentina,Sedative; Bite(Snake); Fever; Hypnotic; Hypertension; Hypochondria,India; Nepal
+7678610,Raphanus sativus,Brassicaceae,Brassicales,89,63,11,1,1,14,Raphanus sativus,Tumor(Abdomen),India
+2891981,Tamilnadia uliginosa,Rubiaceae,Gentianales,16,15,2,7,7,3,Randia uliginosa,Colic; Inflammation; Intestine; Otitis; Eye; Deobstruent,India(Santal)
+2910886,Catunaregam spinosa,Rubiaceae,Gentianales,8,8,1,8,8,3,Randia dumetorum,Adenopathy; Convulsion; Lactogogue; Laxative; Pimple; Piscicide,India; India(Santal)
+4092103,Radermachera xylocarpa,Bignoniaceae,Lamiales,4,3,2,1,1,3,Radermachera xylocarpa,Skin,India(Hindu)
+3084027,Rivina humilis,Phytolaccaceae,Caryophyllales,8,6,5,1,1,4,Rivina humilis,Fever,Sri Lanka
+7462487,Rivea ornata,Convolvulaceae,Solanales,4,4,2,4,4,1,Rivea ornata,Phthiriasis; Piles; Tonic; Refrigerant,India; Sri Lanka
+3678725,Rivea hypocrateriformis,Convolvulaceae,Solanales,1,1,1,1,1,1,Rivea hypocrateriformis,Puerperium,India
+5380041,Ricinus communis,Euphorbiaceae,Malpighiales,202,105,42,13,13,33,Ricinus communis,Burn; Convulsion; Evil eye; Intoxication; Lactafuge; Lactogogue,India; India(Santal)
+5315188,Rhynchostylis retusa,Orchidaceae,Asparagales,1,1,1,1,1,1,Rhynchostylis retusa,Emollient,India
+3190624,Toxicodendron succedaneum,Anacardiaceae,Sapindales,18,17,3,1,1,5,Rhus succedanea,Tumor(Abdomen),India
+7327519,Rhododendron falconeri,Ericaceae,Ericales,1,1,1,1,1,1,Rhododendron falconeri,Piscicide,India
+7327797,Rhododendron cinnabarinum,Ericaceae,Ericales,1,1,1,1,1,1,Rhododendron cinnabarinum,Poison,India
+7644878,Rhododendron aureum,Ericaceae,Ericales,11,8,2,4,4,2,Rhododendron chrysanthum,Diaphoretic; Gout; Rheumatism; Narcotic,India
+7327918,Rhododendron campanulatum,Ericaceae,Ericales,6,6,2,5,5,1,Rhododendron campanulatum,Cold; Hemicrania; Syphilis; Rheumatism; Sciatica,India
+7328036,Rhododendron barbatum,Ericaceae,Ericales,1,1,1,1,1,1,Rhododendron barbatum,Piscicide,India
+7328114,Rhododendron arboreum,Ericaceae,Ericales,7,5,3,4,4,3,Rhododendron arboreum,Ache(Head); Poison; Fish-Bones; Dysentery,India; Nepal
+7689788,Rhododendron anthopogon,Ericaceae,Ericales,1,1,1,1,1,1,Rhododendron anthopogon,Stimulant,India
+4928642,Rheum webbianum,Polygonaceae,Caryophyllales,1,1,1,1,1,1,Rheum webbianum,Purgative,India
+4037435,Rheum spiciforme,Polygonaceae,Caryophyllales,1,1,1,1,1,1,Rheum spiciforme,Purgative,India
+2888866,Rheum rhaponticum,Polygonaceae,Caryophyllales,10,10,7,3,3,5,Rheum rhaponticum,Antilactogogue; Dysmenorrhea; Endometritis,India
+7739918,Rumex hastatus,Polygonaceae,Caryophyllales,1,1,1,1,1,1,Rumex hastatus,Boil,India
+2888995,Rumex acetosella,Polygonaceae,Caryophyllales,22,16,15,1,1,3,Rumex acetosella,Skin,India
+7721906,Ruellia longifolia,Acanthaceae,Lamiales,2,1,1,2,1,1,Ruellia longifolia,Tumor(Abdomen),India
+2993394,Rubus moluccanus,Rosaceae,Rosales,14,14,4,1,1,3,Rubus moluccanus,Stomach,India
+8436459,Rubus fruticosus,Rosaceae,Rosales,17,14,6,1,1,6,Rubus fruticosus,Intoxicant,India
+2991314,Rubus ellipticus,Rosaceae,Rosales,5,3,2,4,2,3,Rubus ellipticus,Astringent; Tonic,Nepal
+2892192,Rubia cordifolia,Rubiaceae,Gentianales,51,41,5,6,4,10,Rubia cordifolia,Paralysis; Ulcer; Rhinosinusitis; Tumor(Abdomen),India; Nepal
+3887267,Roylea cinerea,Lamiaceae,Lamiales,4,4,1,4,4,2,Roylea cinerea,Fever; Pimple; Refrigerant; Tonic,India
+7780480,Rourea minor,Connaraceae,Oxalidales,16,16,4,11,11,3,Rourea minor,Aperient; Canicide; Diabetes; Fever; Parturition; Puerperium,India
+4067141,Ehretia aquatica,Ehretiaceae,Boraginales,8,7,2,6,6,1,Rotula aquatica,Laxative; Piles; Stone; Bladder; Venereal; Diuretic,India
+5301320,Roscoea purpurea,Zingiberaceae,Zingiberales,1,1,1,1,1,1,Roscoea purpurea,Medicine(Veterinary),Nepal
+3003244,Rosa multiflora,Rosaceae,Rosales,21,15,4,1,1,5,Rosa multiflora,Sprain,India
+3005689,Rosa longicuspis,Rosaceae,Rosales,1,1,1,1,1,1,Rosa longicuspis,Bite(Dog),India
+8342804,Rosa indica,Rosaceae,Rosales,1,1,1,1,1,1,Rosa indica,Fungicide,India
+7390572,Rosa damascena,Rosaceae,Rosales,18,15,5,1,1,4,Rosa damascena,Medicine,Nepal
+3002410,Rosa centifolia,Rosaceae,Rosales,9,7,8,1,1,5,Rosa centifolia,Astringent,India
+7339073,Sarcandra glabra,Chloranthaceae,Chloranthales,3,2,3,1,1,1,Sarcandra glabra,Rheumatism,India
+5359538,Saraca indica,Fabaceae,Fabales,2,2,2,1,1,2,Saraca indica,Uterus,India
+7458904,Saraca asoca,Fabaceae,Fabales,21,21,2,10,10,1,Saraca asoca,Androgenic; Dysentery; Hemorrhage; Leucorrhea; Menorrhagia; Piles,India
+5421131,Sapindus trifoliatus,Sapindaceae,Sapindales,28,22,2,14,13,3,Sapindus trifoliatus,Piscicide; Detergent; Emetic; Expectorant; Asthma; Hysteria,India; India(Hindu)
+5421133,Sapindus mukorossi,Sapindaceae,Sapindales,24,18,5,7,4,8,Sapindus mukorossi,Cholorosis; Epilepsy; Salivation; Piscicide,India; Nepal
+2889785,Santalum album,Santalaceae,Santalales,47,38,8,13,13,10,Santalum album,Antiseptic; Bronchitis; Cosmetic; Cystitis; Dysentery; Expectorant,India; India(Santal)
+5580727,Salvadora persica,Salvadoraceae,Brassicales,48,34,9,1,1,9,Salvadora persica,Tumor,Pakistan
+5582578,Salix tetrasperma,Salicaceae,Malpighiales,4,4,2,1,1,2,Salix tetrasperma,Anodyne,India(Santal)
+7266388,Salix acmophylla,Salicaceae,Malpighiales,2,1,2,1,1,2,Salix acmophylla,Fever,India
+5414293,Salacia chinensis,Celastraceae,Celastrales,6,6,2,1,1,1,Salacia chinensis,Diabetes,India
+2781961,Acampe praemorsa,Orchidaceae,Asparagales,2,2,1,2,2,1,Saccolabium papillosum,Refrigerant; Rheumatism,India
+7936204,Rungia repens,Acanthaceae,Lamiales,6,6,3,1,1,2,Rungia repens,Fungicide,India
+3780135,Rungia pectinata,Acanthaceae,Lamiales,13,7,2,7,7,2,Rungia pectinata,Anodyne; Aperient; Bruise; Fever; Refrigerant; Swelling,India; India(Bihar)
+2888986,Rumex vesicarius,Polygonaceae,Caryophyllales,9,9,3,1,1,3,Rumex vesicarius,Tumor(Abdomen),India
+7291884,Rumex nepalensis,Polygonaceae,Caryophyllales,13,12,6,1,1,4,Rumex nepalensis,Purgative,India
+2888980,Rumex maritimus,Polygonaceae,Caryophyllales,4,4,2,1,1,1,Rumex maritimus,Itch,India
+3803433,Anisodus stramoniifolius,Solanaceae,Solanales,2,1,2,1,1,2,Scopolia anomala,Mydriatic,India(Hindu)
+2712752,Scleria levis,Cyperaceae,Poales,2,2,2,1,1,1,Scleria levis,Stomach,India
+2710499,Actinoscirpus grossus,Cyperaceae,Poales,15,7,2,8,7,3,Scirpus grossus,Astringent; Diuretic; Diarrhea; Laxative; Refrigerant; Tonic,India; India(Hindu)
+2710683,Schoenoplectiella articulata,Cyperaceae,Poales,5,3,2,3,3,3,Scirpus articulatus,Diarrhea; Nausea; Purgative,India; India(Hindu)
+2873716,Scindapsus officinalis,Araceae,Alismatales,27,24,1,27,24,3,Scindapsus officinalis,Diaphoretic; Stimulant; Vermifuge; Aphrodisiac; Chancre; Colic,India; India(Hindu); India(Santal)
+3189945,Schleichera oleosa,Sapindaceae,Sapindales,22,21,2,7,7,3,Schleichera oleosa,Anodyne; Hair-Oil; Neuralgia; Pleurisy; Rheumatism; Fever,India; India(Santal)
+7493943,Schima wallichii,Theaceae,Ericales,8,6,3,4,2,4,Schima wallichii,Anthelminthic; Fever,Nepal
+3038373,Heptapleurum venulosum,Araliaceae,Apiales,1,1,1,1,1,1,Schefflera venulosa,Dropsy,India
+3038788,Heptapleurum hypoleucum,Araliaceae,Apiales,1,1,1,1,1,1,Schefflera hypoleuca,Swelling,India
+5835379,Scaphium scaphigerum,Malvaceae,Malvales,20,19,3,1,1,2,Scaphium scaphigerum,Demulcent,India
+6358362,Scaevola taccada,Goodeniaceae,Asterales,1,1,1,1,1,1,Scaevola koenigii,Tumor,India
+10864861,Dolomiaea costus,Asteraceae,Asterales,50,42,8,10,10,11,Saussurea lappa,Antiseptic; Perfume; Skin; Fumigant; Hairblack; Incense,India; Kashmir
+11285218,Jurinea auriculata,Asteraceae,Asterales,3,3,2,1,1,1,Saussurea hypoleuca,Tumor(Abdomen),India
+11245584,Jurinea heteromalla,Asteraceae,Asterales,1,1,1,1,1,1,Saussurea heteromalla,Carminative,India
+9422573,Breynia quadrangularis,Phyllanthaceae,Malpighiales,3,2,1,3,2,2,Sauropus quadrangularis,Tonsillitis; Fumitory,India; India(Hindu)
+3644350,Saurauia roxburghii,Actinidiaceae,Ericales,2,1,2,1,1,2,Saurauia roxburghii,Hair-Oil,India
+2970721,Sesbania bispinosa,Fabaceae,Fabales,3,3,1,3,3,1,Sesbania roxburghii,Astringent; Emmenagogue; Stimulant,India
+2970650,Sesbania aegyptiaca,Fabaceae,Fabales,7,7,4,1,1,4,Sesbania aegyptiaca,Tumor,India
+3172622,Sesamum indicum,Pedaliaceae,Lamiales,106,70,19,4,4,20,Sesamum indicum; Sesamum inndicum,Dysentery; Leprosy; Splenitis; Tumor(Abdomen),India; India(Santal)
+8402965,Senecio tenuifolius,Asteraceae,Asterales,2,2,1,2,2,1,Senecio tenuifolius,Vulnerary; Emollient,India
+7424296,Senecio quinquelobus,Asteraceae,Asterales,1,1,1,1,1,1,Senecio quinquelobus,Colic,India
+7730046,Senecio nudicaulis,Asteraceae,Asterales,1,1,1,1,1,1,Senecio nudicaulis,Medicine,India
+5395491,Ligularia jacquemontiana,Asteraceae,Asterales,3,3,1,3,3,1,Senecio jacquemontianus,Skin; Tonic; Nervine,Kashmir
+7360607,Semecarpus anacardium,Anacardiaceae,Sapindales,64,55,10,31,30,6,Semecarpus anacardium,Wart; Ache(Head); Anthrax; Boil; Cancer; Anasarca,India; India(Santal); Pakistan
+3640486,Ligusticopsis wallichiana,Apiaceae,Apiales,1,1,1,1,1,1,Selinum wallichianum,Magic,India
+4940390,Selaginella tamariscina,Selaginellaceae,Selaginellales,19,17,3,1,1,3,Selaginella tamariscina,Longevity,India
+4940372,Selaginella involvens,Selaginellaceae,Selaginellales,9,8,2,1,1,2,Selaginella involvens,Longevity,India
+5382823,Flueggea virosa,Phyllanthaceae,Malpighiales,15,15,3,1,1,3,Securinega virosa,Dyspepsia,India
+8317476,Scutia myrtina,Rhamnaceae,Rosales,2,2,2,1,1,1,Scutia myrtina,Parturition,India
+5295764,Smilax ferox,Smilacaceae,Liliales,1,1,1,1,1,1,Smilax ferox,Stomach,India
+5295472,Smilax china,Smilacaceae,Liliales,55,37,13,7,7,11,Smilax china,Alterative; Aphrodisiac; Asthma; Diaphoretic; Stimulant; Tumor,India
+3145214,Silybum marianum,Asteraceae,Asterales,34,24,10,1,1,10,Silybum marianum,Cancer,India
+3125901,Sigesbeckia orientalis,Asteraceae,Asterales,64,52,7,3,3,8,Siegesbeckia orientalis,Parasiticide; Urethra; Ringworm,India(Hindu)
+5406739,Sida cordata,Malvaceae,Malvales,24,24,2,10,10,2,Sida veronicaefolia,Adenopathy; Boil; Carbuncle; Cold; Cough; Scabies,India(Santal)
+5406741,Sida spinosa,Malvaceae,Malvales,14,12,3,1,1,3,Sida spinosa,Tumor(Abdomen),India
+5406735,Sida rhombifolia,Malvaceae,Malvales,64,49,17,1,1,13,Sida rhombifolia,Tumor(Abdomen),India
+5406755,Sida cordifolia,Malvaceae,Malvales,44,38,6,12,10,7,Sida cordifolia,Astringent; Tonic; Aphrodisiac; Ulcer; Refrigerant; Stomachic,India; India(Hindu)
+3933670,Sida acuta,Malvaceae,Malvales,59,43,14,12,12,15,Sida acuta,Astringent; Bilious; Depurative; Nerves; Urogenital; Tonic,India
+3189684,Shorea robusta,Dipterocarpaceae,Malvales,39,37,3,36,35,5,Shorea robbusta; Shorea robusta,Cancer; Aftosa; Ache(Stomach); Anodyne; Anus; Chest,India; India(Santal)
+5289686,Setaria verticillata,Poaceae,Poales,2,2,2,1,1,2,Setaria verticillata,Poison,India
+8406376,Seseli sibiricum,Apiaceae,Apiales,3,3,1,3,3,1,Seseli sibiricum,Mental; Vasoconstrictor; Hypertension,India
+12191072,Psammogeton diffusum,Apiaceae,Apiales,10,7,2,7,7,4,Seseli diffusum; Seseli indicum,Candida; Carminative; Fungicide; Stomachic; Tumor(Abdomen); Vermifuge,India
+2970648,Sesbania sesban,Fabaceae,Fabales,27,27,3,8,8,3,Sesbania sesban,Anodyne; Bite(Dog); Colic; Gravel; Neuralgia; Pleurisy,India(Santal)
+2932389,Solanum torvum,Solanaceae,Solanales,28,25,11,1,1,8,Solanum torvum,Ache(Tooth),India
+2929920,Solanum virginianum,Solanaceae,Solanales,43,34,2,34,27,4,Solanum jacquinii; Solanum surattense; Solanum surattensis,Asthma; Bronchitis; Cough; Phthisis; Fever; Bite(Snake),India; India(Ayurvedic); India(Gujarat); India(Santal)
+9150405,Solanum nigrum,Solanaceae,Solanales,164,100,29,5,5,30,Solanum nigrum,Dropsy; Swelling; Tumor; Antidote(Opium); Eye,India; India(Gujarat); Pakistan
+2930617,Solanum melongena,Solanaceae,Solanales,62,52,16,2,2,12,Solanum melongena,Dysentery; Whitlow,India; India(Santal)
+2929394,Solanum aculeatissimum,Solanaceae,Solanales,12,10,5,2,2,3,Solanum aculeatissimum; Solanum khasianum,Bactericide; Contraceptive,India; Nepal
+2930606,Solanum cordatum,Solanaceae,Solanales,1,1,1,1,1,1,Solanum gracilipes,Otitis,India
+5295128,Smilax zeylanica,Smilacaceae,Liliales,18,17,2,13,13,2,Smilax zeylanica,Cholera; Dysuria; Gravel; Measles; Ophthalmia; Syphilis,India(Santal)
+5295267,Smilax perfoliata,Smilacaceae,Liliales,4,4,1,4,4,1,Smilax perfoliata,Rheumatism; Urogenital; Venereal; Dysentery,India
+5295082,Smilax ovalifolia,Smilacaceae,Liliales,4,4,2,2,2,1,Smilax ovalifolia,Rheumatism; Venereal,India
+5295221,Smilax ocreata,Smilacaceae,Liliales,1,1,1,1,1,1,Smilax ocreata,Dysentery,India
+5295425,Smilax lanceifolia,Smilacaceae,Liliales,2,2,1,2,2,1,Smilax lanceifolia,Anodyne; Rheumatism,India
+5295161,Smilax elegans,Smilacaceae,Liliales,1,1,1,1,1,1,Smilax glaucophylla,Spasm,India
+5295506,Smilax glabra,Smilacaceae,Liliales,17,13,2,2,2,3,Smilax glabra,Sore; Venereal,India
+2925463,Stachytarpheta jamaicensis,Verbenaceae,Lamiales,101,55,14,1,1,13,Stachytarpheta jamaicensis,Nausea,India
+3661030,Spondias pinnata,Anacardiaceae,Sapindales,29,26,6,8,8,4,Spondias pinnata,Cholera; Dysentery; Night-Fever; Rinderpest; Ophthalmia; Anemia,India(Santal)
+9740476,Spilanthes paniculata,Asteraceae,Asterales,17,17,2,16,16,1,Spilanthes paniculata,Anesthetic; Gum; Lithontriptic; Piscicide; Purgative; Rheumatism,India
+5386764,Acmella oleracea,Asteraceae,Asterales,10,8,5,1,1,3,Spilanthes oleracea,Bladder,India
+5386744,Acmella calva,Asteraceae,Asterales,17,17,2,16,16,1,Spilanthes calva,Diuretic; Dysentery; Lithontriptic; Piscicide; Rheumatism; Sialogogue,India
+7367845,Spilanthes acmella,Asteraceae,Asterales,22,18,7,2,2,5,Spilanthes acmella,Wound; Stammering,India
+8302135,Sphaeranthus indicus,Asteraceae,Asterales,20,17,4,17,14,4,Sphaeranthus hirtus; Sphaeranthus indicus,Gastritis; Tumor; Vermifuge; Piles; Repellant(Insect); Bowel,India; India(Gujarat)
+7729020,Sphaeranthus africanus,Asteraceae,Asterales,19,19,4,13,13,3,Sphaeranthus africanus,Alterative; Chest; Cough; Depurative; Gastritis; Repellant(Insect),India
+2916044,Spermacoce hispida,Rubiaceae,Gentianales,13,13,1,13,13,1,Spermacoce hispida,Ache(Ear); Blindness; Fever; Inflammation; Otitis; Pimple,India(Santal)
+2977014,Spatholobus parviflorus,Fabaceae,Fabales,13,13,2,9,9,2,Spatholobus roxburghii,Anodyne; Diarrhea; Dysentery; Dysuria; Madness; Rinderpest,India(Santal)
+3850622,Soymida febrifuga,Meliaceae,Sapindales,21,17,4,18,17,3,Soymida febrifuga,Fever; Anodyne; Astringent; Cholera; Neuralgia; Pleurisy,India; India(Santal)
+2705181,Sorghum bicolor,Poaceae,Poales,12,9,6,2,2,6,Sorghum bicolor,Ache(Stomach); Epilepsy,India(Santal)
+5635606,Sonneratia caseolaris,Lythraceae,Myrtales,10,9,5,3,3,3,Sonneratia caseolaris,Hemostat; Sprain; Swelling,India
+3870220,Sonerila tenera,Melastomataceae,Myrtales,1,1,1,1,1,1,Sonerila tenera,Throat(Veterinary),India
+2931071,Solanum trilobatum,Solanaceae,Solanales,1,1,1,1,1,1,Solanum trilobatum,Cough,India
+7725922,Strychnos potatorum,Loganiaceae,Gentianales,21,19,2,11,10,3,Strychnos potatorum,Sore; Ache(Stomach); Bite(Snake); Bronchitis; Dysentery; Emetic,India; India(Santal)
+5414399,Strychnos nux-vomica,Loganiaceae,Gentianales,49,34,8,6,6,7,Strychnos nux-vomica,Colic; Tonic; Nerves; Tumor; Fever; Stimulant,India
+3169614,Strophanthus kombe,Apocynaceae,Gentianales,7,6,2,1,1,3,Strophanthus kombe,Heart,India
+3169609,Strophanthus hispidus,Apocynaceae,Gentianales,2,2,2,1,1,2,Strophanthus hispidus,Heart,India
+11138557,Taxotrophis taxoides,Moraceae,Rosales,7,5,3,4,4,2,Streblus taxoides,Fumitory; Cold(Head); Sore; Cold,India
+10242935,Streblus asper,Moraceae,Rosales,40,35,5,14,12,5,Streblus asper,Diarrhea; Dysentery; Gravel; Menorrhagia; Rinderpest; Ache(Stomach),India; India(Santal)
+4141276,Achnatherum sibiricum,Poaceae,Poales,2,2,2,1,1,2,Stipa sibirica,Poison,Kashmir
+4092354,Stereospermum chelonoides,Bignoniaceae,Lamiales,20,20,2,14,14,3,Stereospermum suaveolens,Asthma; Brain; Bronchitis; Chest; Fever; Inflammation,India; India(Ayurvedic); India(Santal)
+7298473,Stereospermum colais,Bignoniaceae,Lamiales,11,11,2,9,9,1,Stereospermum personatum,Asthma; Dyspepsia; Refrigerant; Rheumatism; Thirst; Tooth,India; India(Ayurvedic)
+7661319,Sterculia villosa,Malvaceae,Malvales,5,5,1,5,5,1,Sterculia villosa,Antidote(Lizard); Sore; Tubercle; Night-Fever; Fistula,India(Santal)
+5406674,Sterculia urens,Malvaceae,Malvales,7,7,2,5,5,2,Sterculia urens,Fistula; Parturition; Sore; Tubercle; Rhagades,India; India(Santal)
+8209772,Sterculia rubiginosa,Malvaceae,Malvales,1,1,1,1,1,1,Sterculia rubiginosa,Laxative,India
+5592764,Stephania rotunda,Menispermaceae,Ranunculales,12,12,2,4,4,2,Stephania glabra,Ache(Body); Ache(Head); Eye; Massage,India
+3613074,Tamarix indica,Tamaricaceae,Caryophyllales,10,7,2,6,3,1,Tamarix indica; Tamarix troupii,Astringent; Sore; Sore(Throat),India
+2975768,Tamarindus indica,Fabaceae,Fabales,96,59,15,11,11,16,Tamarindus indica,Ache(Head); Dropsy; Eye; Fever; Fungicide; Inflammation,India; India(Santal)
+3084670,Talinum fruticosum,Talinaceae,Caryophyllales,9,8,5,1,1,5,Talinum triangulare,Diabetes,Sri Lanka
+4022012,Talinum portulacifolium,Talinaceae,Caryophyllales,1,1,1,1,1,1,Talinum portulacifolium,Aphrodisiac,India
+3153060,Magnolia hodgsonii,Magnoliaceae,Magnoliales,1,1,1,1,1,1,Talauma hodgsonii,Toothblack,India
+3088488,Tagetes erecta,Asteraceae,Asterales,61,42,10,4,4,11,Tagetes erecta,Boil; Carbuncle; Depurative; Piles,India
+3184115,Syzygium nervosum,Myrtaceae,Myrtales,11,11,1,11,11,1,Syzygium operculatum,Anasarca; Gingivitis; Hemiplegia; Neuralgia; Pleurisy; Pneumonia,India(Santal)
+3183840,Syzygium cumini,Myrtaceae,Myrtales,8,7,4,5,5,2,Syzygium cumini,Diarrhea; Dysentery; Cancer; Colic; Anemia,India(Santal)
+3643394,Symplocos acuminata,Symplocaceae,Ericales,6,6,2,2,2,2,Symplocos laurina; Symplocos spicata,Evil eye; Scalp,India
+7902154,Symplocos racemosa,Symplocaceae,Ericales,21,18,2,9,9,5,Symplocos racemosa,Abdomen; Cosmetic; Cough; Eye; Sore; Astringent,India; India(Hindu); India(Santal)
+7419749,Swertia chirayita,Gentianaceae,Gentianales,12,12,2,9,9,1,Swertia chirayita,Anemia; Asthma; Bronchitis; Dyspepsia; Hepatitis; Tonic,India
+5596317,Swertia chirata,Gentianaceae,Gentianales,22,19,7,15,14,4,Swertia chirata,Fever; Asthma; Bronchitis; Cachexia; Cough; Atrophy,India; India(Hindu); India(Santal)
+3083537,Suaeda fruticosa,Amaranthaceae,Caryophyllales,1,1,1,1,1,1,Suaeda fruticosa,Soap,Pakistan
+3698353,Terminalia coriacea,Combretaceae,Myrtales,2,1,2,1,1,2,Terminalia coriacea,Cardiotonic,India(Hindu)
+3189388,Terminalia chebula,Combretaceae,Myrtales,67,49,7,26,22,12,Terminalia chebula,Laxative; Cardiotonic; Ulcer; Conjunctivitis; Bronchitis; Asthma,India; India(Santal); Nepal
+3189394,Terminalia catappa,Combretaceae,Myrtales,65,44,11,6,6,12,Terminalia catappa,Leprosy; Scabies; Toothblack; Skin; Astringent; Cardiotonic,India
+3189390,Terminalia bellirica,Combretaceae,Myrtales,12,12,2,9,9,3,Terminalia bellirica,Bite(Snake); Fever; Measles; Myalgia; Spasm; Dysuria,India; India(Santal)
+3699548,Terminalia arjuna,Combretaceae,Myrtales,29,27,3,16,15,4,Terminalia arjuna,Sore; Bite(Tiger); Anodyne; Cardiotonic; Convulsion; Dysuria,India; India(Santal); Sri Lanka
+8777864,Teramnus labialis,Fabaceae,Fabales,11,11,2,1,1,2,Teramnus labialis,Polyp(Nose),India
+5342354,Tephrosia vogelii,Fabaceae,Fabales,18,10,5,1,1,9,Tephrosia vogelii,Insecticide,India
+5342239,Tephrosia purpurea,Fabaceae,Fabales,44,33,10,3,3,8,Tephrosia hamiltonii; Tephrosia purpurea,Antitussive; Fumitory; Piscicide,India; India(Gujarat)
+5342209,Tephrosia noctiflora,Fabaceae,Fabales,2,2,1,2,2,1,Tephrosia noctiflora,Insecticide; Piscicide,India
+5342270,Tephrosia grandiflora,Fabaceae,Fabales,3,3,1,3,3,1,Tephrosia grandiflora,Insecticide; Parasiticide; Piscicide,India
+5342186,Tephrosia candida,Fabaceae,Fabales,4,2,3,2,2,3,Tephrosia candida,Insecticide; Piscicide,India
+5341974,Tephrosia bracteolata,Fabaceae,Fabales,1,1,1,1,1,1,Tephrosia bracteolata,Insecticide,India
+5284517,Taxus baccata,Taxaceae,Pinales,39,29,7,4,4,12,Taxus baccata,Contraceptive; Tea; Tonic; Cancer,India
+5394163,Taraxacum officinale,Asteraceae,Asterales,67,39,14,6,3,16,Taraxacum officinale,Diuretic; Kidney; Tonic,Nepal
+7317017,Trachelospermum lucidum,Apocynaceae,Gentianales,5,5,1,5,5,1,Trachelospermum lucidum,Diarrhea; Dysentery; Fever; Malaria; Tonic,India
+10789822,Zanthoxylum asiaticum,Rutaceae,Sapindales,9,6,4,6,5,2,Toddalia aculeata,Tonic; Carminative; Fever; Stimulant; Malaria,India; India(Hindu)
+7848454,Tinospora malabarica,Menispermaceae,Ranunculales,1,1,1,1,1,1,Tinospora malabarica,Rheumatism,India
+7520328,Tinospora cordifolia,Menispermaceae,Ranunculales,27,22,8,8,6,7,Tinospora cordifolia,Fever; Tonic; Asthma; Stimulant; Stomach(Veterinary); Tumor(Abdomen),India; India(Gujarat)
+4124764,Thysanolaena latifolia,Poaceae,Poales,7,7,3,5,5,3,Thysanolaena maxima,Breast; Bronchitis; Phthisis; Asthma; Bloat,India(Santal)
+3169652,Cascabela thevetia,Apocynaceae,Gentianales,13,10,10,2,2,4,Thevetia neriifolia,Tumor(Veterinary); Emetic(Veterinary),India
+7279053,Thespesia lampas,Malvaceae,Malvales,15,15,1,15,15,2,Thespesia lampas,Anodyne; Tuberculosis; Dysentery; Epistaxis; Fever; Fistula,India(Gujarat); India(Santal)
+2703474,Themeda gigantea,Poaceae,Poales,20,20,2,19,19,2,Themeda gigantea,Ache(Stomach); Anasarca; Atrophy; Bronchitis; Cholera; Colic,India(Santal)
+4126446,Thelepogon elegans,Poaceae,Poales,2,1,2,1,1,2,Thelepogon elegans,Tonic(Veterinary),India
+8395121,Thecostele alata,Orchidaceae,Asparagales,1,1,1,1,1,1,Thecostele alata,Sore,India
+3927155,Thalictrum neurocarpum,Ranunculaceae,Ranunculales,1,1,1,1,1,1,Thalictrum neurocarpum,Cataract,India
+7277787,Thalictrum javanicum,Ranunculaceae,Ranunculales,2,2,1,2,2,1,Thalictrum javanicum,Eczema; Eye,India
+8317447,Thalictrum foliolosum,Ranunculaceae,Ranunculales,21,11,3,14,10,5,Thalictrum foliolosum,Dyspepsia; Ophthalmia; Eye; Fever; Purgative; Tonic,India; India(Hindu); Nepal
+3887764,Teucrium polium,Lamiaceae,Lamiales,8,8,5,2,2,5,Teucrium polium,Fungoid; Abscess,India
+7370317,Tetracera scandens,Dilleniaceae,Dilleniales,13,9,6,1,1,3,Tetracera scandens,Water,India
+3591610,Ternstroemia gymnanthera,Pentaphylacaceae,Ericales,2,2,1,2,2,1,Ternstroemia gymnanthera,Astringent; Dysentery,India
+7795888,Triticum aestivum,Poaceae,Poales,51,43,11,1,1,7,Triticum aestivum,Whitlow,India
+5360410,Trigonella spicata,Fabaceae,Fabales,1,1,1,1,1,1,Trigonella spicata,Tumor,India
+5360475,Trigonella foenum-graecum,Fabaceae,Fabales,68,49,16,9,9,15,Trigonella foenum-graecum,Baldness; Chancre; Cystitis; Gonorrhea; Hairblack; Sore,India; India(Santal)
+2874607,Trichosanthes dioica,Cucurbitaceae,Cucurbitales,11,10,6,2,2,3,Trichosanthes dioica,Bilious; Tumor(Abdomen),India
+7404797,Trichosanthes cordata,Cucurbitaceae,Cucurbitales,10,7,2,3,3,2,Trichosanthes cordata,Splenomegaly; Tonic; Hepatomegaly,India
+5391135,Tricholepis glaberrima,Asteraceae,Asterales,15,12,2,7,7,3,Tricholepis glaberrima; Tricholepis glaberrimum,Aphrodisiac; Bite(Snake); Leucoderma; Nervine; Spermatorrhea; Tonic,India(Gujarat); India(Hindu)
+5421116,Tribulus terrestris,Zygophyllaceae,Zygophyllales,58,45,8,1,1,12,Tribulus terrestris,Cancer,India
+3188757,Trapa natans,Lythraceae,Myrtales,11,11,3,5,5,3,Trapa bispinosa,Bronchitis; Cough; Dropsy; Rinderpest; Anasarca,India(Santal)
+3061559,Tragia montana,Euphorbiaceae,Malpighiales,1,1,1,1,1,1,Tragia muelleriana,Ache(Head),India
+3061610,Tragia involucrata,Euphorbiaceae,Malpighiales,26,24,2,12,12,3,Tragia involucrata,Ache(Head); Anasarca; Antidote(Crocodile); Antidote(Scorpion); Bite(Tiger); Labor,India(Santal)
+3156914,Uvaria micrantha,Annonaceae,Magnoliales,2,2,2,1,1,2,Uvaria micrantha,Puerperium,India
+3172441,Utricularia caerulea,Lentibulariaceae,Lamiales,1,1,1,1,1,1,Utricularia caerulea,Wound,India
+3172406,Utricularia bifida,Lentibulariaceae,Lamiales,1,1,1,1,1,1,Utricularia bifida,Urogenital,India
+5670752,Urtica parviflora,Urticaceae,Rosales,13,13,2,8,8,2,Urtica parviflora,Anodyne; Counterirritant; Suppository; Swelling; Evil eye; Gout,India
+7960979,Urtica dioica,Urticaceae,Rosales,79,63,12,8,8,12,Urtica dioica,Counterirritant; Evil eye; Gout; Rheumatism; Sprain; Swelling,India
+2776790,Drimia maritima,Asparagaceae,Asparagales,40,30,9,1,1,8,Urginea maritima,Wart,India
+2776661,Drimia indica,Asparagaceae,Asparagales,20,17,3,5,5,4,Urginea indica,Cardiotonic; Corn; Diuretic; Expectorant; Tumor,India; India(Hindu)
+7278922,Urena procumbens,Malvaceae,Malvales,20,13,2,5,5,4,Urena sinuata,Carbuncle; Convulsion; Spiderlick; Whitlow; Sore,India(Santal)
+3152253,Urena lobata,Malvaceae,Malvales,77,52,15,1,1,11,Urena lobata,Diuretic,India
+2956572,Uraria picta,Fabaceae,Fabales,15,12,4,12,11,4,Uraria picta,Fever; Aphrodisiac; Anus; Bite(Snake); Chill; Cough,India; India(Ayurvedic); India(Gujarat)
+2956550,Uraria lagopodioides,Fabaceae,Fabales,9,9,3,6,6,2,Uraria lagopodioides,Fever; Inflammation; Malaria; Abortifacient; Tumor(Abdomen); Chest,India; India(Ayurvedic)
+2869559,Typhonium trilobatum,Araceae,Alismatales,9,6,4,4,3,4,Typhonium orixense; Typhonium trilobatum,Tumor; Boil; Cancer,India; Pakistan
+5289534,Typha domingensis,Typhaceae,Poales,5,4,2,4,3,3,Typha angustata,Epilepsy; Insanity; Madness,India(Santal)
+5525536,Vincetoxicum longifolium,Apocynaceae,Gentianales,3,3,1,3,3,1,Tylophora longifolia,Bite(Snake); Cholera; Gingivitis,India(Santal)
+3152069,Triumfetta rhomboidea,Malvaceae,Malvales,9,9,4,6,6,4,Triumfetta rhomboidea,Carbuncle; Convulsion; Spiderlick; Whitlow; Tongue; Sore,India(Santal)
+5348711,Abrus precatorius,Fabaceae,Fabales,129,73,37,11,11,21,Abrus precatorius,Anodyne; Convulsion; Diarrhea; Dysuria; Gingivitis; Gravel,India(Gujarat); India(Santal)
+5355258,Zornia diphylla,Fabaceae,Fabales,11,9,5,7,7,5,Zornia diphylla,Collapse; Dysentery; Soporific; Sore; Burn; Spasm,India; India(Santal)
+7273665,Ziziphus rugosa,Rhamnaceae,Rosales,13,13,1,13,13,2,Ziziphus rugosa,Carbuncle; Diarrhea; Glossitis; Inflammation; Menorrhagia; Odontalgia,India; India(Santal)
+7273729,Ziziphus oenoplia,Rhamnaceae,Rosales,7,7,1,7,7,2,Ziziphus oenoplia,Ache(Stomach); Ascaricide; Myalgia; Rinderpest; Sore; Wound,India; India(Santal)
+3039424,Ziziphus mauritiana,Rhamnaceae,Rosales,23,23,5,3,3,3,Ziziphus mauritiana,Contraceptive; Diarrhea; Dysentery,India
+3039423,Ziziphus jujuba,Rhamnaceae,Rosales,67,47,12,13,13,15,Ziziphus jujuba,Dysentery; Fever; Gravel; Splenitis; Tumor(Abdomen); Ache(Head),India; India(Santal)
+12257700,Ziziphus glabrata,Rhamnaceae,Rosales,3,3,1,3,3,1,Ziziphus glabrata,Venereal; Depurative; Cachexia,India
+2757108,Zingiber zerumbet,Zingiberaceae,Zingiberales,41,28,11,4,4,9,Zingiber zerumbet,Asthma; Bronchitis; Dysuria; Phthisis,India(Santal)
+2757280,Zingiber officinale,Zingiberaceae,Zingiberales,168,103,21,18,18,28,Zingiber officinale,Amenorrhea; Anodyne; Antidote(Scorpion); Anus; Asthma; Cholera,India; India(Santal)
+2757204,Zingiber purpureum,Zingiberaceae,Zingiberales,29,27,6,10,10,4,Zingiber cassumunar,Anasarca; Anemia; Anthrax; Ascites; Asthma; Phthisis,India(Santal)
+5290052,Zea mays,Poaceae,Poales,84,51,16,1,1,21,Zea mays,Pneumonia,India(Santal)
+3833741,Zanthoxylum tetraspermum,Rutaceae,Sapindales,5,5,1,5,5,1,Zanthoxylum tetraspermum,Digestive; Dyspepsia; Stimulant; Astringent; Diarrhea,Sri Lanka
+3834800,Zanthoxylum rhetsa,Rutaceae,Sapindales,18,18,2,2,2,2,Zanthoxylum limonella,Cholera; Medicine,India
+7716390,Zanthoxylum armatum,Rutaceae,Sapindales,21,17,4,10,7,3,Zanthoxylum armatum,Aromatic; Cholera; Dyspepsia; Carminative; Hair-Oil; Stomachic,India; Nepal; Pakistan
+7269121,Zanthoxylum acanthopodium,Rutaceae,Sapindales,13,13,3,1,1,1,Zanthoxylum acanthopodium,Piscicide,Assam
+7317904,Zanonia indica,Cucurbitaceae,Cucurbitales,8,8,2,1,1,1,Zanonia indica,Antidote,India
+8879994,Koenigia mollis,Polygonaceae,Caryophyllales,2,1,1,2,1,2,Aconogonum molle,Astringent,Nepal
+7278196,Aconitum violaceum,Ranunculaceae,Ranunculales,1,1,1,1,1,1,Aconitum violaceum,Tonic,India
+7277122,Aconitum laciniatum,Ranunculaceae,Ranunculales,2,2,2,1,1,2,Aconitum laciniatum,Medicine,Nepal
+7277241,Aconitum heterophyllum,Ranunculaceae,Ranunculales,19,13,6,11,10,5,Aconitum heterophyllum,Fever; Astringent; Cough; Diarrhea; Dyspepsia; Enteritis,India
+3676272,Achyranthes coynei,Amaranthaceae,Caryophyllales,1,1,1,1,1,1,Achyranthes porphyristachya,Tumor,India
+3085168,Achyranthes aspera,Amaranthaceae,Caryophyllales,56,39,15,23,18,12,Achyranthes aspera; Achyranthes rubro-fusca,Bite(Bug); Diuretic; Renitis; Dropsy; Tumor; Atrophy,India; India(Santal)
+3120060,Achillea millefolium,Asteraceae,Asterales,105,63,21,2,2,17,Achillea millefolium,Expectorant; Stimulant,India
+3056259,Acalypha indica,Euphorbiaceae,Malpighiales,9,8,4,1,1,4,Acalypha indica,Tumor,India
+3056623,Acalypha fruticosa,Euphorbiaceae,Malpighiales,5,4,2,3,3,2,Acalypha fruticosa,Cholera; Dyspepsia; Stomachic,India
+3974744,Vachellia nilotica,Fabaceae,Fabales,4,4,3,1,1,2,Acacia nilotica,Cancer,Pakistan
+3795980,Senegalia modesta,Fabaceae,Fabales,1,1,1,1,1,1,Acacia modesta,Toothstick,India
+11371547,Acacia ferruginea,Fabaceae,Fabales,2,2,2,1,1,2,Acacia ferruginea,Cancer,India
+2979265,Vachellia farnesiana,Fabaceae,Fabales,46,39,9,11,11,10,Acacia farnesiana,Bite(Snake); Carbuncle; Cholera; Convulsion; Delirium; Epilepsy,India(Santal)
+3152634,Abutilon indicum,Malvaceae,Malvales,23,20,4,17,17,5,Abutilon indicum,Anodyne; Colic; Tuberculosis; Cough; Demulcent; Diuretic,India; India(Santal)
+3922802,Aconitum deinorrhizum,Ranunculaceae,Ranunculales,8,8,8,1,1,1,Aconitum deinorhizum,Malaria,India
+7329156,Zaleya pentandra,Aizoaceae,Caryophyllales,3,3,2,1,1,1,Trianthema pentandra,Salt,India
+7268792,Stephania japonica,Menispermaceae,Ranunculales,10,10,2,1,1,2,Stephania hernandifolia,Tumor(Abdomen),India
+5645763,Strychnos ignatii,Loganiaceae,Gentianales,7,7,7,1,1,1,Strychnos ignatius,Canicide,India
+3662775,Semecarpus subpeltatus,Anacardiaceae,Sapindales,1,1,1,1,1,1,Semecarpus subpeltata,Wart,Sri Lanka
+5382244,Phyllanthus rheedei,Phyllanthaceae,Malpighiales,1,1,1,1,1,1,Phyllanthus rheedii,Dysentery,India
+7304790,Piper thomsonii,Piperaceae,Piperales,1,1,1,1,1,1,Piper thomsoni,Diuretic,Sikkim
+5334440,Polygonum plebeium,Polygonaceae,Caryophyllales,5,5,1,5,5,2,Polygonum plebejum,Dysentery; Menorrhagia; Bowel; Pneumonia; Earwig,India; India(Santal)
+3138332,Carthamus oxyacanthus,Asteraceae,Asterales,1,1,1,1,1,1,Carthamus oxyacantha,Itch,India
+2871393,Amorphophallus sylvaticus,Araceae,Alismatales,4,4,2,1,1,2,Amorphophallus sylvatica,Tumor,India
+3701897,Alangium salviifolium,Cornaceae,Cornales,14,14,1,14,14,2,Alangium salvifolium,Ache(Stomach); Bilious; Bite(Dog); Bite(Snake); Bronchitis; Cholera,India(Gujarat); India(Santal)
+5305887,Luisia trichorhiza,Orchidaceae,Asparagales,1,1,1,1,1,1,Luisia trichorrhiza,Myalgia,India
+3683008,Nyctanthes arbor-tristis,Oleaceae,Lamiales,9,9,1,9,9,1,Nyctanthes arbortristis,Atrophy; Bite(Dog); Bite(Snake); Cachexia; Cancer; Pregnancy,India(Santal)
+4205850,Launaea aspleniifolia,Asteraceae,Asterales,1,1,1,1,1,1,Launaea asplenifolia,Lactogogue,India(Santal)
+3072900,Jatropha gossypiifolia,Euphorbiaceae,Malpighiales,86,45,13,2,2,16,Jatropha gossypifolia,Urogenital; Antibiotic,India; India(Munda)
+5569748,Ficus talbotii,Moraceae,Rosales,1,1,1,1,1,1,Ficus talboti,Medicine,India
+3131229,Helichrysum luteoalbum,Asteraceae,Asterales,11,8,5,2,2,4,Gnaphalium luteo-album,Astringent; Vulnerary,India(Punjab)
+7584507,Hellenia speciosa,Costaceae,Zingiberales,12,12,1,12,12,1,Costus speciosa,Anasarca; Asthma; Bite(Dog); Bite(Snake); Bronchitis; Cholera,India(Santal)
+3057656,Croton tiglium,Euphorbiaceae,Malpighiales,1,1,1,1,1,1,Croton tighlium,Tumor,India
+5324319,Dendrobium plicatile,Orchidaceae,Asparagales,4,4,1,4,4,1,Ephemerantha fimbriatum,Demulcent; Tonic; Stimulant; Aphrodisiac,India
+8307201,Adonis chrysocyatha,Ranunculaceae,Ranunculales,1,1,1,1,1,1,Adonis chrysocyathus,Poison,Kashmir
+7268717,Cissampelos glaberrima,Menispermaceae,Ranunculales,4,4,2,1,1,2,Cissampelos pariera,Diuretic,India
+5330776,Colocasia esculenta,Araceae,Alismatales,9,8,2,7,7,2,Colocasia esculentum,Anthrax; Atrophy; Bronchitis; Cachexia; Tuberculosis; Cough,India(Santal)
+3618565,Catharanthus pusillus,Apocynaceae,Gentianales,4,2,2,2,2,2,Catharanthus pusilla,Poison; Lumbago,India
+3781786,Strobilanthes callosa,Acanthaceae,Lamiales,6,6,2,2,2,1,Strobilanthes callosus,Insecticide; Repellant(Insect),India
+3659703,Semecarpus obovatus,Anacardiaceae,Sapindales,1,1,1,1,1,1,Semecarpus obovata,Wart,Sri Lanka
+8376377,Euonymus bullatus,Celastraceae,Celastrales,2,2,1,2,2,1,Euonymus bullata,Cut; Bruise,India
+7715188,Gynura pseudochina,Asteraceae,Asterales,13,13,2,7,7,2,Gynura pseudo-china,Inflammation; Parturition; Pimple; Sore(Throat); Gargle; Refrigerant,India
+2684844,Juniperus recurva,Cupressaceae,Pinales,1,1,1,1,1,1,Juniperus recurvus,Emetic,India
+2763941,Commelina benghalensis,Commelinaceae,Commelinales,3,3,1,3,3,1,Commelina bengalensis,Bite(Snake); Otitis; Sore,India(Santal)
+4116612,Tripidium bengalense,Poaceae,Poales,6,6,1,6,6,1,Erianthus bengalense,Chest; Convulsion; Neck; Collapse; Spasm; Syphilis,India(Santal)
+5525050,Cryptolepis buchananii,Apocynaceae,Gentianales,8,8,1,8,8,1,Cryptolepis buchanani,Anodyne; Ascites; Bite(Snake); Cholera; Sore; Dysentery,India(Santal)

@@ -39,8 +39,8 @@ def get_json(url: str, params: dict | None = None, cache: bool = True, retries: 
     for attempt in range(retries):
         try:
             r = _session.get(url, params=params, timeout=60)
-            if r.status_code == 404:
-                data = None
+            if r.status_code in (204, 404) or (r.status_code == 200 and not r.content.strip()):
+                data = None  # GBIF returns an empty body when e.g. a synonym has no IUCN record
             elif r.status_code in (429, 500, 502, 503, 504):
                 ra = r.headers.get("Retry-After")
                 if ra and ra.isdigit():

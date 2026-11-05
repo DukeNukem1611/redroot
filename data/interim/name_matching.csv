@@ -1,0 +1,1561 @@
+binomial,gbif_match_type,gbif_confidence,gbif_rank,gbif_status,gbif_kingdom,speciesKey,accepted_name,family,order
+Abelmoschus manihot,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3152706.0,Abelmoschus manihot,Malvaceae,Malvales
+Abelmoschus moschatus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8312665.0,Abelmoschus moschatus,Malvaceae,Malvales
+Abies spectabilis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2685619.0,Abies spectabilis,Pinaceae,Pinales
+Abroma augusta,EXACT,100.0,SPECIES,SYNONYM,Plantae,8219075.0,Abroma augustum,Malvaceae,Malvales
+Abrus precatorius,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5348711.0,Abrus precatorius,Fabaceae,Fabales
+Abutilon indicum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3152634.0,Abutilon indicum,Malvaceae,Malvales
+Acacia caesia,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Fabaceae,Fabales
+Acacia catechu,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Fabaceae,Fabales
+Acacia concinna,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Fabaceae,Fabales
+Acacia farnesiana,EXACT,100.0,SPECIES,SYNONYM,Plantae,2979265.0,Vachellia farnesiana,Fabaceae,Fabales
+Acacia ferruginea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,11371547.0,Acacia ferruginea,Fabaceae,Fabales
+Acacia modesta,EXACT,100.0,SPECIES,SYNONYM,Plantae,3795980.0,Senegalia modesta,Fabaceae,Fabales
+Acacia nilotica,EXACT,100.0,SPECIES,SYNONYM,Plantae,3974744.0,Vachellia nilotica,Fabaceae,Fabales
+Acacia pennata,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Fabaceae,Fabales
+Acalypha fruticosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3056623.0,Acalypha fruticosa,Euphorbiaceae,Malpighiales
+Acalypha indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3056259.0,Acalypha indica,Euphorbiaceae,Malpighiales
+Achillea millefolium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3120060.0,Achillea millefolium,Asteraceae,Asterales
+Achyranthes aspera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3085168.0,Achyranthes aspera,Amaranthaceae,Caryophyllales
+Achyranthes porphyristachya,EXACT,100.0,SPECIES,SYNONYM,Plantae,3676272.0,Achyranthes coynei,Amaranthaceae,Caryophyllales
+Achyranthes rubro-fusca,FUZZY,99.0,SPECIES,SYNONYM,Plantae,3085168.0,Achyranthes aspera,Amaranthaceae,Caryophyllales
+Aconitum deinorhizum,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,3922802.0,Aconitum deinorrhizum,Ranunculaceae,Ranunculales
+Aconitum heterophyllum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7277241.0,Aconitum heterophyllum,Ranunculaceae,Ranunculales
+Aconitum laciniatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7277122.0,Aconitum laciniatum,Ranunculaceae,Ranunculales
+Aconitum violaceum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7278196.0,Aconitum violaceum,Ranunculaceae,Ranunculales
+Aconogonum molle,EXACT,100.0,SPECIES,SYNONYM,Plantae,8879994.0,Koenigia mollis,Polygonaceae,Caryophyllales
+Acorus calamus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2873769.0,Acorus calamus,Acoraceae,Acorales
+Actaea spicata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5371473.0,Actaea spicata,Ranunculaceae,Ranunculales
+Actiniopteris dichotoma,EXACT,100.0,SPECIES,ACCEPTED,Plantae,11261901.0,Actiniopteris dichotoma,Pteridaceae,Polypodiales
+Adenia palmata,EXACT,100.0,SPECIES,SYNONYM,Plantae,5527769.0,Adenia hondala,Passifloraceae,Malpighiales
+Adhatoda vasica,EXACT,100.0,SPECIES,SYNONYM,Plantae,3173105.0,Justicia adhatoda,Acanthaceae,Lamiales
+Adiantum capillus-veneris,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2651816.0,Adiantum capillus-veneris,Pteridaceae,Polypodiales
+Adiantum caudatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2651833.0,Adiantum caudatum,Pteridaceae,Polypodiales
+Adiantum concinnum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2651835.0,Adiantum concinnum,Pteridaceae,Polypodiales
+Adiantum lunulatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7727909.0,Adiantum lunulatum,Pteridaceae,Polypodiales
+Adiantum venustum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7335278.0,Adiantum venustum,Pteridaceae,Polypodiales
+Adina cordifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8417744.0,Adina cordifolia,Rubiaceae,Gentianales
+Adonis chrysocyathus,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,8307201.0,Adonis chrysocyatha,Ranunculaceae,Ranunculales
+Aegle marmelos,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5421195.0,Aegle marmelos,Rutaceae,Sapindales
+Aerva lanata,EXACT,100.0,SPECIES,SYNONYM,Plantae,10974033.0,Ouret lanata,Amaranthaceae,Caryophyllales
+Aesculus indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8566446.0,Aesculus indica,Sapindaceae,Sapindales
+Agave americana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2767031.0,Agave americana,Asparagaceae,Asparagales
+Ageratum conyzoides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5401673.0,Ageratum conyzoides,Asteraceae,Asterales
+Aglaia odoratissima,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5597346.0,Aglaia odoratissima,Meliaceae,Sapindales
+Aglaia roxburghiana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5598022.0,Aglaia roxburghiana,Meliaceae,Sapindales
+Ailanthus excelsa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3709036.0,Ailanthus excelsa,Simaroubaceae,Sapindales
+Ajuga bracteosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,9520699.0,Ajuga integrifolia,Lamiaceae,Lamiales
+Alangium hexapetalum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3701832.0,Alangium hexapetalum,Cornaceae,Cornales
+Alangium salvifolium,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,3701897.0,Alangium salviifolium,Cornaceae,Cornales
+Albizia lebbeck,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2973215.0,Albizia lebbeck,Fabaceae,Fabales
+Albizia lebbek,EXACT,100.0,SPECIES,SYNONYM,Plantae,2973215.0,Albizia lebbeck,Fabaceae,Fabales
+Albizia myriophylla,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2973009.0,Albizia myriophylla,Fabaceae,Fabales
+Albizia odoratissima,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2973031.0,Albizia odoratissima,Fabaceae,Fabales
+Albizia procera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2973167.0,Albizia procera,Fabaceae,Fabales
+Alectra parasitica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7331604.0,Alectra parasitica,Orobanchaceae,Lamiales
+Alhagi maurorum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2945092.0,Alhagi maurorum,Fabaceae,Fabales
+Alhagi pseudalhagi,EXACT,100.0,SPECIES,ACCEPTED,Plantae,11374752.0,Alhagi pseudalhagi,Fabaceae,Fabales
+Allium cepa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2857697.0,Allium cepa,Amaryllidaceae,Asparagales
+Allium sativum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2856681.0,Allium sativum,Amaryllidaceae,Asparagales
+Alocasia macrorrhiza,EXACT,100.0,SPECIES,SYNONYM,Plantae,5329904.0,Alocasia macrorrhizos,Araceae,Alismatales
+Aloe barbadensis,EXACT,100.0,SPECIES,SYNONYM,Plantae,2777724.0,Aloe vera,Asphodelaceae,Asparagales
+Aloe vera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2777724.0,Aloe vera,Asphodelaceae,Asparagales
+Alpinia galanga,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5302225.0,Alpinia galanga,Zingiberaceae,Zingiberales
+Alpinia officinarum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5302199.0,Alpinia officinarum,Zingiberaceae,Zingiberales
+Alstonia scholaris,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5414410.0,Alstonia scholaris,Apocynaceae,Gentianales
+Alternanthera sessilis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3084939.0,Alternanthera sessilis,Amaranthaceae,Caryophyllales
+Alysicarpus glumaceus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2948677.0,Alysicarpus glumaceus,Fabaceae,Fabales
+Amaranthus cruentus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5384390.0,Amaranthus cruentus,Amaranthaceae,Caryophyllales
+Amaranthus gracilis,EXACT,100.0,SPECIES,SYNONYM,Plantae,5384334.0,Amaranthus viridis,Amaranthaceae,Caryophyllales
+Amaranthus spinosus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5384401.0,Amaranthus spinosus,Amaranthaceae,Caryophyllales
+Amaranthus tricolor,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5384397.0,Amaranthus tricolor,Amaranthaceae,Caryophyllales
+Amaryllis belladonna,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5325855.0,Amaryllis belladonna,Amaryllidaceae,Asparagales
+Amberboa divaricata,EXACT,100.0,SPECIES,SYNONYM,Plantae,5401804.0,Oligochaeta divaricata,Asteraceae,Asterales
+Ammannia baccifera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3188716.0,Ammannia baccifera,Lythraceae,Myrtales
+Ammi copticum,EXACT,100.0,SPECIES,SYNONYM,Plantae,3034241.0,Trachyspermum ammi,Apiaceae,Apiales
+Amomum aromaticum,EXACT,100.0,SPECIES,SYNONYM,Plantae,10958923.0,Wurfbainia aromatica,Zingiberaceae,Zingiberales
+Amomum melegueta,EXACT,100.0,SPECIES,SYNONYM,Plantae,2758930.0,Aframomum melegueta,Zingiberaceae,Zingiberales
+Amomum subulatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5301632.0,Amomum subulatum,Zingiberaceae,Zingiberales
+Amoora rohitaka,NONE,,,,,,,,
+Amorphophallus campanulatus,EXACT,100.0,SPECIES,SYNONYM,Plantae,2871533.0,Amorphophallus paeoniifolius,Araceae,Alismatales
+Amorphophallus sylvatica,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,2871393.0,Amorphophallus sylvaticus,Araceae,Alismatales
+Ampelocissus latifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4053742.0,Ampelocissus latifolia,Vitaceae,Vitales
+Ampelocissus tomentosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4053243.0,Ampelocissus tomentosa,Vitaceae,Vitales
+Anacardium occidentale,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5421368.0,Anacardium occidentale,Anacardiaceae,Sapindales
+Anagallis arvensis,EXACT,100.0,SPECIES,SYNONYM,Plantae,8184903.0,Lysimachia arvensis,Primulaceae,Ericales
+Anamirta cocculus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3829613.0,Anamirta cocculus,Menispermaceae,Ranunculales
+Anaphalis adnata,EXACT,100.0,SPECIES,SYNONYM,Plantae,9273319.0,Pseudognaphalium adnatum,Asteraceae,Asterales
+Ancistrocladus hamatus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3659014.0,Ancistrocladus hamatus,Ancistrocladaceae,Caryophyllales
+Andrographis paniculata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3173178.0,Andrographis paniculata,Acanthaceae,Lamiales
+Andropogon schoenanthus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7952313.0,Andropogon schoenanthus,Poaceae,Poales
+Anemone obtusiloba,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Ranunculaceae,Ranunculales
+Anethum graveolens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3034646.0,Anethum graveolens,Apiaceae,Apiales
+Anethum sowa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3631014.0,Anethum sowa,Apiaceae,Apiales
+Angelica glauca,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5537742.0,Angelica glauca,Apiaceae,Apiales
+Anisochilus carnosus,EXACT,100.0,SPECIES,SYNONYM,Plantae,9853197.0,Coleus strobilifer,Lamiaceae,Lamiales
+Anisomeles indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3884461.0,Anisomeles indica,Lamiaceae,Lamiales
+Annona reticulata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5407123.0,Annona reticulata,Annonaceae,Magnoliales
+Annona squamosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5407099.0,Annona squamosa,Annonaceae,Magnoliales
+Anogeissus latifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,9256805.0,Terminalia anogeissiana,Combretaceae,Myrtales
+Anthocephalus cadamba,EXACT,100.0,SPECIES,SYNONYM,Plantae,2896888.0,Neolamarckia cadamba,Rubiaceae,Gentianales
+Anthocephalus indicus,EXACT,100.0,SPECIES,SYNONYM,Plantae,2911261.0,Breonia chinensis,Rubiaceae,Gentianales
+Antidesma diandrum,EXACT,100.0,SPECIES,SYNONYM,Plantae,3076532.0,Antidesma acidum,Phyllanthaceae,Malpighiales
+Apium graveolens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5371879.0,Apium graveolens,Apiaceae,Apiales
+Aquilaria agallocha,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5524192.0,Aquilaria agallocha,Thymelaeaceae,Malvales
+Arctium lappa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7353729.0,Arctium lappa,Asteraceae,Asterales
+Areca catachu,NONE,,,,,,,,
+Areca catechu,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2736531.0,Areca catechu,Arecaceae,Arecales
+Arenga pinnata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2733997.0,Arenga pinnata,Arecaceae,Arecales
+Argemone mexicana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2888485.0,Argemone mexicana,Papaveraceae,Ranunculales
+Argyreia nervosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928692.0,Argyreia nervosa,Convolvulaceae,Solanales
+Argyreia speciosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7914815.0,Argyreia speciosa,Convolvulaceae,Solanales
+Arisaema speciosum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2866892.0,Arisaema speciosum,Araceae,Alismatales
+Aristolochia indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7313567.0,Aristolochia indica,Aristolochiaceae,Piperales
+Aristolochia tagala,EXACT,100.0,SPECIES,SYNONYM,Plantae,8207569.0,Aristolochia acuminata,Aristolochiaceae,Piperales
+Arnebia nobilis,EXACT,100.0,SPECIES,SYNONYM,Plantae,8169708.0,Arnebia speciosa,Boraginaceae,Boraginales
+Artemisia vulgaris,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3120946.0,Artemisia vulgaris,Asteraceae,Asterales
+Arthrocnemum indicum,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Amaranthaceae,Caryophyllales
+Artocarpus heterophyllus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2984565.0,Artocarpus heterophyllus,Moraceae,Rosales
+Artocarpus lakoocha,EXACT,100.0,SPECIES,SYNONYM,Plantae,7873234.0,Artocarpus lacucha,Moraceae,Rosales
+Asclepias curassavica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3170241.0,Asclepias curassavica,Apocynaceae,Gentianales
+Aspalathus indica,EXACT,100.0,SPECIES,SYNONYM,Plantae,2971981.0,Indigofera aspalathoides,Fabaceae,Fabales
+Asparagus adscendens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2768799.0,Asparagus adscendens,Asparagaceae,Asparagales
+Asparagus racemosus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2768632.0,Asparagus racemosus,Asparagaceae,Asparagales
+Asteracantha longifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,5415352.0,Hygrophila auriculata,Acanthaceae,Lamiales
+Astragalus gummifer,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5352898.0,Astragalus gummifer,Fabaceae,Fabales
+Astragalus tribuloides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5344908.0,Astragalus tribuloides,Fabaceae,Fabales
+Atropa belladonna,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3802655.0,Atropa belladonna,Solanaceae,Solanales
+Atylosia mollis,EXACT,100.0,SPECIES,SYNONYM,Plantae,2960370.0,Cajanus mollis,Fabaceae,Fabales
+Atylosia scarabaeoides,EXACT,100.0,SPECIES,SYNONYM,Plantae,2960284.0,Cajanus scarabaeoides,Fabaceae,Fabales
+Averrhoa bilimbi,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2891640.0,Averrhoa bilimbi,Oxalidaceae,Oxalidales
+Avicennia officinalis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,6413451.0,Avicennia officinalis,Acanthaceae,Lamiales
+Azadirachta indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3190474.0,Azadirachta indica,Meliaceae,Sapindales
+Bacopa monniera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3736486.0,Bacopa monniera,Plantaginaceae,Lamiales
+Bacopa monnieri,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3171169.0,Bacopa monnieri,Plantaginaceae,Lamiales
+Baliospermum axillaea,NONE,,,,,,,,
+Baliospermum axillare,EXACT,100.0,SPECIES,SYNONYM,Plantae,3062296.0,Baliospermum solanifolium,Euphorbiaceae,Malpighiales
+Baliospermum montanum,EXACT,100.0,SPECIES,SYNONYM,Plantae,3062296.0,Baliospermum solanifolium,Euphorbiaceae,Malpighiales
+Bambusa tulda,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2705765.0,Bambusa tulda,Poaceae,Poales
+Barleria cristata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3173128.0,Barleria cristata,Acanthaceae,Lamiales
+Barleria prionitis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3173129.0,Barleria prionitis,Acanthaceae,Lamiales
+Barringtonia acutangula,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3082835.0,Barringtonia acutangula,Lecythidaceae,Ericales
+Barringtonia racemosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3082727.0,Barringtonia racemosa,Lecythidaceae,Ericales
+Barringtonia speciosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7572180.0,Barringtonia speciosa,Lecythidaceae,Ericales
+Basella alba,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3083504.0,Basella alba,Basellaceae,Caryophyllales
+Bassia latifolia,HIGHERRANK,100.0,CLASS,ACCEPTED,Plantae,,,,
+Bauhinia purpurea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2953871.0,Bauhinia purpurea,Fabaceae,Fabales
+Bauhinia retusa,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Fabaceae,Fabales
+Bauhinia tomentosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2953031.0,Bauhinia tomentosa,Fabaceae,Fabales
+Bauhinia vahlii,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Fabaceae,Fabales
+Bauhinia variegata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2953251.0,Bauhinia variegata,Fabaceae,Fabales
+Belamcanda chinensis,EXACT,100.0,SPECIES,SYNONYM,Plantae,5298546.0,Iris domestica,Iridaceae,Asparagales
+Berberis aristata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3982087.0,Berberis aristata,Berberidaceae,Ranunculales
+Berberis asiatica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7539048.0,Berberis asiatica,Berberidaceae,Ranunculales
+Bergenia ciliata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8330218.0,Bergenia ciliata,Saxifragaceae,Saxifragales
+Bergenia ligulata,EXACT,100.0,SPECIES,SYNONYM,Plantae,5567668.0,Bergenia pacumbis,Saxifragaceae,Saxifragales
+Bergia odorata,EXACT,100.0,SPECIES,SYNONYM,Plantae,5646125.0,Bergia suffruticosa,Elatinaceae,Malpighiales
+Beta vulgaris,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8971274.0,Beta vulgaris,Amaranthaceae,Caryophyllales
+Betula utilis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5332157.0,Betula utilis,Betulaceae,Fagales
+Biophytum sensitivum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3628231.0,Biophytum sensitivum,Oxalidaceae,Oxalidales
+Blepharis edulis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5575687.0,Blepharis edulis,Acanthaceae,Lamiales
+Blepharis linariaefolia,NONE,,,,,,,,
+Boenninghausenia albiflora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7269004.0,Boenninghausenia albiflora,Rutaceae,Sapindales
+Boerhaavia diffusa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7469489.0,Boerhaavia diffusa,Nyctaginaceae,Caryophyllales
+Bombax ceiba,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3152226.0,Bombax ceiba,Malvaceae,Malvales
+Bombax malabaricum,EXACT,100.0,SPECIES,SYNONYM,Plantae,3152226.0,Bombax ceiba,Malvaceae,Malvales
+Borassus flabellifer,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2733934.0,Borassus flabellifer,Arecaceae,Arecales
+Borreria articularis,EXACT,100.0,SPECIES,SYNONYM,Plantae,2918203.0,Spermacoce articularis,Rubiaceae,Gentianales
+Boswellia carteri,EXACT,100.0,SPECIES,SYNONYM,Plantae,8330171.0,Boswellia sacra,Burseraceae,Sapindales
+Boswellia serrata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5421354.0,Boswellia serrata,Burseraceae,Sapindales
+Boswellia thurifera,EXACT,100.0,SPECIES,SYNONYM,Plantae,5421354.0,Boswellia serrata,Burseraceae,Sapindales
+Brassica campestris,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8426995.0,Brassica campestris,Brassicaceae,Brassicales
+Brassica hirta,EXACT,100.0,SPECIES,SYNONYM,Plantae,3047621.0,Sinapis alba,Brassicaceae,Brassicales
+Brassica oleracea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3042845.0,Brassica oleracea,Brassicaceae,Brassicales
+Brassica rugosa,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Brassicaceae,Brassicales
+Breynia rhamnoides,EXACT,100.0,SPECIES,SYNONYM,Plantae,5382985.0,Breynia vitis-idaea,Phyllanthaceae,Malpighiales
+Bridelia stipularis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3076290.0,Bridelia stipularis,Phyllanthaceae,Malpighiales
+Brucea sumatrana,EXACT,100.0,SPECIES,SYNONYM,Plantae,5555210.0,Brucea javanica,Simaroubaceae,Sapindales
+Bryonopsis laciniosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,7317695.0,Diplocyclos palmatus,Cucurbitaceae,Cucurbitales
+Bryophyllum pinnatum,EXACT,100.0,SPECIES,SYNONYM,Plantae,2985930.0,Kalanchoe pinnata,Crassulaceae,Saxifragales
+Buchanania latifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,5544043.0,Buchanania cochinchinensis,Anacardiaceae,Sapindales
+Buddleja asiatica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3173333.0,Buddleja asiatica,Scrophulariaceae,Lamiales
+Buddleja macrostachya,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4055437.0,Buddleja macrostachya,Scrophulariaceae,Lamiales
+Bursera serrata,EXACT,100.0,SPECIES,SYNONYM,Plantae,3993153.0,Protium serratum,Burseraceae,Sapindales
+Butea monosperma,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8234570.0,Butea monosperma,Fabaceae,Fabales
+Butea superba,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7797090.0,Butea superba,Fabaceae,Fabales
+Byttneria herbacea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3668959.0,Byttneria herbacea,Malvaceae,Malvales
+Cadaba farinosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3054234.0,Cadaba farinosa,Capparaceae,Brassicales
+Caesalpinia bonduc,EXACT,100.0,SPECIES,SYNONYM,Plantae,8400302.0,Guilandina bonduc,Fabaceae,Fabales
+Caesalpinia bonducella,EXACT,100.0,SPECIES,SYNONYM,Plantae,8400302.0,Guilandina bonduc,Fabaceae,Fabales
+Caesalpinia coriaria,EXACT,100.0,SPECIES,ACCEPTED,Plantae,11211297.0,Caesalpinia coriaria,Fabaceae,Fabales
+Caesalpinia crista,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Fabaceae,Fabales
+Caesalpinia nuga,EXACT,100.0,SPECIES,SYNONYM,Plantae,11973078.0,Ticanto crista,Fabaceae,Fabales
+Caesulia axillaris,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3094956.0,Caesulia axillaris,Asteraceae,Asterales
+Cajanus cajan,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7587087.0,Cajanus cajan,Fabaceae,Fabales
+Calamus rotang,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5294063.0,Calamus rotang,Arecaceae,Arecales
+Calamus rotjang,NONE,,,,,,,,
+Calanthe masuca,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2795298.0,Calanthe masuca,Orchidaceae,Asparagales
+Calendula officinalis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5391480.0,Calendula officinalis,Asteraceae,Asterales
+Callicarpa lanata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7614428.0,Callicarpa lanata,Lamiaceae,Lamiales
+Callicarpa macrophylla,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5609508.0,Callicarpa macrophylla,Lamiaceae,Lamiales
+Calotropis gigantea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3579089.0,Calotropis gigantea,Apocynaceae,Gentianales
+Calotropis procera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5414566.0,Calotropis procera,Apocynaceae,Gentianales
+Canavalia ensiformis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7799711.0,Canavalia ensiformis,Fabaceae,Fabales
+Canna indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8034409.0,Canna indica,Cannaceae,Zingiberales
+Cannabis sativa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5361880.0,Cannabis sativa,Cannabaceae,Rosales
+Canthium parviflorum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8117136.0,Canthium parviflorum,Rubiaceae,Gentianales
+Capparis horrida,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Capparaceae,Brassicales
+Capparis zeylanica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5601836.0,Capparis zeylanica,Capparaceae,Brassicales
+Capsicum frutescens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8403992.0,Capsicum frutescens,Solanaceae,Solanales
+Carallia brachiata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3873929.0,Carallia brachiata,Rhizophoraceae,Malpighiales
+Cardiospermum halicacabum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3189939.0,Cardiospermum halicacabum,Sapindaceae,Sapindales
+Careya arborea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3083448.0,Careya arborea,Lecythidaceae,Ericales
+Carica papaya,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2874484.0,Carica papaya,Caricaceae,Brassicales
+Carissa carandas,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5414419.0,Carissa carandas,Apocynaceae,Gentianales
+Carthamus oxyacantha,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,3138332.0,Carthamus oxyacanthus,Asteraceae,Asterales
+Carthamus tinctorius,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3138327.0,Carthamus tinctorius,Asteraceae,Asterales
+Carum bulbocastanum,EXACT,100.0,SPECIES,SYNONYM,Plantae,3034501.0,Bunium bulbocastanum,Apiaceae,Apiales
+Carum carvi,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3034714.0,Carum carvi,Apiaceae,Apiales
+Carum copticum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7741980.0,Carum copticum,Apiaceae,Apiales
+Carum roxburghianum,EXACT,100.0,SPECIES,SYNONYM,Plantae,11442972.0,Psammogeton involucratum,Apiaceae,Apiales
+Casearia tomentosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,6043389.0,Casearia tomentosa,Salicaceae,Malpighiales
+Cassia absus,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Fabaceae,Fabales
+Cassia fistula,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5357108.0,Cassia fistula,Fabaceae,Fabales
+Cassia obtusifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,2957408.0,Senna obtusifolia,Fabaceae,Fabales
+Cassia occidentalis,EXACT,100.0,SPECIES,SYNONYM,Plantae,2957966.0,Senna occidentalis,Fabaceae,Fabales
+Cassia sophera,EXACT,100.0,SPECIES,SYNONYM,Plantae,2957379.0,Senna sophera,Fabaceae,Fabales
+Cassia tagara,NONE,,,,,,,,
+Cassia tora,EXACT,100.0,SPECIES,SYNONYM,Plantae,2957728.0,Senna tora,Fabaceae,Fabales
+Cassytha filiformis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3033999.0,Cassytha filiformis,Lauraceae,Laurales
+Catharanthus pusilla,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,3618565.0,Catharanthus pusillus,Apocynaceae,Gentianales
+Catharanthus roseus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3169830.0,Catharanthus roseus,Apocynaceae,Gentianales
+Cedrus deodora,NONE,,,,,,,,
+Celastrus paniculatus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7265565.0,Celastrus paniculatus,Celastraceae,Celastrales
+Celosia argentea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3085191.0,Celosia argentea,Amaranthaceae,Caryophyllales
+Celtis cinnamonea,NONE,,,,,,,,
+Centaurea calcitrapa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3128483.0,Centaurea calcitrapa,Asteraceae,Asterales
+Centaurium roxburghii,EXACT,100.0,SPECIES,SYNONYM,Plantae,8157807.0,Centaurium centaurioides,Gentianaceae,Gentianales
+Centella asiatica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3034128.0,Centella asiatica,Apiaceae,Apiales
+Centipeda minima,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5391292.0,Centipeda minima,Asteraceae,Asterales
+Centratherum anthelmintica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7896584.0,Centratherum anthelmintica,Asteraceae,Asterales
+Centratherum anthelminticum,EXACT,100.0,SPECIES,SYNONYM,Plantae,3087253.0,Baccharoides anthelmintica,Asteraceae,Asterales
+Centratherum anthemlinticum,NONE,,,,,,,,
+Ceropegia bulbosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3576063.0,Ceropegia bulbosa,Apocynaceae,Gentianales
+Cheilanthes tenuifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7173530.0,Cheilanthes tenuifolia,Pteridaceae,Polypodiales
+Chlorophytum tuberosum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2774912.0,Chlorophytum tuberosum,Asparagaceae,Asparagales
+Choerospondias axillaris,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3661517.0,Choerospondias axillaris,Anacardiaceae,Sapindales
+Chrozophora rottleri,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3054492.0,Chrozophora rottleri,Euphorbiaceae,Malpighiales
+Chrysanthemum cinerariaefolium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,11213051.0,Chrysanthemum cinerariaefolium,Asteraceae,Asterales
+Chrysanthemum indicum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3150814.0,Chrysanthemum indicum,Asteraceae,Asterales
+Cichorium intybus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5392252.0,Cichorium intybus,Asteraceae,Asterales
+Cinchona calisaya,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2901375.0,Cinchona calisaya,Rubiaceae,Gentianales
+Cinnamomum camphora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3033991.0,Cinnamomum camphora,Lauraceae,Laurales
+Cinnamomum cassia,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Lauraceae,Laurales
+Cinnamomum tamala,EXACT,100.0,SPECIES,ACCEPTED,Plantae,9128079.0,Cinnamomum tamala,Lauraceae,Laurales
+Cinnamomum verum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3033987.0,Cinnamomum verum,Lauraceae,Laurales
+Cissampelos pareira,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3033937.0,Cissampelos pareira,Menispermaceae,Ranunculales
+Cissampelos pariera,FUZZY,99.0,SPECIES,SYNONYM,Plantae,7268717.0,Cissampelos glaberrima,Menispermaceae,Ranunculales
+Cissampelos quadrangularis,NONE,,,,,,,,
+Cissus adnata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4052376.0,Cissus adnata,Vitaceae,Vitales
+Citrullus colocynthis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2874622.0,Citrullus colocynthis,Cucurbitaceae,Cucurbitales
+Citrus aurantiifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3190164.0,Citrus aurantiifolia,Rutaceae,Sapindales
+Citrus aurantium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8077391.0,Citrus aurantium,Rutaceae,Sapindales
+Citrus medica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3190157.0,Citrus medica,Rutaceae,Sapindales
+Clematis montana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,6376216.0,Clematis montana,Ranunculaceae,Ranunculales
+Cleome chelidonii,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Cleomaceae,Brassicales
+Cleome felina,EXACT,100.0,SPECIES,SYNONYM,Plantae,7411662.0,Corynandra felina,Cleomaceae,Brassicales
+Cleome gynandra,EXACT,100.0,SPECIES,SYNONYM,Plantae,3054227.0,Gynandropsis gynandra,Cleomaceae,Brassicales
+Cleome monophylla,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Cleomaceae,Brassicales
+Cleome viscosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,6370562.0,Arivela viscosa,Cleomaceae,Brassicales
+Clerodendrum indicum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2925349.0,Clerodendrum indicum,Lamiaceae,Lamiales
+Clerodendrum infortunatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3892486.0,Clerodendrum infortunatum,Lamiaceae,Lamiales
+Clerodendrum phloimidis,NONE,,,,,,,,
+Clerodendrum phlomoidis,NONE,,,,,,,,
+Clerodendrum serratum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8355397.0,Clerodendrum serratum,Lamiaceae,Lamiales
+Clerodendrum siphonanthus,EXACT,100.0,SPECIES,SYNONYM,Plantae,2925349.0,Clerodendrum indicum,Lamiaceae,Lamiales
+Clitoria ternatea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2946519.0,Clitoria ternatea,Fabaceae,Fabales
+Coccinea glauca,NONE,,,,,,,,
+Coccinia cordifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,8364646.0,Cucumis maderaspatanus,Cucurbitaceae,Cucurbitales
+Coccinia indica,EXACT,100.0,SPECIES,SYNONYM,Plantae,2874564.0,Coccinia grandis,Cucurbitaceae,Cucurbitales
+Cocculus hirsutus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3829491.0,Cocculus hirsutus,Menispermaceae,Ranunculales
+Cocculus leaeba,EXACT,100.0,SPECIES,SYNONYM,Plantae,3830806.0,Cocculus pendulus,Menispermaceae,Ranunculales
+Cocculus villosus,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Menispermaceae,Ranunculales
+Cochlospermum religiosum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2874867.0,Cochlospermum religiosum,Cochlospermaceae,Malvales
+Cocos nucifera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2735117.0,Cocos nucifera,Arecaceae,Arecales
+Coelogyne ovalis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2811454.0,Coelogyne ovalis,Orchidaceae,Asparagales
+Coix lachryma-jobi,NONE,,,,,,,,
+Coix lacryma-jobi,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2706301.0,Coix lacryma-jobi,Poaceae,Poales
+Coix lacrymajobi,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,2706301.0,Coix lacryma-jobi,Poaceae,Poales
+Coldenia procumbens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4059906.0,Coldenia procumbens,Coldeniaceae,Boraginales
+Colebrookea oppositifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3884974.0,Colebrookea oppositifolia,Lamiaceae,Lamiales
+Colocasia esculentum,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,5330776.0,Colocasia esculenta,Araceae,Alismatales
+Combretum decandrum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3699211.0,Combretum decandrum,Combretaceae,Myrtales
+Combretum latifolium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8344668.0,Combretum latifolium,Combretaceae,Myrtales
+Combretum nanum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8254388.0,Combretum nanum,Combretaceae,Myrtales
+Combretum raimbaultii,EXACT,100.0,SPECIES,SYNONYM,Plantae,3698309.0,Combretum micranthum,Combretaceae,Myrtales
+Commelina bengalensis,FUZZY,98.0,SPECIES,ACCEPTED,Plantae,2763941.0,Commelina benghalensis,Commelinaceae,Commelinales
+Commelina diffusa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2764202.0,Commelina diffusa,Commelinaceae,Commelinales
+Commelina suffruticosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2764382.0,Commelina suffruticosa,Commelinaceae,Commelinales
+Commiphora mukul,EXACT,100.0,SPECIES,SYNONYM,Plantae,3992808.0,Commiphora wightii,Burseraceae,Sapindales
+Commiphora myrra,NONE,,,,,,,,
+Connarus grandis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3687038.0,Connarus grandis,Connaraceae,Oxalidales
+Corchorus aestuans,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3152092.0,Corchorus aestuans,Malvaceae,Malvales
+Corchorus olitorius,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3152084.0,Corchorus olitorius,Malvaceae,Malvales
+Cordia macleodii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5661642.0,Cordia macleodii,Cordiaceae,Boraginales
+Coriandrum sativum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3034871.0,Coriandrum sativum,Apiaceae,Apiales
+Coscinium fenestratum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5592750.0,Coscinium fenestratum,Menispermaceae,Ranunculales
+Costus speciosa,FUZZY,99.0,SPECIES,SYNONYM,Plantae,7584507.0,Hellenia speciosa,Costaceae,Zingiberales
+Crateva religiosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3054263.0,Crateva religiosa,Capparaceae,Brassicales
+Crescentia cujete,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5415081.0,Crescentia cujete,Bignoniaceae,Lamiales
+Crinum asiaticum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2853796.0,Crinum asiaticum,Amaryllidaceae,Asparagales
+Crinum bracteatum,EXACT,100.0,SPECIES,SYNONYM,Plantae,2853796.0,Crinum asiaticum,Amaryllidaceae,Asparagales
+Crinum deflexum,NONE,,,,,,,,
+Crinum latifolium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2853901.0,Crinum latifolium,Amaryllidaceae,Asparagales
+Crocus sativus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2747430.0,Crocus sativus,Iridaceae,Asparagales
+Crossandra infunduliformis,NONE,,,,,,,,
+Crossopteryx kotschyana,EXACT,100.0,SPECIES,SYNONYM,Plantae,2898652.0,Crossopteryx febrifuga,Rubiaceae,Gentianales
+Crotalaria calycina,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2941944.0,Crotalaria calycina,Fabaceae,Fabales
+Croton oblongifolius,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8056545.0,Croton oblongifolius,Euphorbiaceae,Malpighiales
+Croton roxburghii,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Euphorbiaceae,Malpighiales
+Croton tighlium,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,3057656.0,Croton tiglium,Euphorbiaceae,Malpighiales
+Cryptocoryne spiralis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2869170.0,Cryptocoryne spiralis,Araceae,Alismatales
+Cryptolepis buchanani,FUZZY,98.0,SPECIES,ACCEPTED,Plantae,5525050.0,Cryptolepis buchananii,Apocynaceae,Gentianales
+Cryptostegia grandiflora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3170473.0,Cryptostegia grandiflora,Apocynaceae,Gentianales
+Cucumis sativus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2874569.0,Cucumis sativus,Cucurbitaceae,Cucurbitales
+Cuminum cyminum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3034775.0,Cuminum cyminum,Apiaceae,Apiales
+Curculigo orchioides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2853024.0,Curculigo orchioides,Hypoxidaceae,Asparagales
+Curcuma angustifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2757542.0,Curcuma angustifolia,Zingiberaceae,Zingiberales
+Curcuma aromatica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2757544.0,Curcuma aromatica,Zingiberaceae,Zingiberales
+Curcuma domestica,EXACT,100.0,SPECIES,SYNONYM,Plantae,2757624.0,Curcuma longa,Zingiberaceae,Zingiberales
+Curcuma longa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2757624.0,Curcuma longa,Zingiberaceae,Zingiberales
+Curcuma zedoaria,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2757545.0,Curcuma zedoaria,Zingiberaceae,Zingiberales
+Curcuma zerumbet,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Zingiberaceae,Zingiberales
+Cuscuta chinensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3610749.0,Cuscuta chinensis,Convolvulaceae,Solanales
+Cuscuta reflexa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2927545.0,Cuscuta reflexa,Convolvulaceae,Solanales
+Cyclamen persicum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3169317.0,Cyclamen persicum,Primulaceae,Ericales
+Cylista scariosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,2947098.0,Paracalyx scariosus,Fabaceae,Fabales
+Cymbidium tenuifolium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8113438.0,Cymbidium tenuifolium,Orchidaceae,Asparagales
+Cymbopogon martinii,EXACT,100.0,SPECIES,SYNONYM,Plantae,4138713.0,Cymbopogon martini,Poaceae,Poales
+Cymbopogon schoenanthus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2705269.0,Cymbopogon schoenanthus,Poaceae,Poales
+Cynanchum arnottianum,EXACT,100.0,SPECIES,SYNONYM,Plantae,5526065.0,Vincetoxicum arnottianum,Apocynaceae,Gentianales
+Cynanchum micranthum,EXACT,100.0,SPECIES,SYNONYM,Plantae,10675257.0,Vincetoxicum zeylanicum,Apocynaceae,Gentianales
+Cynodon dactylon,EXACT,100.0,SPECIES,ACCEPTED,Plantae,6109637.0,Cynodon dactylon,Poaceae,Poales
+Cyperus iria,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2715729.0,Cyperus iria,Cyperaceae,Poales
+Cyperus kyllinga,NONE,,,,,,,,
+Cyperus rotundus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2714818.0,Cyperus rotundus,Cyperaceae,Poales
+Cyperus scariosus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2716774.0,Cyperus scariosus,Cyperaceae,Poales
+Cyperus stolonifera,HIGHERRANK,98.0,GENUS,ACCEPTED,Plantae,,,Cyperaceae,Poales
+Cyperus tegetum,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Cyperaceae,Poales
+Cyperus triceps,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Cyperaceae,Poales
+Dactyloctenium aegyptium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2706188.0,Dactyloctenium aegyptium,Poaceae,Poales
+Dalbergia lanceolaria,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2940397.0,Dalbergia lanceolaria,Fabaceae,Fabales
+Dalbergia latifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2968662.0,Dalbergia latifolia,Fabaceae,Fabales
+Dalbergia reniformis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2968458.0,Dalbergia reniformis,Fabaceae,Fabales
+Dalbergia sissoo,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2968532.0,Dalbergia sissoo,Fabaceae,Fabales
+Dalbergia stipulacea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2968852.0,Dalbergia stipulacea,Fabaceae,Fabales
+Dalbergia sympathetica,EXACT,100.0,SPECIES,SYNONYM,Plantae,2968703.0,Dalbergia horrida,Fabaceae,Fabales
+Dalbergia volubilis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2968408.0,Dalbergia volubilis,Fabaceae,Fabales
+Daphne bholua,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7311442.0,Daphne bholua,Thymelaeaceae,Malvales
+Datura fastuosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,2928747.0,Datura metel,Solanaceae,Solanales
+Datura innoxia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928755.0,Datura innoxia,Solanaceae,Solanales
+Datura inoxia,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,2928755.0,Datura innoxia,Solanaceae,Solanales
+Datura metel,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928747.0,Datura metel,Solanaceae,Solanales
+Datura sanguinea,EXACT,100.0,SPECIES,SYNONYM,Plantae,5341760.0,Brugmansia sanguinea,Solanaceae,Solanales
+Datura stramonium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928751.0,Datura stramonium,Solanaceae,Solanales
+Decalepis hamiltonii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3572228.0,Decalepis hamiltonii,Apocynaceae,Gentianales
+Decaspermum fruticosum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3180140.0,Decaspermum fruticosum,Myrtaceae,Myrtales
+Deeringia amaranthoides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3675567.0,Deeringia amaranthoides,Amaranthaceae,Caryophyllales
+Delonix elata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2956174.0,Delonix elata,Fabaceae,Fabales
+Delphinium altissimum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3923806.0,Delphinium altissimum,Ranunculaceae,Ranunculales
+Delphinium cashmirianum,NONE,,,,,,,,
+Delphinium consolida,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3033836.0,Delphinium consolida,Ranunculaceae,Ranunculales
+Delphinium denudatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7276704.0,Delphinium denudatum,Ranunculaceae,Ranunculales
+Dendrophthoe falcata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7595217.0,Dendrophthoe falcata,Loranthaceae,Santalales
+Dendrophthoe pentandra,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4001649.0,Dendrophthoe pentandra,Loranthaceae,Santalales
+Derris cuneifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5350223.0,Derris cuneifolia,Fabaceae,Fabales
+Derris elliptica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5350305.0,Derris elliptica,Fabaceae,Fabales
+Derris ferruginea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5350303.0,Derris ferruginea,Fabaceae,Fabales
+Derris grandifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,2956062.0,Piscidia grandifolia,Fabaceae,Fabales
+Derris malaccensis,EXACT,100.0,SPECIES,SYNONYM,Plantae,5350229.0,Derris montana,Fabaceae,Fabales
+Derris polyantha,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5350354.0,Derris polyantha,Fabaceae,Fabales
+Derris scandens,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Fabaceae,Fabales
+Derris trifoliata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5350336.0,Derris trifoliata,Fabaceae,Fabales
+Desmodium cephalotes,EXACT,100.0,SPECIES,SYNONYM,Plantae,2946831.0,Dendrolobium triangulare,Fabaceae,Fabales
+Desmodium gangeticum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,11440699.0,Desmodium gangeticum,Fabaceae,Fabales
+Desmodium laxiflorum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,11593609.0,Desmodium laxiflorum,Fabaceae,Fabales
+Desmodium triflorum,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Fabaceae,Fabales
+Desmodium triquetrum,EXACT,100.0,SPECIES,SYNONYM,Plantae,2950828.0,Tadehagi triquetrum,Fabaceae,Fabales
+Desmos cochinchinensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3155178.0,Desmos cochinchinensis,Annonaceae,Magnoliales
+Dianella ensifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8365251.0,Dianella ensifolia,Asphodelaceae,Asparagales
+Dianthus anatolicus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3815183.0,Dianthus anatolicus,Caryophyllaceae,Caryophyllales
+Dichroa febrifuga,EXACT,100.0,SPECIES,SYNONYM,Plantae,8682693.0,Hydrangea febrifuga,Hydrangeaceae,Cornales
+Dichrostachys cinerea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2975891.0,Dichrostachys cinerea,Fabaceae,Fabales
+Dicoma tomentosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3103375.0,Dicoma tomentosa,Asteraceae,Asterales
+Digera alternifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,6429755.0,Digera muricata,Amaranthaceae,Caryophyllales
+Digera muricata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,6429755.0,Digera muricata,Amaranthaceae,Caryophyllales
+Digitalis lanata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5414989.0,Digitalis lanata,Plantaginaceae,Lamiales
+Digitalis purpurea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5414995.0,Digitalis purpurea,Plantaginaceae,Lamiales
+Dillenia indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5383898.0,Dillenia indica,Dilleniaceae,Dilleniales
+Dillenia pentagyna,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5681100.0,Dillenia pentagyna,Dilleniaceae,Dilleniales
+Dillenia scabrella,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8198329.0,Dillenia scabrella,Dilleniaceae,Dilleniales
+Dinochloa andamanica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4118131.0,Dinochloa andamanica,Poaceae,Poales
+Dioscorea aculeata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7753672.0,Dioscorea aculeata,Dioscoreaceae,Dioscoreales
+Dioscorea alata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2754476.0,Dioscorea alata,Dioscoreaceae,Dioscoreales
+Dioscorea bulbifera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2755489.0,Dioscorea bulbifera,Dioscoreaceae,Dioscoreales
+Dioscorea crispata,EXACT,100.0,SPECIES,SYNONYM,Plantae,2755489.0,Dioscorea bulbifera,Dioscoreaceae,Dioscoreales
+Dioscorea deltoidea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2755586.0,Dioscorea deltoidea,Dioscoreaceae,Dioscoreales
+Dioscorea esculenta,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2755195.0,Dioscorea esculenta,Dioscoreaceae,Dioscoreales
+Dioscorea floribunda,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2755704.0,Dioscorea floribunda,Dioscoreaceae,Dioscoreales
+Dioscorea globosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,2754476.0,Dioscorea alata,Dioscoreaceae,Dioscoreales
+Dioscorea hispida,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2755784.0,Dioscorea hispida,Dioscoreaceae,Dioscoreales
+Dioscorea oppositifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2754965.0,Dioscorea oppositifolia,Dioscoreaceae,Dioscoreales
+Dioscorea pentaphylla,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2754423.0,Dioscorea pentaphylla,Dioscoreaceae,Dioscoreales
+Dioscorea prazeri,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2755738.0,Dioscorea prazeri,Dioscoreaceae,Dioscoreales
+Diospyros candolleana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4069970.0,Diospyros candolleana,Ebenaceae,Ericales
+Diospyros ebenum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3032979.0,Diospyros ebenum,Ebenaceae,Ericales
+Diospyros embryopteris,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7466003.0,Diospyros embryopteris,Ebenaceae,Ericales
+Diospyros kaki,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3032984.0,Diospyros kaki,Ebenaceae,Ericales
+Diospyros malanoxylon,NONE,,,,,,,,
+Diospyros melanoxylon,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7715874.0,Diospyros melanoxylon,Ebenaceae,Ericales
+Diospyros montana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4070768.0,Diospyros montana,Ebenaceae,Ericales
+Diospyros paniculata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4071425.0,Diospyros paniculata,Ebenaceae,Ericales
+Diospyros peregrina,EXACT,100.0,SPECIES,SYNONYM,Plantae,7295796.0,Diospyros malabarica,Ebenaceae,Ericales
+Diospyros tomentosa,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Ebenaceae,Ericales
+Diospyros toposia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7295871.0,Diospyros toposia,Ebenaceae,Ericales
+Diospyros virginiana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3032986.0,Diospyros virginiana,Ebenaceae,Ericales
+Dipcadi erythraeum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2768242.0,Dipcadi erythraeum,Asparagaceae,Asparagales
+Diploclisia glaucescens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7268813.0,Diploclisia glaucescens,Menispermaceae,Ranunculales
+Diploknema butyracea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2886375.0,Diploknema butyracea,Sapotaceae,Ericales
+Dipteracanthus suffruticosa,HIGHERRANK,98.0,GENUS,ACCEPTED,Plantae,,,Acanthaceae,Lamiales
+Dipteracanthus suffruticosus,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Acanthaceae,Lamiales
+Dipterocarpus alatus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4096596.0,Dipterocarpus alatus,Dipterocarpaceae,Malvales
+Dipterocarpus turbinatus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4097195.0,Dipterocarpus turbinatus,Dipterocarpaceae,Malvales
+Dodonaea viscosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5421144.0,Dodonaea viscosa,Sapindaceae,Sapindales
+Dolichandrone falcata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4091174.0,Dolichandrone falcata,Bignoniaceae,Lamiales
+Dolichandrone spathacea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3172487.0,Dolichandrone spathacea,Bignoniaceae,Lamiales
+Dolichos biflorus,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Fabaceae,Fabales
+Dorema ammoniacum,EXACT,100.0,SPECIES,SYNONYM,Plantae,8628529.0,Ferula ammoniacum,Apiaceae,Apiales
+Doronicum falconeri,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3142981.0,Doronicum falconeri,Asteraceae,Asterales
+Doronicum pardalianches,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3142951.0,Doronicum pardalianches,Asteraceae,Asterales
+Doronicum roylei,EXACT,100.0,SPECIES,SYNONYM,Plantae,3142993.0,Doronicum kamaonense,Asteraceae,Asterales
+Dracocephalum moldavica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2927222.0,Dracocephalum moldavica,Lamiaceae,Lamiales
+Dracontium polyphyllum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5330699.0,Dracontium polyphyllum,Araceae,Alismatales
+Dregea volubilis,EXACT,100.0,SPECIES,SYNONYM,Plantae,12202584.0,Stephanotis volubilis,Apocynaceae,Gentianales
+Drosera burmanni,EXACT,100.0,SPECIES,SYNONYM,Plantae,3191227.0,Drosera spatulata,Droseraceae,Caryophyllales
+Drosera peltata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3190855.0,Drosera peltata,Droseraceae,Caryophyllales
+Drymaria cordata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5384509.0,Drymaria cordata,Caryophyllaceae,Caryophyllales
+Drynaria quercifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7126715.0,Drynaria quercifolia,Polypodiaceae,Polypodiales
+Dryopteris dentata,HIGHERRANK,100.0,ORDER,ACCEPTED,Plantae,,,,Polypodiales
+Drypetes confertiflora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3075857.0,Drypetes confertiflora,Putranjivaceae,Malpighiales
+Drypetes macrophylla,EXACT,100.0,SPECIES,SYNONYM,Plantae,3075623.0,Drypetes longifolia,Putranjivaceae,Malpighiales
+Duranta repens,EXACT,100.0,SPECIES,SYNONYM,Plantae,2925655.0,Duranta erecta,Verbenaceae,Lamiales
+Dysophylla auricularia,EXACT,100.0,SPECIES,SYNONYM,Plantae,7308947.0,Pogostemon auricularius,Lamiaceae,Lamiales
+Dysoxylum hamiltonii,EXACT,100.0,SPECIES,SYNONYM,Plantae,11629708.0,Didymocheton mollissimus,Meliaceae,Sapindales
+Dysoxylum malabaricum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3852884.0,Dysoxylum malabaricum,Meliaceae,Sapindales
+Ecbolium linneanum,EXACT,100.0,SPECIES,SYNONYM,Plantae,5576253.0,Ecbolium ligustrinum,Acanthaceae,Lamiales
+Echeveria glauca,EXACT,100.0,SPECIES,SYNONYM,Plantae,7334137.0,Echeveria secunda,Crassulaceae,Saxifragales
+Echinochloa crus-galli,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2702808.0,Echinochloa crus-galli,Poaceae,Poales
+Echinochloa frumentacea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2702822.0,Echinochloa frumentacea,Poaceae,Poales
+Echinops echinatus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5392787.0,Echinops echinatus,Asteraceae,Asterales
+Echites dichotoma,EXACT,100.0,SPECIES,SYNONYM,Plantae,5535699.0,Vallaris solanacea,Apocynaceae,Gentianales
+Eclipta alba,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5384955.0,Eclipta alba,Asteraceae,Asterales
+Eclipta prostrata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5384950.0,Eclipta prostrata,Asteraceae,Asterales
+Edgeworthia tomentosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,5420855.0,Edgeworthia chrysantha,Thymelaeaceae,Malvales
+Ehretia laevis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4066496.0,Ehretia laevis,Ehretiaceae,Boraginales
+Ehretia microphylla,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4066311.0,Ehretia microphylla,Ehretiaceae,Boraginales
+Elaeagnus latifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4048232.0,Elaeagnus latifolia,Elaeagnaceae,Rosales
+Elaeagnus umbellata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3039267.0,Elaeagnus umbellata,Elaeagnaceae,Rosales
+Elaeocarpus floribundus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7290985.0,Elaeocarpus floribundus,Elaeocarpaceae,Oxalidales
+Elaeocarpus ganitrus,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Elaeocarpaceae,Oxalidales
+Elaeocarpus oblongus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7445501.0,Elaeocarpus oblongus,Elaeocarpaceae,Oxalidales
+Elaeocarpus serratus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7880979.0,Elaeocarpus serratus,Elaeocarpaceae,Oxalidales
+Elaeocarpus sphaericus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,10988361.0,Elaeocarpus sphaericus,Elaeocarpaceae,Oxalidales
+Elaeocarpus tuberculatus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4031240.0,Elaeocarpus tuberculatus,Elaeocarpaceae,Oxalidales
+Elaeodendron glaucum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3791886.0,Elaeodendron glaucum,Celastraceae,Celastrales
+Elaeodendron roxburghii,EXACT,100.0,SPECIES,SYNONYM,Plantae,7420672.0,Elaeodendron albens,Celastraceae,Celastrales
+Eleocharis dulcis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2717712.0,Eleocharis dulcis,Cyperaceae,Poales
+Elephantopus scaber,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5395925.0,Elephantopus scaber,Asteraceae,Asterales
+Elettaria cardamomum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2759871.0,Elettaria cardamomum,Zingiberaceae,Zingiberales
+Eleusine coracana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2705957.0,Eleusine coracana,Poaceae,Poales
+Eleusine indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2705953.0,Eleusine indica,Poaceae,Poales
+Elsholtzia blanda,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8002762.0,Elsholtzia blanda,Lamiaceae,Lamiales
+Embelia nutans,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3720212.0,Embelia nutans,Primulaceae,Ericales
+Embelia ribes,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7330952.0,Embelia ribes,Primulaceae,Ericales
+Embelia tsjeriam-cottam,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7330930.0,Embelia tsjeriam-cottam,Primulaceae,Ericales
+Emilia sonchifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7376217.0,Emilia sonchifolia,Asteraceae,Asterales
+Engelhardtia polystachya,EXACT,100.0,SPECIES,SYNONYM,Plantae,7914294.0,Engelhardtia roxburghiana,Juglandaceae,Fagales
+Engelhardtia spicata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7310580.0,Engelhardtia spicata,Juglandaceae,Fagales
+Enicostema littorale,EXACT,100.0,SPECIES,SYNONYM,Plantae,3170131.0,Enicostema axillare,Gentianaceae,Gentianales
+Entada phaseoloides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2976244.0,Entada phaseoloides,Fabaceae,Fabales
+Entada scandens,EXACT,100.0,SPECIES,SYNONYM,Plantae,2976244.0,Entada phaseoloides,Fabaceae,Fabales
+Enydra fluctuans,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5402447.0,Enydra fluctuans,Asteraceae,Asterales
+Epaltes divaricata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3125377.0,Epaltes divaricata,Asteraceae,Asterales
+Ephedra gerardiana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,9246200.0,Ephedra gerardiana,Ephedraceae,Ephedrales
+Ephemerantha fimbriatum,FUZZY,99.0,SPECIES,SYNONYM,Plantae,5324319.0,Dendrobium plicatile,Orchidaceae,Asparagales
+Epilobium hirsutum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3189172.0,Epilobium hirsutum,Onagraceae,Myrtales
+Equisetum debile,EXACT,100.0,SPECIES,ACCEPTED,Plantae,10769463.0,Equisetum debile,Equisetaceae,Equisetales
+Eranthemum roseum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7845184.0,Eranthemum roseum,Acanthaceae,Lamiales
+Eremostachys superba,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Lamiaceae,Lamiales
+Eremostachys vicaryi,EXACT,100.0,SPECIES,SYNONYM,Plantae,3884807.0,Phlomoides vicaryi,Lamiaceae,Lamiales
+Eria musicola,NONE,,,,,,,,
+Erianthus bengalense,FUZZY,98.0,SPECIES,SYNONYM,Plantae,4116612.0,Tripidium bengalense,Poaceae,Poales
+Erianthus officinarum,NONE,,,,,,,,
+Erianthus spontaneum,NONE,,,,,,,,
+Eriolaena quinquelocularis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,10858707.0,Eriolaena quinquelocularis,Malvaceae,Malvales
+Eriosema chinense,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5348930.0,Eriosema chinense,Fabaceae,Fabales
+Eriosema chinensis,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,5348930.0,Eriosema chinense,Fabaceae,Fabales
+Ervatamia coronaria,EXACT,100.0,SPECIES,SYNONYM,Plantae,3169625.0,Tabernaemontana divaricata,Apocynaceae,Gentianales
+Ervatamia dichotoma,EXACT,100.0,SPECIES,SYNONYM,Plantae,7422148.0,Tabernaemontana dichotoma,Apocynaceae,Gentianales
+Erycibe paniculata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7324227.0,Erycibe paniculata,Convolvulaceae,Solanales
+Eryngium caeruleum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3632852.0,Eryngium caeruleum,Apiaceae,Apiales
+Eryngium coeruleum,NONE,,,,,,,,
+Eryngium foetidum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3034425.0,Eryngium foetidum,Apiaceae,Apiales
+Erythraea roxburghii,EXACT,100.0,SPECIES,SYNONYM,Plantae,8157807.0,Centaurium centaurioides,Gentianaceae,Gentianales
+Erythrina stricta,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5349642.0,Erythrina stricta,Fabaceae,Fabales
+Erythrina suberosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5349546.0,Erythrina suberosa,Fabaceae,Fabales
+Erythrina variegata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5349581.0,Erythrina variegata,Fabaceae,Fabales
+Erythroxylum acuminatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7730359.0,Erythroxylum acuminatum,Erythroxylaceae,Malpighiales
+Erythroxylum coca,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2873939.0,Erythroxylum coca,Erythroxylaceae,Malpighiales
+Eucalyptus camaldulensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,11869920.0,Eucalyptus camaldulensis,Myrtaceae,Myrtales
+Euchresta horsfieldii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2951871.0,Euchresta horsfieldii,Fabaceae,Fabales
+Eulophia campestris,EXACT,100.0,SPECIES,SYNONYM,Plantae,5311480.0,Eulophia dabia,Orchidaceae,Asparagales
+Eulophia epidendraea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5311546.0,Eulophia epidendraea,Orchidaceae,Asparagales
+Eulophia nuda,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5312136.0,Eulophia nuda,Orchidaceae,Asparagales
+Eulophia pratensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5312009.0,Eulophia pratensis,Orchidaceae,Asparagales
+Eulophia virens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7537356.0,Eulophia virens,Orchidaceae,Asparagales
+Euonymus atropurpureus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3169121.0,Euonymus atropurpureus,Celastraceae,Celastrales
+Euonymus bullata,FUZZY,98.0,SPECIES,ACCEPTED,Plantae,8376377.0,Euonymus bullatus,Celastraceae,Celastrales
+Euonymus tingens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3793460.0,Euonymus tingens,Celastraceae,Celastrales
+Eupatorium triplinerve,EXACT,100.0,SPECIES,SYNONYM,Plantae,3142644.0,Ayapana triplinervis,Asteraceae,Asterales
+Euphorbia antiquorum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3069535.0,Euphorbia antiquorum,Euphorbiaceae,Malpighiales
+Euphorbia atoto,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3065495.0,Euphorbia atoto,Euphorbiaceae,Malpighiales
+Euphorbia dracunculoides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3070194.0,Euphorbia dracunculoides,Euphorbiaceae,Malpighiales
+Euphorbia granulata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3070132.0,Euphorbia granulata,Euphorbiaceae,Malpighiales
+Euphorbia helioscopia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3066367.0,Euphorbia helioscopia,Euphorbiaceae,Malpighiales
+Euphorbia hirta,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3068937.0,Euphorbia hirta,Euphorbiaceae,Malpighiales
+Euphorbia ligularia,EXACT,100.0,SPECIES,SYNONYM,Plantae,3064865.0,Euphorbia neriifolia,Euphorbiaceae,Malpighiales
+Euphorbia longifolia,HIGHERRANK,100.0,GENUS,DOUBTFUL,Plantae,,,Euphorbiaceae,Malpighiales
+Euphorbia neriifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3064865.0,Euphorbia neriifolia,Euphorbiaceae,Malpighiales
+Euphorbia nivulia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3064863.0,Euphorbia nivulia,Euphorbiaceae,Malpighiales
+Euphorbia parviflora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3069046.0,Euphorbia parviflora,Euphorbiaceae,Malpighiales
+Euphorbia pilosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3065700.0,Euphorbia pilosa,Euphorbiaceae,Malpighiales
+Euphorbia pilulifera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8055080.0,Euphorbia pilulifera,Euphorbiaceae,Malpighiales
+Euphorbia resinifera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3068445.0,Euphorbia resinifera,Euphorbiaceae,Malpighiales
+Euphorbia rosea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3066357.0,Euphorbia rosea,Euphorbiaceae,Malpighiales
+Euphorbia royleana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3065786.0,Euphorbia royleana,Euphorbiaceae,Malpighiales
+Euphorbia thomsoniana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3069845.0,Euphorbia thomsoniana,Euphorbiaceae,Malpighiales
+Euphorbia thymifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3066919.0,Euphorbia thymifolia,Euphorbiaceae,Malpighiales
+Euphorbia tirucalli,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3069353.0,Euphorbia tirucalli,Euphorbiaceae,Malpighiales
+Euphorbia trigona,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3067098.0,Euphorbia trigona,Euphorbiaceae,Malpighiales
+Euphoria longan,EXACT,100.0,SPECIES,SYNONYM,Plantae,3190008.0,Dimocarpus longan,Sapindaceae,Sapindales
+Euphrasia officinalis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8106874.0,Euphrasia officinalis,Orobanchaceae,Lamiales
+Euryale ferox,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7795516.0,Euryale ferox,Nymphaeaceae,Nymphaeales
+Evodia fraxinifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,5594377.0,Tetradium fraxinifolium,Rutaceae,Sapindales
+Evodia lunu-enkenda,NONE,,,,,,,,
+Evolvulus alsinoides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928673.0,Evolvulus alsinoides,Convolvulaceae,Solanales
+Exacum lawii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3840973.0,Exacum lawii,Gentianaceae,Gentianales
+Exacum pedunculatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3840755.0,Exacum pedunculatum,Gentianaceae,Gentianales
+Exacum tetragonum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3840363.0,Exacum tetragonum,Gentianaceae,Gentianales
+Excoecaria acerifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3071728.0,Excoecaria acerifolia,Euphorbiaceae,Malpighiales
+Excoecaria agallocha,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3071702.0,Excoecaria agallocha,Euphorbiaceae,Malpighiales
+Fagonia arabica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,6384929.0,Fagonia arabica,Zygophyllaceae,Zygophyllales
+Fagonia bruguieri,EXACT,100.0,SPECIES,ACCEPTED,Plantae,6384901.0,Fagonia bruguieri,Zygophyllaceae,Zygophyllales
+Fagonia cretica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,6384851.0,Fagonia cretica,Zygophyllaceae,Zygophyllales
+Fagopyrum cymosum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4036310.0,Fagopyrum cymosum,Polygonaceae,Caryophyllales
+Farsetia hamiltonii,EXACT,100.0,SPECIES,SYNONYM,Plantae,3047985.0,Farsetia stylosa,Brassicaceae,Brassicales
+Farsetia jacquemontii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3048008.0,Farsetia jacquemontii,Brassicaceae,Brassicales
+Feronia limonia,EXACT,100.0,SPECIES,SYNONYM,Plantae,5421342.0,Limonia acidissima,Rutaceae,Sapindales
+Ferula assa-foetida,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8113074.0,Ferula assa-foetida,Apiaceae,Apiales
+Ferula assafoetida,HIGHERRANK,98.0,GENUS,ACCEPTED,Plantae,,,Apiaceae,Apiales
+Ferula galbaniflua,EXACT,100.0,SPECIES,SYNONYM,Plantae,3034683.0,Ferula gummosa,Apiaceae,Apiales
+Ferula jaeschkeana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3638132.0,Ferula jaeschkeana,Apiaceae,Apiales
+Ferula jaschkeana,NONE,,,,,,,,
+Ferula narthex,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3034687.0,Ferula narthex,Apiaceae,Apiales
+Ferula persica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,6026967.0,Ferula persica,Apiaceae,Apiales
+Ferula suaveolens,EXACT,100.0,SPECIES,SYNONYM,Plantae,3638866.0,Ferula diversivittata,Apiaceae,Apiales
+Ferula sumbul,EXACT,100.0,SPECIES,SYNONYM,Plantae,3637382.0,Ferula moschata,Apiaceae,Apiales
+Ficus arnottiana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5571944.0,Ficus arnottiana,Moraceae,Rosales
+Ficus asperrima,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Moraceae,Rosales
+Ficus benghalensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5361919.0,Ficus benghalensis,Moraceae,Rosales
+Ficus benjamina,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5361932.0,Ficus benjamina,Moraceae,Rosales
+Ficus comosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,5361932.0,Ficus benjamina,Moraceae,Rosales
+Ficus cunia,EXACT,100.0,SPECIES,SYNONYM,Plantae,7422755.0,Ficus semicordata,Moraceae,Rosales
+Ficus dalhousiae,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5572730.0,Ficus dalhousiae,Moraceae,Rosales
+Ficus fistulosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7262725.0,Ficus fistulosa,Moraceae,Rosales
+Ficus gibbosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,3767426.0,Ficus tinctoria,Moraceae,Rosales
+Ficus glomerata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7694515.0,Ficus glomerata,Moraceae,Rosales
+Ficus heterophylla,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8418037.0,Ficus heterophylla,Moraceae,Rosales
+Ficus hispida,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7879404.0,Ficus hispida,Moraceae,Rosales
+Ficus infectoria,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Moraceae,Rosales
+Ficus lacor,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5572206.0,Ficus lacor,Moraceae,Rosales
+Ficus lucescens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5571884.0,Ficus lucescens,Moraceae,Rosales
+Ficus palmata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5361916.0,Ficus palmata,Moraceae,Rosales
+Ficus pumila,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5361930.0,Ficus pumila,Moraceae,Rosales
+Ficus racemosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5361904.0,Ficus racemosa,Moraceae,Rosales
+Ficus religiosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5361935.0,Ficus religiosa,Moraceae,Rosales
+Ficus retusa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3765871.0,Ficus retusa,Moraceae,Rosales
+Ficus rumphii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5571130.0,Ficus rumphii,Moraceae,Rosales
+Ficus septica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7852448.0,Ficus septica,Moraceae,Rosales
+Ficus talboti,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,5569748.0,Ficus talbotii,Moraceae,Rosales
+Ficus tsiela,EXACT,100.0,SPECIES,SYNONYM,Plantae,5572290.0,Ficus amplissima,Moraceae,Rosales
+Fimbristylis falcata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2708500.0,Fimbristylis falcata,Cyperaceae,Poales
+Fimbristylis junciformis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8054577.0,Fimbristylis junciformis,Cyperaceae,Poales
+Fimbristylis monostachya,EXACT,100.0,SPECIES,SYNONYM,Plantae,2708407.0,Abildgaardia ovata,Cyperaceae,Poales
+Fimbristylis schoenoides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2708724.0,Fimbristylis schoenoides,Cyperaceae,Poales
+Firmiana colorata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7322920.0,Firmiana colorata,Malvaceae,Malvales
+Flacourtia indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5331162.0,Flacourtia indica,Salicaceae,Malpighiales
+Flacourtia jangomas,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5331164.0,Flacourtia jangomas,Salicaceae,Malpighiales
+Flacourtia ramantchi,NONE,,,,,,,,
+Flacourtia sepiaria,EXACT,100.0,SPECIES,SYNONYM,Plantae,5331162.0,Flacourtia indica,Salicaceae,Malpighiales
+Flagellaria indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5287564.0,Flagellaria indica,Flagellariaceae,Poales
+Flemingia bracteata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5359848.0,Flemingia bracteata,Fabaceae,Fabales
+Flemingia nana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7981517.0,Flemingia nana,Fabaceae,Fabales
+Flemingia strobilifera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5359843.0,Flemingia strobilifera,Fabaceae,Fabales
+Flemingia tuberosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5359856.0,Flemingia tuberosa,Fabaceae,Fabales
+Floscopa scandens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2765559.0,Floscopa scandens,Commelinaceae,Commelinales
+Fragaria vesca,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3029817.0,Fragaria vesca,Rosaceae,Rosales
+Frankenia pulverulenta,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2874692.0,Frankenia pulverulenta,Frankeniaceae,Caryophyllales
+Fritillaria cirrhosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5300358.0,Fritillaria cirrhosa,Liliaceae,Liliales
+Fritillaria imperialis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5300716.0,Fritillaria imperialis,Liliaceae,Liliales
+Fritillaria roylei,EXACT,100.0,SPECIES,SYNONYM,Plantae,5300358.0,Fritillaria cirrhosa,Liliaceae,Liliales
+Fumaria parviflora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5334215.0,Fumaria parviflora,Papaveraceae,Ranunculales
+Fumaria vaillantii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5334216.0,Fumaria vaillantii,Papaveraceae,Ranunculales
+Furcraea gigantea,EXACT,100.0,SPECIES,SYNONYM,Plantae,2769796.0,Furcraea foetida,Asparagaceae,Asparagales
+Galeopsis tetrahit,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5341300.0,Galeopsis tetrahit,Lamiaceae,Lamiales
+Galium rotundifolium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2914110.0,Galium rotundifolium,Rubiaceae,Gentianales
+Ganophyllum falcatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3787993.0,Ganophyllum falcatum,Sapindaceae,Sapindales
+Garcinia cambogia,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Clusiaceae,Malpighiales
+Garcinia cowa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3715021.0,Garcinia cowa,Clusiaceae,Malpighiales
+Garcinia dulcis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3189565.0,Garcinia dulcis,Clusiaceae,Malpighiales
+Garcinia echinocarpa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3714760.0,Garcinia echinocarpa,Clusiaceae,Malpighiales
+Garcinia indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3189566.0,Garcinia indica,Clusiaceae,Malpighiales
+Garcinia mangostana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3189571.0,Garcinia mangostana,Clusiaceae,Malpighiales
+Garcinia morella,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7624454.0,Garcinia morella,Clusiaceae,Malpighiales
+Gardenia campanulata,EXACT,100.0,SPECIES,SYNONYM,Plantae,2893403.0,Ceriscoides campanulata,Rubiaceae,Gentianales
+Gardenia gummifera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5335166.0,Gardenia gummifera,Rubiaceae,Gentianales
+Gardenia jasminoides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5335125.0,Gardenia jasminoides,Rubiaceae,Gentianales
+Gardenia latifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5334948.0,Gardenia latifolia,Rubiaceae,Gentianales
+Gardenia lucida,EXACT,100.0,SPECIES,SYNONYM,Plantae,5334965.0,Gardenia resinifera,Rubiaceae,Gentianales
+Gardenia turgida,EXACT,100.0,SPECIES,SYNONYM,Plantae,2893419.0,Ceriscoides turgida,Rubiaceae,Gentianales
+Garuga pinnata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3993458.0,Garuga pinnata,Burseraceae,Sapindales
+Gaultheria fragrantissima,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7328504.0,Gaultheria fragrantissima,Ericaceae,Ericales
+Gelsemium elegans,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4020282.0,Gelsemium elegans,Gelsemiaceae,Gentianales
+Geniosporum prostratum,EXACT,100.0,SPECIES,SYNONYM,Plantae,3881909.0,Platostoma menthoides,Lamiaceae,Lamiales
+Gentiana decumbens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7793491.0,Gentiana decumbens,Gentianaceae,Gentianales
+Gentiana kurroo,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7270259.0,Gentiana kurroo,Gentianaceae,Gentianales
+Gentiana lutea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3170040.0,Gentiana lutea,Gentianaceae,Gentianales
+Geodorum nutans,EXACT,100.0,SPECIES,SYNONYM,Plantae,12208367.0,Eulophia cernua,Orchidaceae,Asparagales
+Geranium lucidum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2890560.0,Geranium lucidum,Geraniaceae,Geraniales
+Geranium nepalense,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2890266.0,Geranium nepalense,Geraniaceae,Geraniales
+Geranium wallichianum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2890972.0,Geranium wallichianum,Geraniaceae,Geraniales
+Gerbera lanuginosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7753570.0,Gerbera lanuginosa,Asteraceae,Asterales
+Geum alatum,NONE,,,,,,,,
+Geum elatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8329444.0,Geum elatum,Rosaceae,Rosales
+Geum urbanum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5369652.0,Geum urbanum,Rosaceae,Rosales
+Girardinia zeylanica,EXACT,100.0,SPECIES,SYNONYM,Plantae,7300847.0,Girardinia diversifolia,Urticaceae,Rosales
+Gironniera cuspidata,EXACT,100.0,SPECIES,SYNONYM,Plantae,8293016.0,Aphananthe cuspidata,Cannabaceae,Rosales
+Gisekia pharnaceoides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7265816.0,Gisekia pharnaceoides,Gisekiaceae,Caryophyllales
+Glinus lotoides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3084616.0,Glinus lotoides,Molluginaceae,Caryophyllales
+Glinus oppositifolius,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7548362.0,Glinus oppositifolius,Molluginaceae,Caryophyllales
+Glochidion acuminatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3080109.0,Glochidion acuminatum,Phyllanthaceae,Malpighiales
+Glochidion lanceolarium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3080126.0,Glochidion lanceolarium,Phyllanthaceae,Malpighiales
+Glochidion zeylanicum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3080562.0,Glochidion zeylanicum,Phyllanthaceae,Malpighiales
+Gloriosa superba,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2740024.0,Gloriosa superba,Colchicaceae,Liliales
+Glossocardia bosvallia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5390268.0,Glossocardia bosvallia,Asteraceae,Asterales
+Glossogyne bidens,EXACT,100.0,SPECIES,SYNONYM,Plantae,5390273.0,Glossocardia bidens,Asteraceae,Asterales
+Glossogyne pinnatifida,EXACT,100.0,SPECIES,SYNONYM,Plantae,5390273.0,Glossocardia bidens,Asteraceae,Asterales
+Glossonema varians,EXACT,100.0,SPECIES,SYNONYM,Plantae,9594793.0,Cynanchum varians,Apocynaceae,Gentianales
+Glycine max,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5359660.0,Glycine max,Fabaceae,Fabales
+Glycosmis pentaphylla,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8241662.0,Glycosmis pentaphylla,Rutaceae,Sapindales
+Glycyrrhiza glabra,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2965732.0,Glycyrrhiza glabra,Fabaceae,Fabales
+Gmelina arborea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8247889.0,Gmelina arborea,Lamiaceae,Lamiales
+Gmelina asiatica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5341168.0,Gmelina asiatica,Lamiaceae,Lamiales
+Gnaphalium luteo-album,FUZZY,99.0,SPECIES,SYNONYM,Plantae,3131229.0,Helichrysum luteoalbum,Asteraceae,Asterales
+Gnetum latifolium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2653172.0,Gnetum latifolium,Gnetaceae,Gnetales
+Gnetum montanum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2653221.0,Gnetum montanum,Gnetaceae,Gnetales
+Gnetum scandens,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Gnetaceae,Gnetales
+Gnetum ula,EXACT,100.0,SPECIES,SYNONYM,Plantae,9717715.0,Gnetum edule,Gnetaceae,Gnetales
+Gomphia serrata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3694784.0,Gomphia serrata,Ochnaceae,Malpighiales
+Gomphostemma lucidum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3890502.0,Gomphostemma lucidum,Lamiaceae,Lamiales
+Gomphrena wallichii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3674769.0,Gomphrena wallichii,Amaranthaceae,Caryophyllales
+Goniothalamus sesquipedalis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3154635.0,Goniothalamus sesquipedalis,Annonaceae,Magnoliales
+Gordonia obtusa,EXACT,100.0,SPECIES,SYNONYM,Plantae,11134308.0,Polyspora obtusa,Theaceae,Ericales
+Gossypium arboreum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3152663.0,Gossypium arboreum,Malvaceae,Malvales
+Gouania tiliaefolia,NONE,,,,,,,,
+Grammatophyllum scriptum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2821306.0,Grammatophyllum scriptum,Orchidaceae,Asparagales
+Grangea maderaspatana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8028873.0,Grangea maderaspatana,Asteraceae,Asterales
+Graptophyllum pictum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3173137.0,Graptophyllum pictum,Acanthaceae,Lamiales
+Grewia acuminata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4260801.0,Grewia acuminata,Malvaceae,Malvales
+Grewia asiatica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3152080.0,Grewia asiatica,Malvaceae,Malvales
+Grewia hirsuta,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4259716.0,Grewia hirsuta,Malvaceae,Malvales
+Grewia microcos,EXACT,100.0,SPECIES,SYNONYM,Plantae,4259928.0,Microcos paniculata,Malvaceae,Malvales
+Grewia optiva,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4261311.0,Grewia optiva,Malvaceae,Malvales
+Grewia polygama,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Malvaceae,Malvales
+Grewia sapida,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4260442.0,Grewia sapida,Malvaceae,Malvales
+Grewia sclerophylla,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4260341.0,Grewia sclerophylla,Malvaceae,Malvales
+Grewia tenax,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7311070.0,Grewia tenax,Malvaceae,Malvales
+Grewia tiliifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4259991.0,Grewia tiliifolia,Malvaceae,Malvales
+Grewia villosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4259732.0,Grewia villosa,Malvaceae,Malvales
+Guaiacum officinale,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3986813.0,Guaiacum officinale,Zygophyllaceae,Zygophyllales
+Gymnacranthera canarica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3743021.0,Gymnacranthera canarica,Myristicaceae,Magnoliales
+Gymnema hirsuta,HIGHERRANK,98.0,FAMILY,ACCEPTED,Plantae,,,Apocynaceae,Gentianales
+Gymnema hirsutum,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Apocynaceae,Gentianales
+Gymnema silvestre,FUZZY,98.0,SPECIES,ACCEPTED,Plantae,8040540.0,Gymnema sylvestre,Apocynaceae,Gentianales
+Gymnema sylvestre,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8040540.0,Gymnema sylvestre,Apocynaceae,Gentianales
+Gymnocladus assamicus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2944213.0,Gymnocladus assamicus,Fabaceae,Fabales
+Gymnopetalum cochinchinense,EXACT,100.0,SPECIES,SYNONYM,Plantae,2874605.0,Trichosanthes cucumerina,Cucurbitaceae,Cucurbitales
+Gymnosporia montana,EXACT,100.0,SPECIES,SYNONYM,Plantae,3793847.0,Gymnosporia senegalensis,Celastraceae,Celastrales
+Gymnosporia royleana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3793980.0,Gymnosporia royleana,Celastraceae,Celastrales
+Gymnostachyum febrifugum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7263520.0,Gymnostachyum febrifugum,Acanthaceae,Lamiales
+Gynandropsis gynandra,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3054227.0,Gynandropsis gynandra,Cleomaceae,Brassicales
+Gynandropsis pentaphylla,EXACT,100.0,SPECIES,SYNONYM,Plantae,3054227.0,Gynandropsis gynandra,Cleomaceae,Brassicales
+Gynocardia odorata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3878096.0,Gynocardia odorata,Achariaceae,Malpighiales
+Gynura pseudo-china,FUZZY,98.0,SPECIES,ACCEPTED,Plantae,7715188.0,Gynura pseudochina,Asteraceae,Asterales
+Habenaria susannae,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8111118.0,Habenaria susannae,Orchidaceae,Asparagales
+Haematoxylum campechianum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2950903.0,Haematoxylum campechianum,Fabaceae,Fabales
+Haloxylon multiflorum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3759004.0,Haloxylon multiflorum,Amaranthaceae,Caryophyllales
+Haloxylon recurvum,EXACT,100.0,SPECIES,SYNONYM,Plantae,11222431.0,Soda stocksii,Amaranthaceae,Caryophyllales
+Haloxylon salicornicum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3758958.0,Haloxylon salicornicum,Amaranthaceae,Caryophyllales
+Hamiltonia suaveolens,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Rubiaceae,Gentianales
+Haplanthus tentaculatus,EXACT,100.0,SPECIES,SYNONYM,Plantae,7263340.0,Haplanthodes tentaculatus,Acanthaceae,Lamiales
+Haplanthus verticillatus,EXACT,100.0,SPECIES,SYNONYM,Plantae,3770262.0,Haplanthodes verticillatus,Acanthaceae,Lamiales
+Harpullia arborea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3190016.0,Harpullia arborea,Sapindaceae,Sapindales
+Hedera helix,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8351737.0,Hedera helix,Araliaceae,Apiales
+Hedychium coccineum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2758716.0,Hedychium coccineum,Zingiberaceae,Zingiberales
+Hedychium coronarium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7883492.0,Hedychium coronarium,Zingiberaceae,Zingiberales
+Hedychium spicatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2758631.0,Hedychium spicatum,Zingiberaceae,Zingiberales
+Hedyotis auricularia,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Rubiaceae,Gentianales
+Hedyotis biflora,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Rubiaceae,Gentianales
+Hedyotis corymbosa,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Rubiaceae,Gentianales
+Hedyotis diffusa,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Rubiaceae,Gentianales
+Hedyotis fruticosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,9594482.0,Hedyotis fruticosa,Rubiaceae,Gentianales
+Hedyotis glabra,EXACT,100.0,SPECIES,SYNONYM,Plantae,9290647.0,Exallage insularis,Rubiaceae,Gentianales
+Hedyotis herbacea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7866673.0,Hedyotis herbacea,Rubiaceae,Gentianales
+Hedyotis hispida,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8144095.0,Hedyotis hispida,Rubiaceae,Gentianales
+Hedyotis scandens,EXACT,100.0,SPECIES,SYNONYM,Plantae,9411691.0,Dimetia scandens,Rubiaceae,Gentianales
+Hedyotis stipulata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,10705078.0,Hedyotis stipulata,Rubiaceae,Gentianales
+Hedyotis umbellata,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Rubiaceae,Gentianales
+Heimia salicifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5420914.0,Heimia salicifolia,Lythraceae,Myrtales
+Helianthus annuus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,9206251.0,Helianthus annuus,Asteraceae,Asterales
+Helicteres isora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5546922.0,Helicteres isora,Malvaceae,Malvales
+Heliotropium eichwaldi,HIGHERRANK,98.0,GENUS,ACCEPTED,Plantae,,,Heliotropiaceae,Boraginales
+Heliotropium indicum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2925788.0,Heliotropium indicum,Heliotropiaceae,Boraginales
+Heliotropium ovalifolium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7295023.0,Heliotropium ovalifolium,Heliotropiaceae,Boraginales
+Heliotropium strigosum,EXACT,100.0,SPECIES,SYNONYM,Plantae,4062306.0,Euploca strigosa,Heliotropiaceae,Boraginales
+Heliotropium subulatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8219833.0,Heliotropium subulatum,Heliotropiaceae,Boraginales
+Helminthostachys zeylanica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2650123.0,Helminthostachys zeylanica,Ophioglossaceae,Ophioglossales
+Hemidesmus indicus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8125676.0,Hemidesmus indicus,Apocynaceae,Gentianales
+Hemidictyum ceterach,EXACT,100.0,SPECIES,SYNONYM,Plantae,2650617.0,Asplenium ceterach,Aspleniaceae,Polypodiales
+Heracleum wallichii,EXACT,100.0,SPECIES,SYNONYM,Plantae,3635581.0,Tetrataenium wallichii,Apiaceae,Apiales
+Heritiera littoralis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7725132.0,Heritiera littoralis,Malvaceae,Malvales
+Heritiera minor,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Malvaceae,Malvales
+Hernandia ovigera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8282016.0,Hernandia ovigera,Hernandiaceae,Laurales
+Hesperethusa crenulata,EXACT,100.0,SPECIES,SYNONYM,Plantae,3836590.0,Naringi crenulata,Rutaceae,Sapindales
+Heterophragma quadriloculare,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4091635.0,Heterophragma quadriloculare,Bignoniaceae,Lamiales
+Heteropogon contortus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5290179.0,Heteropogon contortus,Poaceae,Poales
+Heynea trijuga,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3852273.0,Heynea trijuga,Meliaceae,Sapindales
+Hibiscus cancellatus,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Malvaceae,Malvales
+Hibiscus cannabinus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3152547.0,Hibiscus cannabinus,Malvaceae,Malvales
+Hibiscus furcatus,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Malvaceae,Malvales
+Hibiscus micranthus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8356610.0,Hibiscus micranthus,Malvaceae,Malvales
+Hibiscus radiatus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3152595.0,Hibiscus radiatus,Malvaceae,Malvales
+Hibiscus rosa-sinensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3152559.0,Hibiscus rosa-sinensis,Malvaceae,Malvales
+Hibiscus sabdariffa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3152582.0,Hibiscus sabdariffa,Malvaceae,Malvales
+Hibiscus surattensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3941020.0,Hibiscus surattensis,Malvaceae,Malvales
+Hibiscus syriacus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3152583.0,Hibiscus syriacus,Malvaceae,Malvales
+Hibiscus tiliaceus,EXACT,100.0,SPECIES,SYNONYM,Plantae,7115794.0,Talipariti tiliaceum,Malvaceae,Malvales
+Hibiscus umbrata,NONE,,,,,,,,
+Hippocratea arborea,EXACT,100.0,SPECIES,SYNONYM,Plantae,3794294.0,Reissantia arborea,Celastraceae,Celastrales
+Hippophae rhamnoides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3039285.0,Hippophae rhamnoides,Elaeagnaceae,Rosales
+Hippophae salicifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7293122.0,Hippophae salicifolia,Elaeagnaceae,Rosales
+Hiptage bengalensis,EXACT,100.0,SPECIES,SYNONYM,Plantae,3191302.0,Hiptage benghalensis,Malpighiaceae,Malpighiales
+Hiptage benghalensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3191302.0,Hiptage benghalensis,Malpighiaceae,Malpighiales
+Holarrhena antidysenterica,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Apocynaceae,Gentianales
+Holarrhena antidysnterica,NONE,,,,,,,,
+Holigarna arnottiana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3661655.0,Holigarna arnottiana,Anacardiaceae,Sapindales
+Holigarna longifolia,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Anacardiaceae,Sapindales
+Holostemma annularis,EXACT,100.0,SPECIES,SYNONYM,Plantae,9585399.0,Cynanchum annularium,Apocynaceae,Gentianales
+Holosteum umbellatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3085349.0,Holosteum umbellatum,Caryophyllaceae,Caryophyllales
+Homalomena aromatica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2868616.0,Homalomena aromatica,Araceae,Alismatales
+Homalomena rubescens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2868726.0,Homalomena rubescens,Araceae,Alismatales
+Homonoia riparia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3071623.0,Homonoia riparia,Euphorbiaceae,Malpighiales
+Hopea odorata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5669231.0,Hopea odorata,Dipterocarpaceae,Malvales
+Hoppea dichotoma,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5595116.0,Hoppea dichotoma,Gentianaceae,Gentianales
+Hordeum vulgare,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2706056.0,Hordeum vulgare,Poaceae,Poales
+Houttuynia cordata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5384931.0,Houttuynia cordata,Saururaceae,Piperales
+Hovenia dulcis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3039410.0,Hovenia dulcis,Rhamnaceae,Rosales
+Hoya multiflora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3573230.0,Hoya multiflora,Apocynaceae,Gentianales
+Hoya pendula,EXACT,100.0,SPECIES,SYNONYM,Plantae,3575505.0,Hoya alexicaca,Apocynaceae,Gentianales
+Hugonia mystax,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5658035.0,Hugonia mystax,Linaceae,Malpighiales
+Humboldtia vahliana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5356760.0,Humboldtia vahliana,Fabaceae,Fabales
+Humulus lupulus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2984535.0,Humulus lupulus,Cannabaceae,Rosales
+Hunteria zeylanica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5536465.0,Hunteria zeylanica,Apocynaceae,Gentianales
+Hura crepitans,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5380015.0,Hura crepitans,Euphorbiaceae,Malpighiales
+Hybanthus enneaspermus,EXACT,100.0,SPECIES,SYNONYM,Plantae,11446635.0,Pigea enneasperma,Violaceae,Malpighiales
+Hydnocarpus kurzii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2874151.0,Hydnocarpus kurzii,Achariaceae,Malpighiales
+Hydnocarpus laurifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,3877971.0,Hydnocarpus pentandrus,Achariaceae,Malpighiales
+Hydnocarpus wightiana,FUZZY,99.0,SPECIES,SYNONYM,Plantae,3877971.0,Hydnocarpus pentandrus,Achariaceae,Malpighiales
+Hydrangea aspera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3645663.0,Hydrangea aspera,Hydrangeaceae,Cornales
+Hydrocharis dubia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5329272.0,Hydrocharis dubia,Hydrocharitaceae,Alismatales
+Hydrocotyle asiatica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3034129.0,Hydrocotyle asiatica,Araliaceae,Apiales
+Hydrocotyle javanica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,6026987.0,Hydrocotyle javanica,Araliaceae,Apiales
+Hydrocotyle sibthorpioides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8418338.0,Hydrocotyle sibthorpioides,Araliaceae,Apiales
+Hydrolea zeylanica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3612749.0,Hydrolea zeylanica,Hydroleaceae,Solanales
+Hygrophila angustifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5415347.0,Hygrophila angustifolia,Acanthaceae,Lamiales
+Hygrophila auriculata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5415352.0,Hygrophila auriculata,Acanthaceae,Lamiales
+Hygrophila quadrivalvis,EXACT,100.0,SPECIES,SYNONYM,Plantae,7591349.0,Hygrophila ringens,Acanthaceae,Lamiales
+Hygrophila spinosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,5415352.0,Hygrophila auriculata,Acanthaceae,Lamiales
+Hygroryza aristata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4147943.0,Hygroryza aristata,Poaceae,Poales
+Hymenodictyon excelsum,EXACT,100.0,SPECIES,SYNONYM,Plantae,2904440.0,Hymenodictyon orixense,Rubiaceae,Gentianales
+Hyoscyamus albus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928979.0,Hyoscyamus albus,Solanaceae,Solanales
+Hyoscyamus muticus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928977.0,Hyoscyamus muticus,Solanaceae,Solanales
+Hyoscyamus niger,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928978.0,Hyoscyamus niger,Solanaceae,Solanales
+Hyoscyamus pusillus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3802521.0,Hyoscyamus pusillus,Solanaceae,Solanales
+Hypericum cernuum,EXACT,100.0,SPECIES,SYNONYM,Plantae,3713869.0,Hypericum oblongifolium,Hypericaceae,Malpighiales
+Hypericum chinense,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Hypericaceae,Malpighiales
+Hypericum patulum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3713491.0,Hypericum patulum,Hypericaceae,Malpighiales
+Hypericum perforatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3189486.0,Hypericum perforatum,Hypericaceae,Malpighiales
+Hypoxis aurea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2852790.0,Hypoxis aurea,Hypoxidaceae,Asparagales
+Hyptis brevipes,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7306536.0,Hyptis brevipes,Lamiaceae,Lamiales
+Hyptis capitata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2926815.0,Hyptis capitata,Lamiaceae,Lamiales
+Hyptis suaveolens,EXACT,100.0,SPECIES,SYNONYM,Plantae,3889017.0,Mesosphaerum suaveolens,Lamiaceae,Lamiales
+Hyssopus officinalis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5341387.0,Hyssopus officinalis,Lamiaceae,Lamiales
+Ichnocarpus frutescens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7778424.0,Ichnocarpus frutescens,Apocynaceae,Gentianales
+Illicium griffithii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3592309.0,Illicium griffithii,Schisandraceae,Austrobaileyales
+Illicium verum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2889756.0,Illicium verum,Schisandraceae,Austrobaileyales
+Illigera villosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5549975.0,Illigera villosa,Hernandiaceae,Laurales
+Imperata cylindrica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8424006.0,Imperata cylindrica,Poaceae,Poales
+Indigofera aspalathoides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2971981.0,Indigofera aspalathoides,Fabaceae,Fabales
+Indigofera hirsuta,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2972082.0,Indigofera hirsuta,Fabaceae,Fabales
+Indigofera linifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2971525.0,Indigofera linifolia,Fabaceae,Fabales
+Indigofera pulchella,EXACT,100.0,SPECIES,SYNONYM,Plantae,2971507.0,Indigofera cassioides,Fabaceae,Fabales
+Indigofera tinctoria,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2972043.0,Indigofera tinctoria,Fabaceae,Fabales
+Inula grantioides,EXACT,100.0,SPECIES,SYNONYM,Plantae,3125409.0,Iphiona grantioides,Asteraceae,Asterales
+Inula graveolens,EXACT,100.0,SPECIES,SYNONYM,Plantae,3101193.0,Dittrichia graveolens,Asteraceae,Asterales
+Inula helenium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3148340.0,Inula helenium,Asteraceae,Asterales
+Inula racemosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4933624.0,Inula racemosa,Asteraceae,Asterales
+Inula royleana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7468408.0,Inula royleana,Asteraceae,Asterales
+Ipomoea aculeata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7414441.0,Ipomoea aculeata,Convolvulaceae,Solanales
+Ipomoea aquatica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928525.0,Ipomoea aquatica,Convolvulaceae,Solanales
+Ipomoea batatas,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928551.0,Ipomoea batatas,Convolvulaceae,Solanales
+Ipomoea carnea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928590.0,Ipomoea carnea,Convolvulaceae,Solanales
+Ipomoea dasysperma,EXACT,100.0,SPECIES,SYNONYM,Plantae,4927164.0,Ipomoea tuberculata,Convolvulaceae,Solanales
+Ipomoea digitata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8249252.0,Ipomoea digitata,Convolvulaceae,Solanales
+Ipomoea eriocarpa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928545.0,Ipomoea eriocarpa,Convolvulaceae,Solanales
+Ipomoea hederacea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928538.0,Ipomoea hederacea,Convolvulaceae,Solanales
+Ipomoea learii,EXACT,100.0,SPECIES,SYNONYM,Plantae,2928598.0,Ipomoea indica,Convolvulaceae,Solanales
+Ipomoea maxima,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Convolvulaceae,Solanales
+Ipomoea nil,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928534.0,Ipomoea nil,Convolvulaceae,Solanales
+Ipomoea obscura,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928565.0,Ipomoea obscura,Convolvulaceae,Solanales
+Ipomoea pes-caprae,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7999386.0,Ipomoea pes-caprae,Convolvulaceae,Solanales
+Ipomoea pes-tigridis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928524.0,Ipomoea pes-tigridis,Convolvulaceae,Solanales
+Ipomoea phoenicea,EXACT,100.0,SPECIES,SYNONYM,Plantae,2928624.0,Ipomoea hederifolia,Convolvulaceae,Solanales
+Ipomoea quamoclit,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928562.0,Ipomoea quamoclit,Convolvulaceae,Solanales
+Ipomoea reniformis,EXACT,100.0,SPECIES,SYNONYM,Plantae,5549041.0,Merremia emarginata,Convolvulaceae,Solanales
+Ipomoea turpethum,EXACT,100.0,SPECIES,SYNONYM,Plantae,5341747.0,Operculina turpethum,Convolvulaceae,Solanales
+Iris decora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5298353.0,Iris decora,Iridaceae,Asparagales
+Iris ensata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5298900.0,Iris ensata,Iridaceae,Asparagales
+Iris florentina,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5298079.0,Iris florentina,Iridaceae,Asparagales
+Iris nepalensis,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Iridaceae,Asparagales
+Iris pallida,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5298086.0,Iris pallida,Iridaceae,Asparagales
+Ixora nigricans,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2905255.0,Ixora nigricans,Rubiaceae,Gentianales
+Ixora parviflora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2905716.0,Ixora parviflora,Rubiaceae,Gentianales
+Jasminum angustifolium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8377988.0,Jasminum angustifolium,Oleaceae,Lamiales
+Jasminum arborescens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3682778.0,Jasminum arborescens,Oleaceae,Lamiales
+Jasminum auriculatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3682675.0,Jasminum auriculatum,Oleaceae,Lamiales
+Jasminum flexile,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7970015.0,Jasminum flexile,Oleaceae,Lamiales
+Jasminum grandiflorum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3172262.0,Jasminum grandiflorum,Oleaceae,Lamiales
+Jasminum malabaricum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3683375.0,Jasminum malabaricum,Oleaceae,Lamiales
+Jasminum multiflorum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3172267.0,Jasminum multiflorum,Oleaceae,Lamiales
+Jasminum ritchi,NONE,,,,,,,,
+Jasminum ritchiei,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7325904.0,Jasminum ritchiei,Oleaceae,Lamiales
+Jasminum rottlerianum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3682295.0,Jasminum rottlerianum,Oleaceae,Lamiales
+Jasminum sambac,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7587215.0,Jasminum sambac,Oleaceae,Lamiales
+Jatropha curcas,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3072953.0,Jatropha curcas,Euphorbiaceae,Malpighiales
+Jatropha glandsulifera,NONE,,,,,,,,
+Jatropha gossypifolia,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,3072900.0,Jatropha gossypiifolia,Euphorbiaceae,Malpighiales
+Juglans regia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3054368.0,Juglans regia,Juglandaceae,Fagales
+Juncellus inundatus,EXACT,100.0,SPECIES,SYNONYM,Plantae,2715620.0,Cyperus serotinus,Cyperaceae,Poales
+Juniperus recurvus,FUZZY,98.0,SPECIES,ACCEPTED,Plantae,2684844.0,Juniperus recurva,Cupressaceae,Pinales
+Jussiaea suffruticosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,5420987.0,Ludwigia octovalvis,Onagraceae,Myrtales
+Justicia adhatoda,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3173105.0,Justicia adhatoda,Acanthaceae,Lamiales
+Justicia betonica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7418885.0,Justicia betonica,Acanthaceae,Lamiales
+Justicia diffusa,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Acanthaceae,Lamiales
+Justicia procumbens,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Acanthaceae,Lamiales
+Justicia tranquebariensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8304469.0,Justicia tranquebariensis,Acanthaceae,Lamiales
+Justicia vasculosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7692793.0,Justicia vasculosa,Acanthaceae,Lamiales
+Kaempferia galanga,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5301451.0,Kaempferia galanga,Zingiberaceae,Zingiberales
+Kaempferia rotunda,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5301445.0,Kaempferia rotunda,Zingiberaceae,Zingiberales
+Kalanchoe integra,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2985939.0,Kalanchoe integra,Crassulaceae,Saxifragales
+Kalanchoe laciniata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2985933.0,Kalanchoe laciniata,Crassulaceae,Saxifragales
+Knema angustifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,10667020.0,Knema angustifolia,Myristicaceae,Magnoliales
+Kochia indica,EXACT,100.0,SPECIES,SYNONYM,Plantae,5568213.0,Bassia indica,Amaranthaceae,Caryophyllales
+Kokoona zeylancia,NONE,,,,,,,,
+Kopsia fruticosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5536025.0,Kopsia fruticosa,Apocynaceae,Gentianales
+Kydia calycina,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7279431.0,Kydia calycina,Malvaceae,Malvales
+Kyllinga monocephala,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Cyperaceae,Poales
+Lablab purpureus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2952236.0,Lablab purpureus,Fabaceae,Fabales
+Lagenandra ovata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2870438.0,Lagenandra ovata,Araceae,Alismatales
+Lagenaria siceraria,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2874672.0,Lagenaria siceraria,Cucurbitaceae,Cucurbitales
+Lagenaria vulgaris,EXACT,100.0,SPECIES,SYNONYM,Plantae,2874672.0,Lagenaria siceraria,Cucurbitaceae,Cucurbitales
+Lagerstroemia parviflora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3988512.0,Lagerstroemia parviflora,Lythraceae,Myrtales
+Laggera aurita,EXACT,100.0,SPECIES,SYNONYM,Plantae,3086704.0,Pseudoconyza viscosa,Asteraceae,Asterales
+Lannea coromandelica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3661151.0,Lannea coromandelica,Anacardiaceae,Sapindales
+Laportea crenulata,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Urticaceae,Rosales
+Laportea interrupta,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2984469.0,Laportea interrupta,Urticaceae,Rosales
+Lasia aculeata,EXACT,100.0,SPECIES,SYNONYM,Plantae,5330870.0,Lasia spinosa,Araceae,Alismatales
+Lasia spinosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5330870.0,Lasia spinosa,Araceae,Alismatales
+Lathyrus sativus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5356488.0,Lathyrus sativus,Fabaceae,Fabales
+Launaea asplenifolia,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,4205850.0,Launaea aspleniifolia,Asteraceae,Asterales
+Lawsonia inermis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5420912.0,Lawsonia inermis,Lythraceae,Myrtales
+Leea aequata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7994517.0,Leea aequata,Vitaceae,Vitales
+Leea crispa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8752689.0,Leea crispa,Vitaceae,Vitales
+Leea indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4160336.0,Leea indica,Vitaceae,Vitales
+Leea macrophylla,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4160394.0,Leea macrophylla,Vitaceae,Vitales
+Lens culinaris,EXACT,100.0,SPECIES,SYNONYM,Plantae,3973001.0,Vicia lens,Fabaceae,Fabales
+Leonotis nepetaefolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,4924659.0,Leonotis nepetifolia,Lamiaceae,Lamiales
+Lepidagathis cristata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3776967.0,Lepidagathis cristata,Acanthaceae,Lamiales
+Lepidagathis hamiltoniana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7263977.0,Lepidagathis hamiltoniana,Acanthaceae,Lamiales
+Lepidagathis incurva,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7263961.0,Lepidagathis incurva,Acanthaceae,Lamiales
+Lepidium sativum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5376565.0,Lepidium sativum,Brassicaceae,Brassicales
+Lepionurus sylvestris,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3658877.0,Lepionurus sylvestris,Opiliaceae,Santalales
+Leptadenia reticulata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3580162.0,Leptadenia reticulata,Apocynaceae,Gentianales
+Leucaena leucocephala,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2970418.0,Leucaena leucocephala,Fabaceae,Fabales
+Leucas aspera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5607947.0,Leucas aspera,Lamiaceae,Lamiales
+Leucas cephalotes,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5606847.0,Leucas cephalotes,Lamiaceae,Lamiales
+Leucas clarkei,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5606828.0,Leucas clarkei,Lamiaceae,Lamiales
+Leucas lanata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7788585.0,Leucas lanata,Lamiaceae,Lamiales
+Leucas stelligera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7361676.0,Leucas stelligera,Lamiaceae,Lamiales
+Leucojum aestivum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2860425.0,Leucojum aestivum,Amaryllidaceae,Asparagales
+Ligustrum indicum,EXACT,100.0,SPECIES,SYNONYM,Plantae,3172294.0,Ligustrum sinense,Oleaceae,Lamiales
+Lilium wallichianum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4937248.0,Lilium wallichianum,Liliaceae,Liliales
+Limnanthemum cristatum,EXACT,100.0,SPECIES,SYNONYM,Plantae,5592249.0,Nymphoides hydrophylla,Menyanthaceae,Asterales
+Limnanthemum nymphaeoides,NONE,,,,,,,,
+Limnophila aromatica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5415005.0,Limnophila aromatica,Plantaginaceae,Lamiales
+Limnophila indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5415004.0,Limnophila indica,Plantaginaceae,Lamiales
+Limnophila roxburghii,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Plantaginaceae,Lamiales
+Lindenbergia indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3731671.0,Lindenbergia indica,Orobanchaceae,Lamiales
+Lindernia cordifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,10975167.0,Torenia anagallis,Linderniaceae,Lamiales
+Lindernia crustacea,EXACT,100.0,SPECIES,SYNONYM,Plantae,3171892.0,Torenia crustacea,Linderniaceae,Lamiales
+Lindernia oppositifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,3733655.0,Bonnaya oppositifolia,Linderniaceae,Lamiales
+Lindernia veronicaefolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,3733807.0,Bonnaya antipoda,Linderniaceae,Lamiales
+Linostoma decandrum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5523904.0,Linostoma decandrum,Thymelaeaceae,Malvales
+Linum usitatissimum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2873861.0,Linum usitatissimum,Linaceae,Malpighiales
+Litsea lancifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8956507.0,Litsea lancifolia,Lauraceae,Laurales
+Litsea polyantha,EXACT,100.0,SPECIES,SYNONYM,Plantae,4182444.0,Litsea monopetala,Lauraceae,Laurales
+Lobelia excelsa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5407839.0,Lobelia excelsa,Campanulaceae,Asterales
+Lobelia nicotianaefolia,NONE,,,,,,,,
+Lobelia nicotinaefolia,NONE,,,,,,,,
+Lobelia pyramidalis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5408559.0,Lobelia pyramidalis,Campanulaceae,Asterales
+Loranthus buddleioides,EXACT,100.0,SPECIES,SYNONYM,Plantae,4001655.0,Scurrula cordifolia,Loranthaceae,Santalales
+Ludwigia adscendens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7322187.0,Ludwigia adscendens,Onagraceae,Myrtales
+Ludwigia perennis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8129014.0,Ludwigia perennis,Onagraceae,Myrtales
+Ludwigia prostrata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5545149.0,Ludwigia prostrata,Onagraceae,Myrtales
+Luffa acutangula,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2874601.0,Luffa acutangula,Cucurbitaceae,Cucurbitales
+Luffa amara,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Cucurbitaceae,Cucurbitales
+Luisia tenuifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5305879.0,Luisia tenuifolia,Orchidaceae,Asparagales
+Luisia trichorrhiza,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,5305887.0,Luisia trichorhiza,Orchidaceae,Asparagales
+Lupinus luteus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2963817.0,Lupinus luteus,Fabaceae,Fabales
+Lycopus europaeus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5341478.0,Lycopus europaeus,Lamiaceae,Lamiales
+Lygodium pinnatifidum,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Lygodiaceae,Schizaeales
+Lyonia ovalifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7328514.0,Lyonia ovalifolia,Ericaceae,Ericales
+Macrosolen cochinchinensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7287970.0,Macrosolen cochinchinensis,Loranthaceae,Santalales
+Madhuca butyracea,EXACT,100.0,SPECIES,SYNONYM,Plantae,2886375.0,Diploknema butyracea,Sapotaceae,Ericales
+Madhuca indica,EXACT,100.0,SPECIES,SYNONYM,Plantae,2883346.0,Madhuca longifolia,Sapotaceae,Ericales
+Madhuca latifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,2883346.0,Madhuca longifolia,Sapotaceae,Ericales
+Madhuca longifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2883346.0,Madhuca longifolia,Sapotaceae,Ericales
+Maesa indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7736989.0,Maesa indica,Primulaceae,Ericales
+Magnolia denudata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3153582.0,Magnolia denudata,Magnoliaceae,Magnoliales
+Mahonia napaulensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3981498.0,Mahonia napaulensis,Berberidaceae,Ranunculales
+Mallotus philippensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5378605.0,Mallotus philippensis,Euphorbiaceae,Malpighiales
+Mallotus philippinensis,NONE,,,,,,,,
+Malus sylvestris,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3001509.0,Malus sylvestris,Rosaceae,Rosales
+Mandragora officinarum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5341748.0,Mandragora officinarum,Solanaceae,Solanales
+Mangifera indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3190638.0,Mangifera indica,Anacardiaceae,Sapindales
+Manilkara kauki,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2885150.0,Manilkara kauki,Sapotaceae,Ericales
+Manilkara zapota,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2885158.0,Manilkara zapota,Sapotaceae,Ericales
+Maranta arundinacea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2761352.0,Maranta arundinacea,Marantaceae,Zingiberales
+Marsdenia tenacissima,EXACT,100.0,SPECIES,SYNONYM,Plantae,12227408.0,Gongronemopsis tenacissima,Apocynaceae,Gentianales
+Marsilea quadrifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5274875.0,Marsilea quadrifolia,Marsileaceae,Salviniales
+Martynia annua,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3172618.0,Martynia annua,Martyniaceae,Lamiales
+Matthiola incana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5377378.0,Matthiola incana,Brassicaceae,Brassicales
+Melaleuca leucadendron,NONE,,,,,,,,
+Melia azadirach,NONE,,,,,,,,
+Melia azedarach,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5914287.0,Melia azedarach,Meliaceae,Sapindales
+Melocanna bambusoides,EXACT,100.0,SPECIES,SYNONYM,Plantae,4115908.0,Melocanna baccifera,Poaceae,Poales
+Melochia corchorifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3152125.0,Melochia corchorifolia,Malvaceae,Malvales
+Melothria heterophylla,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Cucurbitaceae,Cucurbitales
+Mentha arvensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2927192.0,Mentha arvensis,Lamiaceae,Lamiales
+Mentha citrata,EXACT,100.0,SPECIES,SYNONYM,Plantae,2927208.0,Mentha aquatica,Lamiaceae,Lamiales
+Mentha piperita,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8707933.0,Mentha piperita,Lamiaceae,Lamiales
+Mentha sativa,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Lamiaceae,Lamiales
+Mentha spicata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2927175.0,Mentha spicata,Lamiaceae,Lamiales
+Merremia emarginata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5549041.0,Merremia emarginata,Convolvulaceae,Solanales
+Merremia vitifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,9619573.0,Camonea vitifolia,Convolvulaceae,Solanales
+Mesua ferrea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7330039.0,Mesua ferrea,Calophyllaceae,Malpighiales
+Mezoneuron cucullatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5354740.0,Mezoneuron cucullatum,Fabaceae,Fabales
+Michelia champaca,EXACT,100.0,SPECIES,SYNONYM,Plantae,3153099.0,Magnolia champaca,Magnoliaceae,Magnoliales
+Micromeria biflora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7307212.0,Micromeria biflora,Lamiaceae,Lamiales
+Miliusa velutina,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3156618.0,Miliusa velutina,Annonaceae,Magnoliales
+Milletta auriculata,NONE,,,,,,,,
+Milletta pachycarpa,NONE,,,,,,,,
+Mimosa rubicaulis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2969303.0,Mimosa rubicaulis,Fabaceae,Fabales
+Mimusops elengi,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2883768.0,Mimusops elengi,Sapotaceae,Ericales
+Mimusops kauki,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8335386.0,Mimusops kauki,Sapotaceae,Ericales
+Mirabilis jalapa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3086240.0,Mirabilis jalapa,Nyctaginaceae,Caryophyllales
+Mnesithea laevis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4122105.0,Mnesithea laevis,Poaceae,Poales
+Moghania macrophylla,EXACT,100.0,SPECIES,SYNONYM,Plantae,5359866.0,Flemingia macrophylla,Fabaceae,Fabales
+Moghania vestita,EXACT,100.0,SPECIES,SYNONYM,Plantae,5359830.0,Flemingia procumbens,Fabaceae,Fabales
+Mollugo hirta,EXACT,100.0,SPECIES,SYNONYM,Plantae,11203517.0,Glinus hirtus,Molluginaceae,Caryophyllales
+Mollugo oppositifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,7548362.0,Glinus oppositifolius,Molluginaceae,Caryophyllales
+Mollugo pentaphylla,EXACT,100.0,SPECIES,SYNONYM,Plantae,9381433.0,Trigastrotheca pentaphylla,Molluginaceae,Caryophyllales
+Momordica charantia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2874581.0,Momordica charantia,Cucurbitaceae,Cucurbitales
+Momordica dioica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2874579.0,Momordica dioica,Cucurbitaceae,Cucurbitales
+Monochoria hastata,EXACT,100.0,SPECIES,SYNONYM,Plantae,2765991.0,Pontederia hastata,Pontederiaceae,Commelinales
+Monochoria plantaginea,EXACT,100.0,SPECIES,SYNONYM,Plantae,2766031.0,Pontederia plantaginea,Pontederiaceae,Commelinales
+Morinda tinctoria,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Rubiaceae,Gentianales
+Moringa oleifera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3054181.0,Moringa oleifera,Moringaceae,Brassicales
+Mucuna monosperma,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2951434.0,Mucuna monosperma,Fabaceae,Fabales
+Mucuna pruriens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2951499.0,Mucuna pruriens,Fabaceae,Fabales
+Mundulea suberosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,2933885.0,Mundulea sericea,Fabaceae,Fabales
+Murraya exotica,HIGHERRANK,100.0,ORDER,ACCEPTED,Plantae,,,,Sapindales
+Musa paradisiaca,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2762752.0,Musa paradisiaca,Musaceae,Zingiberales
+Musa rosacea,EXACT,100.0,SPECIES,SYNONYM,Plantae,2762950.0,Musa balbisiana,Musaceae,Zingiberales
+Myrica esculenta,EXACT,100.0,SPECIES,SYNONYM,Plantae,3745012.0,Morella esculenta,Myricaceae,Fagales
+Myrica nagi,EXACT,100.0,SPECIES,SYNONYM,Plantae,2687779.0,Nageia nagi,Podocarpaceae,Pinales
+Naravelia zeylanica,EXACT,100.0,SPECIES,SYNONYM,Plantae,3926315.0,Clematis zeylanica,Ranunculaceae,Ranunculales
+Narcissus tazetta,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2858963.0,Narcissus tazetta,Amaryllidaceae,Asparagales
+Nardostachys jatamansi,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4095989.0,Nardostachys jatamansi,Caprifoliaceae,Dipsacales
+Naregamia alata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3849548.0,Naregamia alata,Meliaceae,Sapindales
+Natsiatum herpeticum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3597149.0,Natsiatum herpeticum,Icacinaceae,Icacinales
+Nelumbo nucifera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2882449.0,Nelumbo nucifera,Nelumbonaceae,Proteales
+Neolitsea umbrosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7304387.0,Neolitsea umbrosa,Lauraceae,Laurales
+Nepenthes khasiana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3702236.0,Nepenthes khasiana,Nepenthaceae,Caryophyllales
+Nepeta hindostana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5610453.0,Nepeta hindostana,Lamiaceae,Lamiales
+Neptunia triquetra,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5353547.0,Neptunia triquetra,Fabaceae,Fabales
+Nerium indicum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7317019.0,Nerium indicum,Apocynaceae,Gentianales
+Nerium odorum,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Apocynaceae,Gentianales
+Neuracanthus sphaerostachyus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7395321.0,Neuracanthus sphaerostachyus,Acanthaceae,Lamiales
+Nigella indica,EXACT,100.0,SPECIES,SYNONYM,Plantae,5371700.0,Nigella sativa,Ranunculaceae,Ranunculales
+Nigella sativa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5371700.0,Nigella sativa,Ranunculaceae,Ranunculales
+Nyctanthes arbortristis,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,3683008.0,Nyctanthes arbor-tristis,Oleaceae,Lamiales
+Nymphaea edulis,EXACT,100.0,SPECIES,SYNONYM,Plantae,2882429.0,Nymphaea lotus,Nymphaeaceae,Nymphaeales
+Nymphaea lotus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2882429.0,Nymphaea lotus,Nymphaeaceae,Nymphaeales
+Nymphaea stellata,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Nymphaeaceae,Nymphaeales
+Nymphoides cristatum,FUZZY,99.0,SPECIES,SYNONYM,Plantae,5592249.0,Nymphoides hydrophylla,Menyanthaceae,Asterales
+Ochna pumila,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7675054.0,Ochna pumila,Ochnaceae,Malpighiales
+Ochna squarrosa,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Ochnaceae,Malpighiales
+Ocimum basilicum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2927096.0,Ocimum basilicum,Lamiaceae,Lamiales
+Ocimum canum,EXACT,100.0,SPECIES,SYNONYM,Plantae,2927097.0,Ocimum americanum,Lamiaceae,Lamiales
+Ocimum gratissimum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2927094.0,Ocimum gratissimum,Lamiaceae,Lamiales
+Ocimum kilimandscharicum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8344835.0,Ocimum kilimandscharicum,Lamiaceae,Lamiales
+Ocimum sanctum,EXACT,100.0,SPECIES,SYNONYM,Plantae,2927100.0,Ocimum tenuiflorum,Lamiaceae,Lamiales
+Olax nana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3685545.0,Olax nana,Olacaceae,Santalales
+Olax scandens,EXACT,100.0,SPECIES,SYNONYM,Plantae,3686148.0,Olax psittacorum,Olacaceae,Santalales
+Olax zeylanica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3685892.0,Olax zeylanica,Olacaceae,Santalales
+Oldenlandia biflora,HIGHERRANK,100.0,CLASS,ACCEPTED,Plantae,,,,
+Oldenlandia corymbosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2911970.0,Oldenlandia corymbosa,Rubiaceae,Gentianales
+Oldenlandia heynei,EXACT,100.0,SPECIES,SYNONYM,Plantae,2911992.0,Oldenlandia herbacea,Rubiaceae,Gentianales
+Oldenlandia paniculata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2916292.0,Oldenlandia paniculata,Rubiaceae,Gentianales
+Olea ferruginea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8072036.0,Olea ferruginea,Oleaceae,Lamiales
+Oleandra neriiformis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,6062622.0,Oleandra neriiformis,Oleandraceae,Polypodiales
+Oleandra wallichii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4196795.0,Oleandra wallichii,Oleandraceae,Polypodiales
+Onychium siliculosum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5566645.0,Onychium siliculosum,Pteridaceae,Polypodiales
+Operculina turpethum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5341747.0,Operculina turpethum,Convolvulaceae,Solanales
+Ophioglossum pendulum,EXACT,100.0,SPECIES,SYNONYM,Plantae,7321401.0,Ophioderma pendulum,Ophioglossaceae,Ophioglossales
+Ophiopogon pendulus,NONE,,,,,,,,
+Ophiorrhiza mungos,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5340801.0,Ophiorrhiza mungos,Rubiaceae,Gentianales
+Opuntia dillenii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,6378623.0,Opuntia dillenii,Cactaceae,Caryophyllales
+Orchis latifolia,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Orchidaceae,Asparagales
+Origanum vulgare,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2926612.0,Origanum vulgare,Lamiaceae,Lamiales
+Oroxylum indicum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7414934.0,Oroxylum indicum,Bignoniaceae,Lamiales
+Orthosiphon rubicundus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3892020.0,Orthosiphon rubicundus,Lamiaceae,Lamiales
+Oryza sativa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2703459.0,Oryza sativa,Poaceae,Poales
+Osbeckia chinensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3866460.0,Osbeckia chinensis,Melastomataceae,Myrtales
+Osmanthus fragrans,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3172278.0,Osmanthus fragrans,Oleaceae,Lamiales
+Osyris arborea,EXACT,100.0,SPECIES,SYNONYM,Plantae,7473922.0,Osyris lanceolata,Santalaceae,Santalales
+Ottelia alismoides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5329515.0,Ottelia alismoides,Hydrocharitaceae,Alismatales
+Ougeinia dalbergioides,EXACT,100.0,SPECIES,SYNONYM,Plantae,2967471.0,Ougeinia oojeinensis,Fabaceae,Fabales
+Ougeinia oojeinensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2967471.0,Ougeinia oojeinensis,Fabaceae,Fabales
+Oxalis corniculata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8427624.0,Oxalis corniculata,Oxalidaceae,Oxalidales
+Oxalis latifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2891755.0,Oxalis latifolia,Oxalidaceae,Oxalidales
+Oxalis violacea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2891708.0,Oxalis violacea,Oxalidaceae,Oxalidales
+Oxystelma esculentum,EXACT,100.0,SPECIES,SYNONYM,Plantae,3581762.0,Oxystelma wallichii,Apocynaceae,Gentianales
+Pachygone ovata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7268715.0,Pachygone ovata,Menispermaceae,Ranunculales
+Paederia foetida,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2909527.0,Paederia foetida,Rubiaceae,Gentianales
+Pajanelia longifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4094464.0,Pajanelia longifolia,Bignoniaceae,Lamiales
+Pancratium zeylanicum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2853243.0,Pancratium zeylanicum,Amaryllidaceae,Asparagales
+Pandanus tectorius,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8023236.0,Pandanus tectorius,Pandanaceae,Pandanales
+Panicum miliare,EXACT,100.0,SPECIES,SYNONYM,Plantae,2705141.0,Panicum antidotale,Poaceae,Poales
+Panicum psilopodium,EXACT,100.0,SPECIES,SYNONYM,Plantae,2705079.0,Panicum sumatrense,Poaceae,Poales
+Panicum repens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2705093.0,Panicum repens,Poaceae,Poales
+Papaver rhoeas,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2888443.0,Papaver rhoeas,Papaveraceae,Ranunculales
+Papaver somniferum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2888439.0,Papaver somniferum,Papaveraceae,Ranunculales
+Paris polyphylla,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5295929.0,Paris polyphylla,Melanthiaceae,Liliales
+Parsonsia helicandra,EXACT,100.0,SPECIES,SYNONYM,Plantae,7317262.0,Parsonsia alboflavescens,Apocynaceae,Gentianales
+Paspalidium flavidum,EXACT,100.0,SPECIES,SYNONYM,Plantae,8058520.0,Setaria flavida,Poaceae,Poales
+Paspalum scrobiculatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2705610.0,Paspalum scrobiculatum,Poaceae,Poales
+Pavetta indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2924801.0,Pavetta indica,Rubiaceae,Gentianales
+Pavonia odorata,EXACT,100.0,SPECIES,SYNONYM,Plantae,10746336.0,Pavonia zeylonica,Malvaceae,Malvales
+Pavonia zeylanica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5617913.0,Pavonia zeylanica,Malvaceae,Malvales
+Pedalium murex,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5527253.0,Pedalium murex,Pedaliaceae,Lamiales
+Pedicularis pectinata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3740352.0,Pedicularis pectinata,Orobanchaceae,Lamiales
+Peganum harmala,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3189912.0,Peganum harmala,Tetradiclidaceae,Sapindales
+Pentapetes phoenicea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3152140.0,Pentapetes phoenicea,Malvaceae,Malvales
+Pereskia grandifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5384214.0,Pereskia grandifolia,Cactaceae,Caryophyllales
+Periploca aphylla,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7707846.0,Periploca aphylla,Apocynaceae,Gentianales
+Peucedanum dhana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3631540.0,Peucedanum dhana,Apiaceae,Apiales
+Peucedanum nagpurense,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3628794.0,Peucedanum nagpurense,Apiaceae,Apiales
+Phaseolus adenanthus,EXACT,100.0,SPECIES,SYNONYM,Plantae,7989033.0,Leptospron adenanthum,Fabaceae,Fabales
+Phaseolus trilobus,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Fabaceae,Fabales
+Phlogacanthus thyrsiflorus,EXACT,100.0,SPECIES,SYNONYM,Plantae,3775560.0,Phlogacanthus thyrsiformis,Acanthaceae,Lamiales
+Phlogacanthus tubiflorus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3775553.0,Phlogacanthus tubiflorus,Acanthaceae,Lamiales
+Phoenix acaulis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5293117.0,Phoenix acaulis,Arecaceae,Arecales
+Phoenix sylvestris,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5293177.0,Phoenix sylvestris,Arecaceae,Arecales
+Phyla nodiflora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5341112.0,Phyla nodiflora,Verbenaceae,Lamiales
+Phyllanthus emblica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5381660.0,Phyllanthus emblica,Phyllanthaceae,Malpighiales
+Phyllanthus fraternus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5381498.0,Phyllanthus fraternus,Phyllanthaceae,Malpighiales
+Phyllanthus niruri,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5381945.0,Phyllanthus niruri,Phyllanthaceae,Malpighiales
+Phyllanthus officinalis,NONE,,,,,,,,
+Phyllanthus rheedii,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,5382244.0,Phyllanthus rheedei,Phyllanthaceae,Malpighiales
+Phyllanthus simplex,EXACT,100.0,SPECIES,SYNONYM,Plantae,5382061.0,Phyllanthus virgatus,Phyllanthaceae,Malpighiales
+Phyllanthus urinaria,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5382780.0,Phyllanthus urinaria,Phyllanthaceae,Malpighiales
+Physalis alkakengi,NONE,,,,,,,,
+Physochlaina praealta,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3799821.0,Physochlaina praealta,Solanaceae,Solanales
+Physostigma venenosum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2946860.0,Physostigma venenosum,Fabaceae,Fabales
+Picrasma javanica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3708935.0,Picrasma javanica,Simaroubaceae,Sapindales
+Picrasma quassioides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3190677.0,Picrasma quassioides,Simaroubaceae,Sapindales
+Picrorhiza kurroa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3727300.0,Picrorhiza kurroa,Plantaginaceae,Lamiales
+Picrorhiza scrophulariaefolia,NONE,,,,,,,,
+Pimpinella diversifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,6027010.0,Pimpinella diversifolia,Apiaceae,Apiales
+Pimpinella involucrata,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Apiaceae,Apiales
+Pinus longifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8325032.0,Pinus longifolia,Pinaceae,Pinales
+Pinus palustris,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5285816.0,Pinus palustris,Pinaceae,Pinales
+Pinus roxburghii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5285084.0,Pinus roxburghii,Pinaceae,Pinales
+Piper attenuatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8215152.0,Piper attenuatum,Piperaceae,Piperales
+Piper aurantiacum,EXACT,100.0,SPECIES,SYNONYM,Plantae,4187359.0,Piper wallichii,Piperaceae,Piperales
+Piper betel,EXACT,100.0,SPECIES,SYNONYM,Plantae,4187904.0,Piper betle,Piperaceae,Piperales
+Piper betle,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4187904.0,Piper betle,Piperaceae,Piperales
+Piper chaba,EXACT,100.0,SPECIES,SYNONYM,Plantae,3086342.0,Piper retrofractum,Piperaceae,Piperales
+Piper cubeba,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7606629.0,Piper cubeba,Piperaceae,Piperales
+Piper gamblei,EXACT,100.0,SPECIES,SYNONYM,Plantae,4185573.0,Piper suipigua,Piperaceae,Piperales
+Piper longum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3086338.0,Piper longum,Piperaceae,Piperales
+Piper nigrum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3086357.0,Piper nigrum,Piperaceae,Piperales
+Piper peepuloides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4185920.0,Piper peepuloides,Piperaceae,Piperales
+Piper sylvaticum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4185269.0,Piper sylvaticum,Piperaceae,Piperales
+Piper thomsoni,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,7304790.0,Piper thomsonii,Piperaceae,Piperales
+Pistacia khinjuk,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3662027.0,Pistacia khinjuk,Anacardiaceae,Sapindales
+Pistacia mutica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3661956.0,Pistacia mutica,Anacardiaceae,Sapindales
+Pistia stratiotes,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2870583.0,Pistia stratiotes,Araceae,Alismatales
+Pisum arvense,EXACT,100.0,SPECIES,SYNONYM,Plantae,5347846.0,Lathyrus oleraceus,Fabaceae,Fabales
+Pisum sativum,EXACT,100.0,SPECIES,SYNONYM,Plantae,5347846.0,Lathyrus oleraceus,Fabaceae,Fabales
+Pithecellobium bigeminum,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Fabaceae,Fabales
+Pittosporum floribundum,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Pittosporaceae,Apiales
+Plantago amplexicaulis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7303042.0,Plantago amplexicaulis,Plantaginaceae,Lamiales
+Plantago ispagula,FUZZY,98.0,SPECIES,SYNONYM,Plantae,3189723.0,Plantago ovata,Plantaginaceae,Lamiales
+Plantago ovata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3189723.0,Plantago ovata,Plantaginaceae,Lamiales
+Plectranthus mollis,EXACT,100.0,SPECIES,SYNONYM,Plantae,10604331.0,Equilabium molle,Lamiaceae,Lamiales
+Pleiospermium alatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3836714.0,Pleiospermium alatum,Rutaceae,Sapindales
+Plesmonium margaratiferum,NONE,,,,,,,,
+Pluchea lanceolata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7923000.0,Pluchea lanceolata,Asteraceae,Asterales
+Plumbago indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3082286.0,Plumbago indica,Plumbaginaceae,Caryophyllales
+Plumbago rosea,EXACT,100.0,SPECIES,SYNONYM,Plantae,3082286.0,Plumbago indica,Plumbaginaceae,Caryophyllales
+Plumbago zeylanica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3082282.0,Plumbago zeylanica,Plumbaginaceae,Caryophyllales
+Plumeria acutifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,3169674.0,Plumeria rubra,Apocynaceae,Gentianales
+Plumeria alba,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3169673.0,Plumeria alba,Apocynaceae,Gentianales
+Plumeria rubra,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3169674.0,Plumeria rubra,Apocynaceae,Gentianales
+Poa cynosuroides,EXACT,100.0,SPECIES,SYNONYM,Plantae,4142071.0,Desmostachya bipinnata,Poaceae,Poales
+Podophyllum emodi,EXACT,100.0,SPECIES,SYNONYM,Plantae,3981186.0,Sinopodophyllum hexandrum,Berberidaceae,Ranunculales
+Podophyllum hexandrum,EXACT,100.0,SPECIES,SYNONYM,Plantae,3981186.0,Sinopodophyllum hexandrum,Berberidaceae,Ranunculales
+Pogostemon patchouli,NONE,,,,,,,,
+Polanisia viscosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,6370562.0,Arivela viscosa,Cleomaceae,Brassicales
+Pollinia eriopoda,EXACT,100.0,SPECIES,SYNONYM,Plantae,2704851.0,Eulaliopsis binata,Poaceae,Poales
+Polycarpaea corymbosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3085781.0,Polycarpaea corymbosa,Caryophyllaceae,Caryophyllales
+Polygala chinensis,EXACT,100.0,SPECIES,SYNONYM,Plantae,7293659.0,Polygala glomerata,Polygalaceae,Fabales
+Polygala crotalarioides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3191438.0,Polygala crotalarioides,Polygalaceae,Fabales
+Polygala longifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4049199.0,Polygala longifolia,Polygalaceae,Fabales
+Polygonatum cirrhifolium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2770153.0,Polygonatum cirrhifolium,Asparagaceae,Asparagales
+Polygonatum verticillatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2770004.0,Polygonatum verticillatum,Asparagaceae,Asparagales
+Polygonum amplexicaule,EXACT,100.0,SPECIES,SYNONYM,Plantae,7291264.0,Bistorta amplexicaulis,Polygonaceae,Caryophyllales
+Polygonum barbatum,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Polygonaceae,Caryophyllales
+Polygonum plebejum,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,5334440.0,Polygonum plebeium,Polygonaceae,Caryophyllales
+Pongamia glabra,EXACT,100.0,SPECIES,ACCEPTED,Plantae,11377893.0,Pongamia glabra,Fabaceae,Fabales
+Pongamia pinnata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2965911.0,Pongamia pinnata,Fabaceae,Fabales
+Populus ciliata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7266620.0,Populus ciliata,Salicaceae,Malpighiales
+Populus euphratica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3804846.0,Populus euphratica,Salicaceae,Malpighiales
+Porana paniculata,EXACT,100.0,SPECIES,SYNONYM,Plantae,2928472.0,Poranopsis paniculata,Convolvulaceae,Solanales
+Portulaca oleracea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3084719.0,Portulaca oleracea,Portulacaceae,Caryophyllales
+Portulaca quadrifida,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3084699.0,Portulaca quadrifida,Portulacaceae,Caryophyllales
+Potentilla fulgens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8322396.0,Potentilla fulgens,Rosaceae,Rosales
+Pouzolzia pentandra,EXACT,100.0,SPECIES,SYNONYM,Plantae,4100866.0,Gonostegia pentandra,Urticaceae,Rosales
+Prangos pabularia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,6026426.0,Prangos pabularia,Apiaceae,Apiales
+Premna herbacea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3897506.0,Premna herbacea,Lamiaceae,Lamiales
+Premna integrifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,6411486.0,Premna serratifolia,Lamiaceae,Lamiales
+Premna mucronata,EXACT,100.0,SPECIES,SYNONYM,Plantae,3896962.0,Premna mollissima,Lamiaceae,Lamiales
+Premna obtusifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,6411486.0,Premna serratifolia,Lamiaceae,Lamiales
+Primula reticulata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7290656.0,Primula reticulata,Primulaceae,Ericales
+Prinsepia utilis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3025406.0,Prinsepia utilis,Rosaceae,Rosales
+Prosopis cineraria,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5358521.0,Prosopis cineraria,Fabaceae,Fabales
+Prosopis stephaniana,EXACT,100.0,SPECIES,SYNONYM,Plantae,5358492.0,Prosopis farcta,Fabaceae,Fabales
+Prunus cerasoides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3021409.0,Prunus cerasoides,Rosaceae,Rosales
+Prunus persica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8149923.0,Prunus persica,Rosaceae,Rosales
+Prunus puddum,EXACT,100.0,SPECIES,SYNONYM,Plantae,3021409.0,Prunus cerasoides,Rosaceae,Rosales
+Psidium guajava,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5420380.0,Psidium guajava,Myrtaceae,Myrtales
+Psoralea corylifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,2948930.0,Cullen corylifolium,Fabaceae,Fabales
+Pterocarpus indicus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5349242.0,Pterocarpus indicus,Fabaceae,Fabales
+Pterocarpus marsupium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5349309.0,Pterocarpus marsupium,Fabaceae,Fabales
+Pterocarpus santalinus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5708628.0,Pterocarpus santalinus,Fabaceae,Fabales
+Pterospermum acerifolium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3669210.0,Pterospermum acerifolium,Malvaceae,Malvales
+Pterygota alata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7161901.0,Pterygota alata,Malvaceae,Malvales
+Pueraria tuberosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2977609.0,Pueraria tuberosa,Fabaceae,Fabales
+Punica granatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5420901.0,Punica granatum,Lythraceae,Myrtales
+Putranjiva roxburghii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3076079.0,Putranjiva roxburghii,Putranjivaceae,Malpighiales
+Pycnocycla glauca,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3641195.0,Pycnocycla glauca,Apiaceae,Apiales
+Pygeum gardneri,EXACT,100.0,SPECIES,SYNONYM,Plantae,3023388.0,Prunus ceylanica,Rosaceae,Rosales
+Pyrus communis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5362573.0,Pyrus communis,Rosaceae,Rosales
+Pyrus pashia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5362639.0,Pyrus pashia,Rosaceae,Rosales
+Quassia indica,EXACT,100.0,SPECIES,SYNONYM,Plantae,3190660.0,Samadera indica,Simaroubaceae,Sapindales
+Quercus lusitanica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2881060.0,Quercus lusitanica,Fagaceae,Fagales
+Radermachera xylocarpa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4092103.0,Radermachera xylocarpa,Bignoniaceae,Lamiales
+Randia dumetorum,EXACT,100.0,SPECIES,SYNONYM,Plantae,2910886.0,Catunaregam spinosa,Rubiaceae,Gentianales
+Randia uliginosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,2891981.0,Tamilnadia uliginosa,Rubiaceae,Gentianales
+Raphanus sativus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7678610.0,Raphanus sativus,Brassicaceae,Brassicales
+Rauvolfia serpentina,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3169787.0,Rauvolfia serpentina,Apocynaceae,Gentianales
+Reaumuria hypericoides,EXACT,100.0,SPECIES,SYNONYM,Plantae,5535211.0,Reaumuria alternifolia,Tamaricaceae,Caryophyllales
+Reinwardtia indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5658009.0,Reinwardtia indica,Linaceae,Malpighiales
+Rhamnus napalensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4928522.0,Rhamnus napalensis,Rhamnaceae,Rosales
+Rhamnus pentapomica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3876137.0,Rhamnus pentapomica,Rhamnaceae,Rosales
+Rhamnus purpurea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3875682.0,Rhamnus purpurea,Rhamnaceae,Rosales
+Rhamnus triquetra,EXACT,100.0,SPECIES,ACCEPTED,Plantae,12256834.0,Rhamnus triquetra,Rhamnaceae,Rosales
+Rhamnus virgata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7273971.0,Rhamnus virgata,Rhamnaceae,Rosales
+Rhamnus wightii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3877053.0,Rhamnus wightii,Rhamnaceae,Rosales
+Rheum emodi,EXACT,100.0,SPECIES,SYNONYM,Plantae,4038150.0,Rheum australe,Polygonaceae,Caryophyllales
+Rheum moorcroftianum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4037741.0,Rheum moorcroftianum,Polygonaceae,Caryophyllales
+Rheum nobile,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4037708.0,Rheum nobile,Polygonaceae,Caryophyllales
+Rheum rhaponticum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2888866.0,Rheum rhaponticum,Polygonaceae,Caryophyllales
+Rheum spiciforme,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4037435.0,Rheum spiciforme,Polygonaceae,Caryophyllales
+Rheum webbianum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4928642.0,Rheum webbianum,Polygonaceae,Caryophyllales
+Rhododendron anthopogon,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7689788.0,Rhododendron anthopogon,Ericaceae,Ericales
+Rhododendron arboreum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7328114.0,Rhododendron arboreum,Ericaceae,Ericales
+Rhododendron barbatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7328036.0,Rhododendron barbatum,Ericaceae,Ericales
+Rhododendron campanulatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7327918.0,Rhododendron campanulatum,Ericaceae,Ericales
+Rhododendron chrysanthum,EXACT,100.0,SPECIES,SYNONYM,Plantae,7644878.0,Rhododendron aureum,Ericaceae,Ericales
+Rhododendron cinnabarinum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7327797.0,Rhododendron cinnabarinum,Ericaceae,Ericales
+Rhododendron falconeri,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7327519.0,Rhododendron falconeri,Ericaceae,Ericales
+Rhus succedanea,EXACT,100.0,SPECIES,SYNONYM,Plantae,3190624.0,Toxicodendron succedaneum,Anacardiaceae,Sapindales
+Rhynchostylis retusa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5315188.0,Rhynchostylis retusa,Orchidaceae,Asparagales
+Ricinus communis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5380041.0,Ricinus communis,Euphorbiaceae,Malpighiales
+Rivea hypocrateriformis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3678725.0,Rivea hypocrateriformis,Convolvulaceae,Solanales
+Rivea ornata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7462487.0,Rivea ornata,Convolvulaceae,Solanales
+Rivina humilis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3084027.0,Rivina humilis,Phytolaccaceae,Caryophyllales
+Rosa centifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3002410.0,Rosa centifolia,Rosaceae,Rosales
+Rosa damascena,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7390572.0,Rosa damascena,Rosaceae,Rosales
+Rosa indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8342804.0,Rosa indica,Rosaceae,Rosales
+Rosa longicuspis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3005689.0,Rosa longicuspis,Rosaceae,Rosales
+Rosa multiflora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3003244.0,Rosa multiflora,Rosaceae,Rosales
+Roscoea purpurea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5301320.0,Roscoea purpurea,Zingiberaceae,Zingiberales
+Rotula aquatica,EXACT,100.0,SPECIES,SYNONYM,Plantae,4067141.0,Ehretia aquatica,Ehretiaceae,Boraginales
+Rourea minor,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7780480.0,Rourea minor,Connaraceae,Oxalidales
+Roylea cinerea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3887267.0,Roylea cinerea,Lamiaceae,Lamiales
+Rubia cordifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2892192.0,Rubia cordifolia,Rubiaceae,Gentianales
+Rubus ellipticus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2991314.0,Rubus ellipticus,Rosaceae,Rosales
+Rubus fruticosus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8436459.0,Rubus fruticosus,Rosaceae,Rosales
+Rubus moluccanus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2993394.0,Rubus moluccanus,Rosaceae,Rosales
+Ruellia longifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7721906.0,Ruellia longifolia,Acanthaceae,Lamiales
+Rumex acetosella,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2888995.0,Rumex acetosella,Polygonaceae,Caryophyllales
+Rumex hastatus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7739918.0,Rumex hastatus,Polygonaceae,Caryophyllales
+Rumex maritimus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2888980.0,Rumex maritimus,Polygonaceae,Caryophyllales
+Rumex nepalensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7291884.0,Rumex nepalensis,Polygonaceae,Caryophyllales
+Rumex vesicarius,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2888986.0,Rumex vesicarius,Polygonaceae,Caryophyllales
+Rungia pectinata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3780135.0,Rungia pectinata,Acanthaceae,Lamiales
+Rungia repens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7936204.0,Rungia repens,Acanthaceae,Lamiales
+Saccolabium papillosum,EXACT,100.0,SPECIES,SYNONYM,Plantae,2781961.0,Acampe praemorsa,Orchidaceae,Asparagales
+Salacia chinensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5414293.0,Salacia chinensis,Celastraceae,Celastrales
+Salix acmophylla,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7266388.0,Salix acmophylla,Salicaceae,Malpighiales
+Salix tetrasperma,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5582578.0,Salix tetrasperma,Salicaceae,Malpighiales
+Salvadora persica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5580727.0,Salvadora persica,Salvadoraceae,Brassicales
+Sambucus wrightiana,NONE,,,,,,,,
+Sansevieria zeylanica,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Asparagaceae,Asparagales
+Santalum album,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2889785.0,Santalum album,Santalaceae,Santalales
+Sapindus mukorossi,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5421133.0,Sapindus mukorossi,Sapindaceae,Sapindales
+Sapindus trifoliatus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5421131.0,Sapindus trifoliatus,Sapindaceae,Sapindales
+Saraca asoca,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7458904.0,Saraca asoca,Fabaceae,Fabales
+Saraca indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5359538.0,Saraca indica,Fabaceae,Fabales
+Sarcandra glabra,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7339073.0,Sarcandra glabra,Chloranthaceae,Chloranthales
+Sarcostemma viminale,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Apocynaceae,Gentianales
+Saurauia roxburghii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3644350.0,Saurauia roxburghii,Actinidiaceae,Ericales
+Sauropus quadrangularis,EXACT,100.0,SPECIES,SYNONYM,Plantae,9422573.0,Breynia quadrangularis,Phyllanthaceae,Malpighiales
+Saussurea auriculata,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Asteraceae,Asterales
+Saussurea heteromalla,EXACT,100.0,SPECIES,SYNONYM,Plantae,11245584.0,Jurinea heteromalla,Asteraceae,Asterales
+Saussurea hypoleuca,EXACT,100.0,SPECIES,SYNONYM,Plantae,11285218.0,Jurinea auriculata,Asteraceae,Asterales
+Saussurea lappa,EXACT,100.0,SPECIES,SYNONYM,Plantae,10864861.0,Dolomiaea costus,Asteraceae,Asterales
+Scaevola koenigii,EXACT,100.0,SPECIES,SYNONYM,Plantae,6358362.0,Scaevola taccada,Goodeniaceae,Asterales
+Scaphium scaphigerum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5835379.0,Scaphium scaphigerum,Malvaceae,Malvales
+Schefflera hypoleuca,EXACT,100.0,SPECIES,SYNONYM,Plantae,3038788.0,Heptapleurum hypoleucum,Araliaceae,Apiales
+Schefflera venulosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,3038373.0,Heptapleurum venulosum,Araliaceae,Apiales
+Schima wallichii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7493943.0,Schima wallichii,Theaceae,Ericales
+Schleichera oleosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3189945.0,Schleichera oleosa,Sapindaceae,Sapindales
+Scindapsus officinalis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2873716.0,Scindapsus officinalis,Araceae,Alismatales
+Scirpus articulatus,EXACT,100.0,SPECIES,SYNONYM,Plantae,2710683.0,Schoenoplectiella articulata,Cyperaceae,Poales
+Scirpus grossus,EXACT,100.0,SPECIES,SYNONYM,Plantae,2710499.0,Actinoscirpus grossus,Cyperaceae,Poales
+Scirpus rotundus,NONE,,,,,,,,
+Scleria levis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2712752.0,Scleria levis,Cyperaceae,Poales
+Scopolia anomala,EXACT,100.0,SPECIES,SYNONYM,Plantae,3803433.0,Anisodus stramoniifolius,Solanaceae,Solanales
+Scutia myrtina,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8317476.0,Scutia myrtina,Rhamnaceae,Rosales
+Securinega virosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,5382823.0,Flueggea virosa,Phyllanthaceae,Malpighiales
+Selaginella involvens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4940372.0,Selaginella involvens,Selaginellaceae,Selaginellales
+Selaginella tamariscina,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4940390.0,Selaginella tamariscina,Selaginellaceae,Selaginellales
+Selinum tenuifolium,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Apiaceae,Apiales
+Selinum wallichianum,EXACT,100.0,SPECIES,SYNONYM,Plantae,3640486.0,Ligusticopsis wallichiana,Apiaceae,Apiales
+Semecarpus anacardium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7360607.0,Semecarpus anacardium,Anacardiaceae,Sapindales
+Semecarpus obovata,FUZZY,98.0,SPECIES,ACCEPTED,Plantae,3659703.0,Semecarpus obovatus,Anacardiaceae,Sapindales
+Semecarpus subpeltata,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,3662775.0,Semecarpus subpeltatus,Anacardiaceae,Sapindales
+Senecio densiflorus,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Asteraceae,Asterales
+Senecio jacquemontianus,EXACT,100.0,SPECIES,SYNONYM,Plantae,5395491.0,Ligularia jacquemontiana,Asteraceae,Asterales
+Senecio nudicaulis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7730046.0,Senecio nudicaulis,Asteraceae,Asterales
+Senecio quinquelobus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7424296.0,Senecio quinquelobus,Asteraceae,Asterales
+Senecio tenuifolius,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8402965.0,Senecio tenuifolius,Asteraceae,Asterales
+Sesamum indicum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3172622.0,Sesamum indicum,Pedaliaceae,Lamiales
+Sesamum inndicum,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,3172622.0,Sesamum indicum,Pedaliaceae,Lamiales
+Sesbania aegyptiaca,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2970650.0,Sesbania aegyptiaca,Fabaceae,Fabales
+Sesbania roxburghii,EXACT,100.0,SPECIES,SYNONYM,Plantae,2970721.0,Sesbania bispinosa,Fabaceae,Fabales
+Sesbania sesban,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2970648.0,Sesbania sesban,Fabaceae,Fabales
+Seseli diffusum,EXACT,100.0,SPECIES,SYNONYM,Plantae,12191072.0,Psammogeton diffusum,Apiaceae,Apiales
+Seseli indicum,EXACT,100.0,SPECIES,SYNONYM,Plantae,12191072.0,Psammogeton diffusum,Apiaceae,Apiales
+Seseli sibiricum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8406376.0,Seseli sibiricum,Apiaceae,Apiales
+Setaria verticillata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5289686.0,Setaria verticillata,Poaceae,Poales
+Shorea robbusta,FUZZY,98.0,SPECIES,ACCEPTED,Plantae,3189684.0,Shorea robusta,Dipterocarpaceae,Malvales
+Shorea robusta,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3189684.0,Shorea robusta,Dipterocarpaceae,Malvales
+Sida acuta,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3933670.0,Sida acuta,Malvaceae,Malvales
+Sida cordifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5406755.0,Sida cordifolia,Malvaceae,Malvales
+Sida retusa,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Malvaceae,Malvales
+Sida rhmoboidea,NONE,,,,,,,,
+Sida rhombifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5406735.0,Sida rhombifolia,Malvaceae,Malvales
+Sida rhomboidea,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Malvaceae,Malvales
+Sida spinosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5406741.0,Sida spinosa,Malvaceae,Malvales
+Sida veronicaefolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,5406739.0,Sida cordata,Malvaceae,Malvales
+Siegesbeckia orientalis,EXACT,100.0,SPECIES,SYNONYM,Plantae,3125901.0,Sigesbeckia orientalis,Asteraceae,Asterales
+Silybum marianum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3145214.0,Silybum marianum,Asteraceae,Asterales
+Skimmia laurifolia,NONE,,,,,,,,
+Smilax china,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5295472.0,Smilax china,Smilacaceae,Liliales
+Smilax ferox,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5295764.0,Smilax ferox,Smilacaceae,Liliales
+Smilax glabra,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5295506.0,Smilax glabra,Smilacaceae,Liliales
+Smilax glaucophylla,EXACT,100.0,SPECIES,SYNONYM,Plantae,5295161.0,Smilax elegans,Smilacaceae,Liliales
+Smilax lanceifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5295425.0,Smilax lanceifolia,Smilacaceae,Liliales
+Smilax ocreata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5295221.0,Smilax ocreata,Smilacaceae,Liliales
+Smilax ovalifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5295082.0,Smilax ovalifolia,Smilacaceae,Liliales
+Smilax perfoliata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5295267.0,Smilax perfoliata,Smilacaceae,Liliales
+Smilax zeylanica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5295128.0,Smilax zeylanica,Smilacaceae,Liliales
+Solanum aculeatissimum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2929394.0,Solanum aculeatissimum,Solanaceae,Solanales
+Solanum ferox,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Solanaceae,Solanales
+Solanum gracilipes,EXACT,100.0,SPECIES,SYNONYM,Plantae,2930606.0,Solanum cordatum,Solanaceae,Solanales
+Solanum indicum,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Solanaceae,Solanales
+Solanum jacquinii,EXACT,100.0,SPECIES,SYNONYM,Plantae,2929920.0,Solanum virginianum,Solanaceae,Solanales
+Solanum khasianum,EXACT,100.0,SPECIES,SYNONYM,Plantae,2929394.0,Solanum aculeatissimum,Solanaceae,Solanales
+Solanum melongena,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2930617.0,Solanum melongena,Solanaceae,Solanales
+Solanum nigrum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,9150405.0,Solanum nigrum,Solanaceae,Solanales
+Solanum surattense,EXACT,100.0,SPECIES,SYNONYM,Plantae,2929920.0,Solanum virginianum,Solanaceae,Solanales
+Solanum surattensis,FUZZY,99.0,SPECIES,SYNONYM,Plantae,2929920.0,Solanum virginianum,Solanaceae,Solanales
+Solanum surettense,NONE,,,,,,,,
+Solanum torvum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2932389.0,Solanum torvum,Solanaceae,Solanales
+Solanum trilobatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2931071.0,Solanum trilobatum,Solanaceae,Solanales
+Solanum xanthocarpum,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Solanaceae,Solanales
+Sonerila tenera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3870220.0,Sonerila tenera,Melastomataceae,Myrtales
+Sonneratia caseolaris,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5635606.0,Sonneratia caseolaris,Lythraceae,Myrtales
+Sorghum bicolor,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2705181.0,Sorghum bicolor,Poaceae,Poales
+Soymida febrifuga,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3850622.0,Soymida febrifuga,Meliaceae,Sapindales
+Spatholobus roxburghii,EXACT,100.0,SPECIES,SYNONYM,Plantae,2977014.0,Spatholobus parviflorus,Fabaceae,Fabales
+Spermacoce hispida,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2916044.0,Spermacoce hispida,Rubiaceae,Gentianales
+Sphaeranthus africanus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7729020.0,Sphaeranthus africanus,Asteraceae,Asterales
+Sphaeranthus hirtus,EXACT,100.0,SPECIES,SYNONYM,Plantae,8302135.0,Sphaeranthus indicus,Asteraceae,Asterales
+Sphaeranthus indicus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8302135.0,Sphaeranthus indicus,Asteraceae,Asterales
+Spilanthes acmella,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7367845.0,Spilanthes acmella,Asteraceae,Asterales
+Spilanthes calva,EXACT,100.0,SPECIES,SYNONYM,Plantae,5386744.0,Acmella calva,Asteraceae,Asterales
+Spilanthes oleracea,EXACT,100.0,SPECIES,SYNONYM,Plantae,5386764.0,Acmella oleracea,Asteraceae,Asterales
+Spilanthes paniculata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,9740476.0,Spilanthes paniculata,Asteraceae,Asterales
+Spondias pinnata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3661030.0,Spondias pinnata,Anacardiaceae,Sapindales
+Sporobolus helveolus,NONE,,,,,,,,
+Stachytarpheta jamaicensis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2925463.0,Stachytarpheta jamaicensis,Verbenaceae,Lamiales
+Stephania glabra,EXACT,100.0,SPECIES,SYNONYM,Plantae,5592764.0,Stephania rotunda,Menispermaceae,Ranunculales
+Stephania hernandifolia,FUZZY,99.0,SPECIES,SYNONYM,Plantae,7268792.0,Stephania japonica,Menispermaceae,Ranunculales
+Stephegyne parvifolia,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Rubiaceae,Gentianales
+Sterculia rubiginosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8209772.0,Sterculia rubiginosa,Malvaceae,Malvales
+Sterculia urens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5406674.0,Sterculia urens,Malvaceae,Malvales
+Sterculia villosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7661319.0,Sterculia villosa,Malvaceae,Malvales
+Stereospermum personatum,EXACT,100.0,SPECIES,SYNONYM,Plantae,7298473.0,Stereospermum colais,Bignoniaceae,Lamiales
+Stereospermum suaveolens,EXACT,100.0,SPECIES,SYNONYM,Plantae,4092354.0,Stereospermum chelonoides,Bignoniaceae,Lamiales
+Stipa sibirica,EXACT,100.0,SPECIES,SYNONYM,Plantae,4141276.0,Achnatherum sibiricum,Poaceae,Poales
+Streblus asper,EXACT,100.0,SPECIES,ACCEPTED,Plantae,10242935.0,Streblus asper,Moraceae,Rosales
+Streblus taxoides,EXACT,100.0,SPECIES,SYNONYM,Plantae,11138557.0,Taxotrophis taxoides,Moraceae,Rosales
+Strobilanthes callosus,FUZZY,98.0,SPECIES,ACCEPTED,Plantae,3781786.0,Strobilanthes callosa,Acanthaceae,Lamiales
+Strophanthus hispidus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3169609.0,Strophanthus hispidus,Apocynaceae,Gentianales
+Strophanthus kombe,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3169614.0,Strophanthus kombe,Apocynaceae,Gentianales
+Strychnos colubrina,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Loganiaceae,Gentianales
+Strychnos ignatius,FUZZY,99.0,SPECIES,SYNONYM,Plantae,5645763.0,Strychnos ignatii,Loganiaceae,Gentianales
+Strychnos nux-vomica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5414399.0,Strychnos nux-vomica,Loganiaceae,Gentianales
+Strychnos potatorum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7725922.0,Strychnos potatorum,Loganiaceae,Gentianales
+Suaeda fruticosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3083537.0,Suaeda fruticosa,Amaranthaceae,Caryophyllales
+Swertia cherayta,NONE,,,,,,,,
+Swertia chirata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5596317.0,Swertia chirata,Gentianaceae,Gentianales
+Swertia chirayita,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7419749.0,Swertia chirayita,Gentianaceae,Gentianales
+Symplocos laurina,EXACT,100.0,SPECIES,SYNONYM,Plantae,3643394.0,Symplocos acuminata,Symplocaceae,Ericales
+Symplocos racemosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7902154.0,Symplocos racemosa,Symplocaceae,Ericales
+Symplocos spicata,EXACT,100.0,SPECIES,SYNONYM,Plantae,3643394.0,Symplocos acuminata,Symplocaceae,Ericales
+Symplocos theaefolia,NONE,,,,,,,,
+Syzygium cumini,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3183840.0,Syzygium cumini,Myrtaceae,Myrtales
+Syzygium operculatum,EXACT,100.0,SPECIES,SYNONYM,Plantae,3184115.0,Syzygium nervosum,Myrtaceae,Myrtales
+Tabernaemontana coronaria,EXACT,100.0,SPECIES,SYNONYM,Plantae,3169625.0,Tabernaemontana divaricata,Apocynaceae,Gentianales
+Tagetes erecta,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3088488.0,Tagetes erecta,Asteraceae,Asterales
+Talauma hodgsonii,EXACT,100.0,SPECIES,SYNONYM,Plantae,3153060.0,Magnolia hodgsonii,Magnoliaceae,Magnoliales
+Talinum portulacifolium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4022012.0,Talinum portulacifolium,Talinaceae,Caryophyllales
+Talinum triangulare,EXACT,100.0,SPECIES,SYNONYM,Plantae,3084670.0,Talinum fruticosum,Talinaceae,Caryophyllales
+Tamarindus indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2975768.0,Tamarindus indica,Fabaceae,Fabales
+Tamarix indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3613074.0,Tamarix indica,Tamaricaceae,Caryophyllales
+Tamarix troupii,EXACT,100.0,SPECIES,SYNONYM,Plantae,3613074.0,Tamarix indica,Tamaricaceae,Caryophyllales
+Tanacetum fruticulosum,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Asteraceae,Asterales
+Taraktogenos kurzii,EXACT,100.0,SPECIES,SYNONYM,Plantae,2874151.0,Hydnocarpus kurzii,Achariaceae,Malpighiales
+Taraxacum officinale,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5394163.0,Taraxacum officinale,Asteraceae,Asterales
+Taxus baccata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5284517.0,Taxus baccata,Taxaceae,Pinales
+Tephrosia bracteolata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5341974.0,Tephrosia bracteolata,Fabaceae,Fabales
+Tephrosia candida,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5342186.0,Tephrosia candida,Fabaceae,Fabales
+Tephrosia grandiflora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5342270.0,Tephrosia grandiflora,Fabaceae,Fabales
+Tephrosia hamiltonii,EXACT,100.0,SPECIES,SYNONYM,Plantae,5342239.0,Tephrosia purpurea,Fabaceae,Fabales
+Tephrosia hirta,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Fabaceae,Fabales
+Tephrosia noctiflora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5342209.0,Tephrosia noctiflora,Fabaceae,Fabales
+Tephrosia procumbens,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Fabaceae,Fabales
+Tephrosia purpurea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5342239.0,Tephrosia purpurea,Fabaceae,Fabales
+Tephrosia vogelii,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5342354.0,Tephrosia vogelii,Fabaceae,Fabales
+Teramnus labialis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8777864.0,Teramnus labialis,Fabaceae,Fabales
+Terminalia arjuna,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3699548.0,Terminalia arjuna,Combretaceae,Myrtales
+Terminalia belerica,NONE,,,,,,,,
+Terminalia bellerica,NONE,,,,,,,,
+Terminalia bellirica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3189390.0,Terminalia bellirica,Combretaceae,Myrtales
+Terminalia catappa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3189394.0,Terminalia catappa,Combretaceae,Myrtales
+Terminalia chebula,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3189388.0,Terminalia chebula,Combretaceae,Myrtales
+Terminalia coriacea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3698353.0,Terminalia coriacea,Combretaceae,Myrtales
+Terminalia tomentosa,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Combretaceae,Myrtales
+Ternstroemia gymnanthera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3591610.0,Ternstroemia gymnanthera,Pentaphylacaceae,Ericales
+Tetracera scandens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7370317.0,Tetracera scandens,Dilleniaceae,Dilleniales
+Teucrium polium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3887764.0,Teucrium polium,Lamiaceae,Lamiales
+Thalictrum foliolosum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8317447.0,Thalictrum foliolosum,Ranunculaceae,Ranunculales
+Thalictrum javanicum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7277787.0,Thalictrum javanicum,Ranunculaceae,Ranunculales
+Thalictrum neurocarpum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3927155.0,Thalictrum neurocarpum,Ranunculaceae,Ranunculales
+Thecostele alata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8395121.0,Thecostele alata,Orchidaceae,Asparagales
+Thelepogon elegans,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4126446.0,Thelepogon elegans,Poaceae,Poales
+Themeda gigantea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2703474.0,Themeda gigantea,Poaceae,Poales
+Thespesia lampas,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7279053.0,Thespesia lampas,Malvaceae,Malvales
+Thevetia neriifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,3169652.0,Cascabela thevetia,Apocynaceae,Gentianales
+Thysanolaena maxima,EXACT,100.0,SPECIES,SYNONYM,Plantae,4124764.0,Thysanolaena latifolia,Poaceae,Poales
+Tinospora cordifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7520328.0,Tinospora cordifolia,Menispermaceae,Ranunculales
+Tinospora malabarica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7848454.0,Tinospora malabarica,Menispermaceae,Ranunculales
+Toddalia aculeata,EXACT,100.0,SPECIES,SYNONYM,Plantae,10789822.0,Zanthoxylum asiaticum,Rutaceae,Sapindales
+Trachelospermum lucidum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7317017.0,Trachelospermum lucidum,Apocynaceae,Gentianales
+Trachyspermum ammi,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3034241.0,Trachyspermum ammi,Apiaceae,Apiales
+Trachyspermum roxburghianum,EXACT,100.0,SPECIES,SYNONYM,Plantae,11442972.0,Psammogeton involucratum,Apiaceae,Apiales
+Tragia involucrata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3061610.0,Tragia involucrata,Euphorbiaceae,Malpighiales
+Tragia muelleriana,EXACT,100.0,SPECIES,SYNONYM,Plantae,3061559.0,Tragia montana,Euphorbiaceae,Malpighiales
+Trapa bispinosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,3188757.0,Trapa natans,Lythraceae,Myrtales
+Trianthema pentandra,FUZZY,99.0,SPECIES,SYNONYM,Plantae,7329156.0,Zaleya pentandra,Aizoaceae,Caryophyllales
+Tribulus terrestris,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5421116.0,Tribulus terrestris,Zygophyllaceae,Zygophyllales
+Tricholepis glaberrima,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5391135.0,Tricholepis glaberrima,Asteraceae,Asterales
+Tricholepis glaberrimum,FUZZY,99.0,SPECIES,ACCEPTED,Plantae,5391135.0,Tricholepis glaberrima,Asteraceae,Asterales
+Trichosanthes anguina,EXACT,100.0,SPECIES,SYNONYM,Plantae,2874605.0,Trichosanthes cucumerina,Cucurbitaceae,Cucurbitales
+Trichosanthes cordata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7404797.0,Trichosanthes cordata,Cucurbitaceae,Cucurbitales
+Trichosanthes cucumerina,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2874605.0,Trichosanthes cucumerina,Cucurbitaceae,Cucurbitales
+Trichosanthes dioica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2874607.0,Trichosanthes dioica,Cucurbitaceae,Cucurbitales
+Trichosanthes palmata,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Cucurbitaceae,Cucurbitales
+Trigonella foenum-graecum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5360475.0,Trigonella foenum-graecum,Fabaceae,Fabales
+Trigonella spicata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5360410.0,Trigonella spicata,Fabaceae,Fabales
+Triticum aestivum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7795888.0,Triticum aestivum,Poaceae,Poales
+Triumfetta rhomboidea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3152069.0,Triumfetta rhomboidea,Malvaceae,Malvales
+Tylophora fasciculata,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Apocynaceae,Gentianales
+Tylophora longifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,5525536.0,Vincetoxicum longifolium,Apocynaceae,Gentianales
+Typha angustata,EXACT,100.0,SPECIES,SYNONYM,Plantae,5289534.0,Typha domingensis,Typhaceae,Poales
+Typhonium orixense,EXACT,100.0,SPECIES,SYNONYM,Plantae,2869559.0,Typhonium trilobatum,Araceae,Alismatales
+Typhonium trilobatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2869559.0,Typhonium trilobatum,Araceae,Alismatales
+Uraria lagopodioides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2956550.0,Uraria lagopodioides,Fabaceae,Fabales
+Uraria logopodioides,NONE,,,,,,,,
+Uraria picta,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2956572.0,Uraria picta,Fabaceae,Fabales
+Urena lobata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3152253.0,Urena lobata,Malvaceae,Malvales
+Urena sinuata,EXACT,100.0,SPECIES,SYNONYM,Plantae,7278922.0,Urena procumbens,Malvaceae,Malvales
+Urginea indica,EXACT,100.0,SPECIES,SYNONYM,Plantae,2776661.0,Drimia indica,Asparagaceae,Asparagales
+Urginea maritima,EXACT,100.0,SPECIES,SYNONYM,Plantae,2776790.0,Drimia maritima,Asparagaceae,Asparagales
+Urtica dioica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7960979.0,Urtica dioica,Urticaceae,Rosales
+Urtica parviflora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5670752.0,Urtica parviflora,Urticaceae,Rosales
+Utricularia bifida,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3172406.0,Utricularia bifida,Lentibulariaceae,Lamiales
+Utricularia caerulea,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3172441.0,Utricularia caerulea,Lentibulariaceae,Lamiales
+Uvaria crinita,NONE,,,,,,,,
+Uvaria micrantha,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3156914.0,Uvaria micrantha,Annonaceae,Magnoliales
+Valeriana hardwickii,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Caprifoliaceae,Dipsacales
+Valeriana jatamansi,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8213018.0,Valeriana jatamansi,Caprifoliaceae,Dipsacales
+Valeriana wallichii,EXACT,100.0,SPECIES,SYNONYM,Plantae,8213018.0,Valeriana jatamansi,Caprifoliaceae,Dipsacales
+Vallaris heynei,EXACT,100.0,SPECIES,SYNONYM,Plantae,5535699.0,Vallaris solanacea,Apocynaceae,Gentianales
+Vanda roxburghii,EXACT,100.0,SPECIES,SYNONYM,Plantae,2783229.0,Vanda tessellata,Orchidaceae,Asparagales
+Vateria indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3189688.0,Vateria indica,Dipterocarpaceae,Malvales
+Ventilago calyculata,EXACT,100.0,SPECIES,SYNONYM,Plantae,7273609.0,Ventilago denticulata,Rhamnaceae,Rosales
+Verbascum thapsus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3171949.0,Verbascum thapsus,Scrophulariaceae,Lamiales
+Vernonia anthelmintica,EXACT,100.0,SPECIES,SYNONYM,Plantae,3087253.0,Baccharoides anthelmintica,Asteraceae,Asterales
+Vernonia cinerea,EXACT,100.0,SPECIES,SYNONYM,Plantae,6445734.0,Cyanthillium cinereum,Asteraceae,Asterales
+Vernonia javanica,EXACT,100.0,SPECIES,SYNONYM,Plantae,3125210.0,Strobocalyx arborea,Asteraceae,Asterales
+Veronica beccabunga,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3172062.0,Veronica beccabunga,Plantaginaceae,Lamiales
+Vetiveria zizanioides,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7352653.0,Vetiveria zizanioides,Poaceae,Poales
+Vicoa indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3146542.0,Vicoa indica,Asteraceae,Asterales
+Vigna cylindrica,EXACT,100.0,SPECIES,SYNONYM,Plantae,2982583.0,Vigna unguiculata,Fabaceae,Fabales
+Vigna mungo,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2982533.0,Vigna mungo,Fabaceae,Fabales
+Vigna unguiculata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2982583.0,Vigna unguiculata,Fabaceae,Fabales
+Vigna vexillata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2982409.0,Vigna vexillata,Fabaceae,Fabales
+Viola canescens,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5664083.0,Viola canescens,Violaceae,Malpighiales
+Viola odorata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5331181.0,Viola odorata,Violaceae,Malpighiales
+Viola pilosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5665503.0,Viola pilosa,Violaceae,Malpighiales
+Viola serpens,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Violaceae,Malpighiales
+Viscum album,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2889828.0,Viscum album,Viscaceae,Santalales
+Viscum articulatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,4068797.0,Viscum articulatum,Viscaceae,Santalales
+Viscum orientale,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8150485.0,Viscum orientale,Viscaceae,Santalales
+Vitex agnus-castus,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2925562.0,Vitex agnus-castus,Lamiaceae,Lamiales
+Vitex leucoxylon,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7309443.0,Vitex leucoxylon,Lamiaceae,Lamiales
+Vitex negundo,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2925564.0,Vitex negundo,Lamiaceae,Lamiales
+Vitex peduncularis,EXACT,100.0,SPECIES,ACCEPTED,Plantae,8188339.0,Vitex peduncularis,Lamiaceae,Lamiales
+Vitex trifolia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2925561.0,Vitex trifolia,Lamiaceae,Lamiales
+Vitis setosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7860171.0,Vitis setosa,Vitaceae,Vitales
+Vitis trifolia,EXACT,100.0,SPECIES,SYNONYM,Plantae,10995009.0,Causonis trifolia,Vitaceae,Vitales
+Walsura piscidia,EXACT,100.0,SPECIES,SYNONYM,Plantae,7271382.0,Walsura trifoliolata,Meliaceae,Sapindales
+Wedelia calendulacea,HIGHERRANK,100.0,FAMILY,ACCEPTED,Plantae,,,Asteraceae,Asterales
+Wendlandia tinctoria,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5338713.0,Wendlandia tinctoria,Rubiaceae,Gentianales
+Wikstroemia indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5524676.0,Wikstroemia indica,Thymelaeaceae,Malvales
+Withania coagulans,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3801167.0,Withania coagulans,Solanaceae,Solanales
+Withania somnifera,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2928840.0,Withania somnifera,Solanaceae,Solanales
+Woodfordia floribunda,EXACT,100.0,SPECIES,SYNONYM,Plantae,5635525.0,Woodfordia fruticosa,Lythraceae,Myrtales
+Woodfordia fruticosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5635525.0,Woodfordia fruticosa,Lythraceae,Myrtales
+Wrightia tinctoria,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5536686.0,Wrightia tinctoria,Apocynaceae,Gentianales
+Wrightia tomentosa,EXACT,100.0,SPECIES,SYNONYM,Plantae,5535418.0,Wrightia arborea,Apocynaceae,Gentianales
+Xanthium indicum,EXACT,100.0,SPECIES,SYNONYM,Plantae,3089154.0,Xanthium strumarium,Asteraceae,Asterales
+Xanthium spinosum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3089150.0,Xanthium spinosum,Asteraceae,Asterales
+Xanthium strumarium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3089154.0,Xanthium strumarium,Asteraceae,Asterales
+Xantolis tomentosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2883960.0,Xantolis tomentosa,Sapotaceae,Ericales
+Ximenia americana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2889811.0,Ximenia americana,Ximeniaceae,Santalales
+Xylopia parvifolia,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Annonaceae,Magnoliales
+Xyris complanata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2693047.0,Xyris complanata,Xyridaceae,Poales
+Xyris indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2692701.0,Xyris indica,Xyridaceae,Poales
+Xyris pauciflora,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2692968.0,Xyris pauciflora,Xyridaceae,Poales
+Yucca gloriosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2775619.0,Yucca gloriosa,Asparagaceae,Asparagales
+Zanonia indica,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7317904.0,Zanonia indica,Cucurbitaceae,Cucurbitales
+Zanthoxylum acanthopodium,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7269121.0,Zanthoxylum acanthopodium,Rutaceae,Sapindales
+Zanthoxylum alatum,HIGHERRANK,100.0,GENUS,ACCEPTED,Plantae,,,Rutaceae,Sapindales
+Zanthoxylum armatum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7716390.0,Zanthoxylum armatum,Rutaceae,Sapindales
+Zanthoxylum limonella,EXACT,100.0,SPECIES,SYNONYM,Plantae,3834800.0,Zanthoxylum rhetsa,Rutaceae,Sapindales
+Zanthoxylum tetraspermum,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3833741.0,Zanthoxylum tetraspermum,Rutaceae,Sapindales
+Zea mays,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5290052.0,Zea mays,Poaceae,Poales
+Zingiber cassumunar,EXACT,100.0,SPECIES,SYNONYM,Plantae,2757204.0,Zingiber purpureum,Zingiberaceae,Zingiberales
+Zingiber officinale,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2757280.0,Zingiber officinale,Zingiberaceae,Zingiberales
+Zingiber zerumbet,EXACT,100.0,SPECIES,ACCEPTED,Plantae,2757108.0,Zingiber zerumbet,Zingiberaceae,Zingiberales
+Ziziphus glabrata,EXACT,100.0,SPECIES,ACCEPTED,Plantae,12257700.0,Ziziphus glabrata,Rhamnaceae,Rosales
+Ziziphus jujuba,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3039423.0,Ziziphus jujuba,Rhamnaceae,Rosales
+Ziziphus mauritiana,EXACT,100.0,SPECIES,ACCEPTED,Plantae,3039424.0,Ziziphus mauritiana,Rhamnaceae,Rosales
+Ziziphus oenolpia,NONE,,,,,,,,
+Ziziphus oenoplia,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7273729.0,Ziziphus oenoplia,Rhamnaceae,Rosales
+Ziziphus rugosa,EXACT,100.0,SPECIES,ACCEPTED,Plantae,7273665.0,Ziziphus rugosa,Rhamnaceae,Rosales
+Ziziphus xylocarpa,NONE,,,,,,,,
+Ziziphus xylopyra,NONE,,,,,,,,
+Zornia diphylla,EXACT,100.0,SPECIES,ACCEPTED,Plantae,5355258.0,Zornia diphylla,Fabaceae,Fabales
+Zosima oriantalis,NONE,,,,,,,,
+Zosima orientalis,EXACT,100.0,SPECIES,SYNONYM,Plantae,5539755.0,Zosima absinthiifolia,Apiaceae,Apiales

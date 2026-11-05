@@ -42,10 +42,12 @@ streamlit run app.py
 ```bash
 cd src
 python s00_download.py   # Dr. Duke's, Kew WCVP, TDWG regions (~150 MB)
-python s01_species.py    # species list + GBIF name matching
-python s02_gbif.py       # IUCN categories, GBIF facets, gridded occurrences (resumable, cached)
-python s03_features.py   # native-range filter + range metrics
-python s04_model.py      # baseline, ML, cross-validation, predictions, priority list
+python s01_species.py            # medicinal species list + GBIF name matching
+python s01b_training_species.py  # regional IUCN-assessed flora (training set)
+python s02_gbif.py               # IUCN categories, GBIF facets, gridded occurrences (resumable, cached)
+python s02b_iucn_synonyms.py     # recover IUCN status hidden behind synonyms (homotypic only)
+python s03_features.py           # native-range filter + range metrics
+python s04_model.py              # baseline, ML, cross-validation, blind-spot test, predictions
 ```
 API responses are cached in `data/cache/`, so reruns are deterministic and work offline. GBIF data changes over time, so a fresh run on a later date can differ slightly.
 
