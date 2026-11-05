@@ -1,4 +1,6 @@
-# 🌿 RedRoot: extinction-risk radar for South Asia's medicinal plants
+<p align="center"><img src="assets/logo_lockup.png" alt="RedRoot" width="420"></p>
+
+# RedRoot: extinction-risk radar for South Asia's medicinal plants
 
 **EthnoHack 2026 · Track 3: Biodiversity & Sustainability**
 

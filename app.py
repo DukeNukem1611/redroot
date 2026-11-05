@@ -13,8 +13,10 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-P = Path(__file__).parent / "data" / "processed"
-st.set_page_config(page_title="RedRoot", page_icon="🌿", layout="wide")
+ROOT = Path(__file__).parent
+P = ROOT / "data" / "processed"
+ASSETS = ROOT / "assets"
+st.set_page_config(page_title="RedRoot", page_icon=str(ASSETS / "icon_dark.png"), layout="wide")
 
 CAT_ORDER = ["CR", "EN", "VU", "NT", "LC", "DD", "NE"]
 CAT_COLOR = {"CR": "#b2182b", "EN": "#e66101", "VU": "#fdb863", "NT": "#b8e186", "LC": "#4dac26",
@@ -40,8 +42,10 @@ def load():
 df, pts, M, IMP = load()
 gap, blind, T = M["gap"], M["blind_spot"], M["screening_threshold"]
 
-st.title("🌿 RedRoot")
-st.markdown("##### Which medicinal plants of South Asia are we losing, and which have never even been assessed?")
+head_logo, head_text = st.columns([1, 2.6], vertical_alignment="center")
+head_logo.image(str(ASSETS / "logo_lockup.png"), width="stretch")
+head_text.markdown("### Which medicinal plants of South Asia are we losing, and which have never even been "
+                   "assessed?")
 st.caption("Research prototype · EthnoHack 2026 · Track 3 Biodiversity & Sustainability. "
            "Model outputs are **preliminary, screening-level estimates** for prioritising expert IUCN assessment. "
            "They are not official Red List categories and not medical advice.")
