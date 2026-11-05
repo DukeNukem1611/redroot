@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RedRoot · Extinction-risk radar for South Asia's medicinal plants</title>
+<meta name="description" content="Which medicinal plants of South Asia are we losing, and which have never been assessed? An open-data, validated extinction-risk screening tool. EthnoHack 2026, Track 3.">
+<link rel="icon" type="image/png" href="img/favicon-64.png">
+<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+<meta property="og:title" content="RedRoot">
+<meta property="og:description" content="Extinction-risk radar for South Asia's medicinal plants">
+<meta property="og:image" content="img/logo_lockup.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <a class="brand" href="#hero"><img src="img/logo_lockup.png" alt="RedRoot"></a>
+  <nav>
+    <a href="#findings">Findings</a>
+    <a href="#hotspots">Map</a>
+    <a href="#priority">Priority list</a>
+    <a href="#watchlist">Watchlist</a>
+    <a href="#explorer">Species</a>
+    <a href="#validation">Validation</a>
+    <a href="#methods">Methods</a>
+  </nav>
+  <a class="btn btn-ghost" href="https://github.com/DukeNukem1611/redroot" target="_blank" rel="noopener">GitHub</a>
+</header>
+
+<main>
+<!-- ============================================================ HERO -->
+<section id="hero" class="dark">
+  <div class="wrap hero-grid">
+    <div>
+      <p class="eyebrow light">EthnoHack 2026 · Track 3 · Biodiversity &amp; Sustainability</p>
+      <h1>Which medicinal plants of South Asia are we losing, and which have never even been assessed?</h1>
+      <p class="lead">RedRoot joins five open datasets with a model validated on plant families it never saw, to show which of <b>1,319</b> medicinal plants most urgently need an IUCN Red List assessment.</p>
+      <div class="cta">
+        <a class="btn btn-red" href="#priority">Explore the priority list</a>
+        <a class="btn btn-outline" href="#findings">Read the findings</a>
+      </div>
+    </div>
+    <img class="hero-logo" src="img/logo_lockup_on_dark.png" alt="RedRoot logo: a medicinal plant with its roots, one root highlighted in red">
+  </div>
+  <div class="wrap stats" id="stats"></div>
+</section>
+
+<!-- ============================================================ FINDINGS -->
+<section id="findings">
+  <div class="wrap">
+    <p class="eyebrow">Findings</p>
+    <h2>Two things the data revealed</h2>
+    <div class="grid-2">
+      <article class="card">
+        <p class="kicker">Finding 1 · data quality</p>
+        <h3>Synonyms hide threatened plants</h3>
+        <p>GBIF attaches IUCN categories to the name IUCN used. When GBIF calls that name a synonym, the plant shows up as “Not Evaluated”. Kuth is Critically Endangered as <i>Aucklandia costus</i>, but GBIF’s accepted <i>Dolomiaea costus</i> returns nothing.</p>
+        <div class="figrow" id="f1-figs"></div>
+        <p class="note">Status is transferred only from <b>homotypic</b> synonyms. A naive rule would make ashwagandha Critically Endangered via <i>Withania chevalieri</i>, a Cape Verde endemic. That candidate and 21 others are rejected and logged.</p>
+      </article>
+      <article class="card card-red">
+        <p class="kicker">Finding 2 · the blind spot</p>
+        <h3>Range-based screening misses the plants we harvest most</h3>
+        <p id="f2-text"></p>
+        <div class="figrow" id="f2-figs"></div>
+        <p class="note" id="f2-note"></p>
+      </article>
+    </div>
+    <figure class="chart-card">
+      <figcaption>
+        <h3>Range size vs medicinal demand</h3>
+        <p>Each dot is a medicinal species. Threatened species that the model catches are mostly narrow-range endemics with few recorded uses. The ones it misses are widespread and heavily used.</p>
+      </figcaption>
+      <div id="scatter" class="chart"></div>
+      <div class="legend" id="scatter-legend"></div>
+    </figure>
+  </div>
+</section>
+
+<!-- ============================================================ HOTSPOTS -->
+<section id="hotspots" class="sand">
+  <div class="wrap">
+    <p class="eyebrow">Where to look</p>
+    <h2>Hotspots of unassessed, likely-threatened plants</h2>
+    <p class="section-lead">Half-degree cells with native-range records of the <span id="hs-n"></span> unassessed species the model screens as likely threatened. Larger circles hold more species. Click a cell to see which.</p>
+    <div id="hotmap" class="map map-tall"></div>
+  </div>
+</section>
+
+<!-- ============================================================ PRIORITY -->
+<section id="priority">
+  <div class="wrap">
+    <p class="eyebrow">For assessors</p>
+    <h2>Priority list</h2>
+    <p class="section-lead">Species <b>without</b> a usable IUCN assessment that the model screens as likely threatened. They are candidates for expert Red List assessment and field surveys, not conclusions.</p>
+    <div class="filters">
+      <label>Native range
+        <select id="f-region">
+          <option value="nsc" selected>Includes Indian subcontinent</option>
+          <option value="end">Endemic to Indian subcontinent</option>
+          <option value="any">Any</option>
+        </select>
+      </label>
+      <label>Min. P(threatened) <output id="f-minp-out"></output>
+        <input type="range" id="f-minp" min="0" max="1" step="0.05">
+      </label>
+      <label title="priority = P × ((1 − w) + w × use percentile). Use counts did not predict threat in validation, so this is a policy choice.">Weight on medicinal importance <output id="f-w-out">0.5</output>
+        <input type="range" id="f-w" min="0" max="1" step="0.1" value="0.5">
+      </label>
+      <label>Family
+        <select id="f-family"><option value="">All families</option></select>
+      </label>
+      <div class="checks">
+        <label class="check"><input type="checkbox" id="f-cult" checked> Hide widely cultivated</label>
+        <label class="check"><input type="checkbox" id="f-unk" checked> Hide unknown native range</label>
+      </div>
+    </div>
+    <div class="table-head"><span id="prio-count"></span><button class="btn btn-small" id="prio-csv">Download CSV</button></div>
+    <div class="table-wrap"><table class="data" id="prio-table"></table></div>
+    <button class="btn btn-small btn-more" id="prio-more">Show more</button>
+  </div>
+</section>
+
+<!-- ============================================================ WATCHLIST -->
+<section id="watchlist" class="sand">
+  <div class="wrap">
+    <p class="eyebrow">For trade monitoring</p>
+    <h2>Harvest watchlist</h2>
+    <p class="section-lead" id="wl-lead"></p>
+    <div class="table-head"><span id="wl-count"></span><button class="btn btn-small" id="wl-csv">Download CSV</button></div>
+    <div class="table-wrap"><table class="data" id="wl-table"></table></div>
+    <button class="btn btn-small btn-more" id="wl-more">Show more</button>
+  </div>
+</section>
+
+<!-- ============================================================ EXPLORER -->
+<section id="explorer">
+  <div class="wrap">
+    <p class="eyebrow">Species explorer</p>
+    <h2>Look up any of the 1,319 plants</h2>
+    <div class="search">
+      <input id="sp-input" list="sp-list" placeholder="Type a scientific name, e.g. Dolomiaea costus" autocomplete="off">
+      <datalist id="sp-list"></datalist>
+    </div>
+    <div class="explorer-grid">
+      <div id="sp-card" class="card sp-card"></div>
+      <div><div id="spmap" class="map"></div><p class="map-note" id="spmap-note"></p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================ VALIDATION -->
+<section id="validation" class="sand">
+  <div class="wrap">
+    <p class="eyebrow">How far to trust it</p>
+    <h2>Validated on plant families it never saw</h2>
+    <p class="section-lead" id="val-lead"></p>
+    <div class="grid-val">
+      <div class="card"><h3>Model vs the standard rule</h3><table class="metrics" id="val-table"></table><p class="note" id="val-note"></p></div>
+      <div class="card"><h3>Out-of-fold predictions</h3><div class="cm-row" id="cms"></div></div>
+      <div class="card"><h3>What the model relies on</h3><div id="imp" class="bars"></div><p class="note">Permutation importance: the drop in ROC-AUC on held-out families when each feature is shuffled.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================ METHODS -->
+<section id="methods">
+  <div class="wrap narrow">
+    <p class="eyebrow">Methods, limitations &amp; responsible use</p>
+    <h2>How RedRoot works</h2>
+    <div id="methods-body" class="prose"></div>
+  </div>
+</section>
+</main>
+
+<footer class="dark">
+  <div class="wrap footer-grid">
+    <img src="img/logo_lockup_on_dark.png" alt="RedRoot" class="footer-logo">
+    <div>
+      <p><b>Data:</b> Dr. Duke’s Phytochemical &amp; Ethnobotanical Databases (USDA-ARS, CC0) · GBIF occurrence data &amp; Backbone Taxonomy · IUCN Red List (via GBIF) · Kew World Checklist of Vascular Plants (CC BY 4.0) · TDWG WGSRPD. Map tiles © OpenStreetMap contributors © CARTO.</p>
+      <p>Outputs are preliminary screening estimates, not official Red List categories. Recorded uses are not evidence of efficacy or safety, and nothing here is medical advice.</p>
+      <p>Code MIT · <a href="https://github.com/DukeNukem1611/redroot">github.com/DukeNukem1611/redroot</a> · Built for EthnoHack 2026.</p>
+    </div>
+  </div>
+</footer>
+
+<div id="tooltip" class="tooltip" hidden></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

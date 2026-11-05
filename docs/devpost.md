@@ -2,6 +2,8 @@
 
 **Track:** 3 · Biodiversity & Sustainability
 
+**Live site:** https://dukenukem1611.github.io/redroot/ · **Code:** https://github.com/DukeNukem1611/redroot
+
 ## Short description
 RedRoot combines open ethnobotanical, taxonomic and biodiversity data with a family-validated machine-learning model. It shows which of South Asia's 1,319 recorded medicinal plants most urgently need an IUCN Red List assessment, and it exposes the blind spot that hides harvest-threatened species.
 
@@ -15,10 +17,10 @@ Traditional medicine in South Asia depends on wild-harvested plants, and several
 4. **Features:** IUCN criterion-B range metrics (EOO, AOO), sampling effort and recency, life form and climate. Medicinal-use data is deliberately not a model input.
 5. **Model:** gradient-boosted trees trained on 1,619 IUCN-assessed plants native to the Indian subcontinent, compared against the standard criterion-B rule.
 6. **Validation:** 5-fold cross-validation grouped by plant family, repeated over 5 seeds. Ablation, screening threshold chosen on out-of-fold data, bootstrap ensemble for uncertainty.
-7. **Outputs:** a priority list for assessors, a separate harvest watchlist for trade monitoring, and an interactive Streamlit dashboard.
+7. **Outputs:** a priority list for assessors, a separate harvest watchlist for trade monitoring, and an interactive website (https://dukenukem1611.github.io/redroot/) with a hotspot map, filterable lists and a species explorer.
 
 ## Technologies used
-Python, pandas, scikit-learn (HistGradientBoosting), shapely, pyproj, mapbox-vector-tile, SciPy, Streamlit, Plotly, GBIF REST and Maps APIs.
+Python, pandas, scikit-learn (HistGradientBoosting), shapely, pyproj, mapbox-vector-tile, SciPy, GBIF REST and Maps APIs. Website: HTML/CSS/JavaScript, Leaflet, D3.js, GitHub Pages.
 
 ## Data sources
 Dr. Duke's Phytochemical and Ethnobotanical Databases (USDA-ARS, CC0) · GBIF occurrence data and Backbone Taxonomy · IUCN Red List categories via GBIF · Kew World Checklist of Vascular Plants (CC BY 4.0) · TDWG WGSRPD level 3. Full citations and licences are in the README.
@@ -38,3 +40,14 @@ RedRoot gives Red List assessors (such as the IUCN SSC Medicinal Plant Specialis
 
 ## Responsible research
 Outputs are preliminary screening estimates, not official Red List categories. Recorded uses are shown as documented in the literature, not as evidence of efficacy or safety. We use only published, openly licensed records, aggregated to counts. The limitations (label bias, sampling bias, the criterion-A blind spot and grid resolution) are documented in the app and in docs/methods.md.
+
+## Gallery images (upload in this order)
+1. `gallery/00_cover.png`: cover and thumbnail
+2. `gallery/01_hero.png`: headline numbers
+3. `gallery/02_findings.png`: the two findings
+4. `gallery/03_blind_spot_chart.png`: range vs demand chart
+5. `gallery/04_hotspot_map.png`: hotspot map
+6. `gallery/05_priority_list.png`: priority list
+7. `gallery/06_species_kuth.png`: species explorer (kuth)
+8. `gallery/07_harvest_watchlist.png`: harvest watchlist
+9. `gallery/08_validation.png`: validation

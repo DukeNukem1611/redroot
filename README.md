@@ -2,7 +2,9 @@
 
 # RedRoot: extinction-risk radar for South Asia's medicinal plants
 
-**EthnoHack 2026 · Track 3: Biodiversity & Sustainability**
+**EthnoHack 2026 · Track 3: Biodiversity & Sustainability** · **Live site: https://dukenukem1611.github.io/redroot/**
+
+![RedRoot website: hero section](gallery/01_hero.png)
 
 > South Asian traditional medicine uses well over a thousand recorded plant species. Most of them have **never been assessed** for extinction risk, and the gap is widest for the plants with the most recorded uses. RedRoot combines open ethnobotanical, taxonomic and biodiversity data with a validated machine-learning model to show **which medicinal plants most urgently need a Red List assessment and field survey**.
 
@@ -48,16 +50,25 @@ Dr. Duke's ethnobotany (CC0) ──► 1,319 medicinal species used in South Asi
                                                ▼
                      P(threatened) ± uncertainty for unassessed species
                                                ▼
-                 priority list = risk × medicinal-use pressure  ─► Streamlit dashboard
+                 priority list + harvest watchlist  ─► static website (docs/)
 ```
 Full method, limitations and responsible-use notes: [docs/methods.md](docs/methods.md).
 
-## Run the dashboard (2 minutes)
-The processed outputs are committed, so the app runs without re-downloading anything:
+## The website
+A static site in `docs/` (HTML, CSS and JavaScript, with Leaflet maps and D3 charts) is served by GitHub Pages. It has no backend: everything is read from `docs/data/*.json`, which `src/s05_export_site.py` exports. It contains:
+- the findings and a range-vs-demand chart
+- a hotspot map
+- the filterable priority list and the harvest watchlist, both downloadable as CSV
+- a species explorer with occurrence maps
+- the validation results and the methods
+
+**Run it locally:**
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+python -m http.server 8765 -d docs   # then open http://localhost:8765
 ```
+**Publish:** in the GitHub repo, open Settings → Pages, set Source to "Deploy from a branch", and choose branch `main`, folder `/docs`.
+
+Gallery screenshots in `gallery/` are taken from the live page with `?shot=<section>`, for example `?shot=explorer&species=Dolomiaea%20costus`.
 
 ## Reproduce from scratch (~1 h, mostly downloads)
 ```bash
@@ -69,17 +80,19 @@ python s02_gbif.py               # IUCN categories, GBIF facets, gridded occurre
 python s02b_iucn_synonyms.py     # recover IUCN status hidden behind synonyms (homotypic only)
 python s03_features.py           # native-range filter + range metrics
 python s04_model.py              # baseline, ML, cross-validation, blind-spot test, predictions
+python s05_export_site.py        # JSON for the website in docs/data/
 ```
 API responses are cached in `data/cache/`, so reruns are deterministic and work offline. GBIF data changes over time, so a fresh run on a later date can differ slightly.
 
 ## Repository layout
 | Path | Contents |
 |---|---|
-| `src/` | pipeline steps `s00`–`s04`, shared helpers in `common.py` |
-| `app.py` | Streamlit dashboard |
-| `data/interim/` | species list, name matching audit, IUCN categories, GBIF counts |
+| `src/` | pipeline steps `s00`–`s05`, shared helpers in `common.py` |
+| `docs/` | the website (`index.html`, `css/`, `js/`, `data/`, `img/`), plus `methods.md` and `devpost.md` |
+| `data/interim/` | species list, name-matching audit, IUCN categories and synonym reconciliation, GBIF counts |
 | `data/processed/` | `features.csv`, `predictions.csv`, `metrics.json`, `importance.csv`, `points.csv.gz` |
-| `docs/` | methods, slides, pitch-video script |
+| `gallery/` | Devpost gallery images (1500×1000, 3:2) |
+| `assets/` | logo files |
 
 ## Data sources and licences
 | Dataset | Use | Licence / terms |
