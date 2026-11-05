@@ -1,0 +1,33 @@
+### Pipeline
+
+| Step | What | Source |
+|---|---|---|
+| 1. Species list | Every plant binomial with ≥ 1 ethnobotanical record from South Asia (India incl. named communities, Nepal, Pakistan, Bangladesh, Sri Lanka, Bhutan, Himalaya) | Dr. Duke's Phytochemical & Ethnobotanical Databases (USDA-ARS, CC0) |
+| 2. Name resolution | Strict match to the GBIF Backbone Taxonomy (exact/fuzzy, confidence ≥ 90, Plantae); synonyms merged to the accepted species | GBIF Species API |
+| 3. Official status | IUCN Red List category for each accepted species | IUCN Red List, via GBIF's IUCN checklist mirror |
+| 4. Occurrences | Georeferenced records (no geospatial issues; living garden specimens and fossils excluded), aggregated by GBIF onto a map grid; ~2.4 km pixels for most species, coarser for very widespread ones | GBIF Maps API (vector tiles) |
+| 5. Native-range filter | Each grid cell is assigned to a TDWG level-3 botanical country; only cells inside the species' **native** range are kept (introduced, cultivated and naturalised ranges removed) | Kew World Checklist of Vascular Plants (CC BY 4.0) + TDWG WGSRPD level 3 |
+| 6. Range metrics | **EOO**: geodesic area of the convex hull. **AOO**: occupied cells × 4 km² (lower bound on the IUCN 2 × 2 km AOO). Number of occupied 10 km and 50 km cells (a proxy for locations) | computed |
+| 7. Baseline | Preliminary IUCN **criterion B** from range size alone (CR: EOO < 100 or AOO < 10 km²; EN: < 5 000 / < 500; VU: < 20 000 / < 2 000), as in ConR / rCAT | IUCN Guidelines v16 thresholds |
+| 8. Training set | Only 40 medicinal species are officially threatened, too few to train on. We add every IUCN-assessed vascular plant with GBIF records in South Asia that WCVP lists as **native to the Indian subcontinent** (TDWG region 40), medicinal or not. LC species are randomly sampled, not taken as the most-recorded | GBIF occurrence facets, `iucnRedListCategory` filter |
+| 9. ML model | Gradient-boosted trees on 30 features: range size, geography, **sampling effort and recency** (to separate *rare* from *rarely recorded*), and life form & climate (WCVP). **Medicinal-use data is not a model input**, so risk is estimated independently of use | scikit-learn |
+| 10. Validation | Threatened = CR/EN/VU vs NT/LC. **Cross-validation grouped by plant family**, so no family is in both train and test, repeated over 5 seeds. Reported for the regional flora and for the medicinal subset separately. Ablation: range-size features only. The screening threshold maximises sensitivity + specificity on the regional out-of-fold predictions | — |
+| 11. Prediction | A 25-member bootstrap ensemble scores Not Evaluated and Data Deficient medicinal species. The 10th–90th percentile spread is shown as uncertainty. Species with < 3 native-range cells are not scored | — |
+| 12. Flags | *Widely cultivated*: < 20 % of GBIF records inside the native range, e.g. black pepper and saffron, whose wild status cannot be judged from occurrences. *Native range unknown*: no WCVP match | — |
+| 13. Priority list | Unassessed species above the screening threshold, ranked by `P × ((1 − w) + w × use percentile)`. Use counts did **not** predict threat in validation, so `w` is an explicit, user-adjustable policy weight for how many people rely on the plant | — |
+| 14. Blind-spot test and harvest watchlist | We compare the use intensity of threatened medicinal species the model misses vs catches, and test whether use counts separate threatened from non-threatened among range-safe species. The watchlist lists unassessed, range-safe species with a harvest-sensitive profile: used more than the median species, native to the subcontinent, not an annual, ≤ 15 native botanical countries, ≥ 50 % of records in the wild range. We check how enriched this profile is for threatened species among assessed ones. The profile was chosen from 12 variants, so the check is exploratory | scipy |
+
+### Limitations and how to read the outputs
+- **These are screening estimates, not Red List categories.** Official listing needs expert assessment of population decline, threats and number of locations, which this tool does not measure. The outputs are meant to decide *where to send assessors and field surveys first*.
+- **Label bias.** Species that IUCN has assessed are not a random sample. Threatened, charismatic and well-studied taxa are over-represented, so the model learns from that biased set.
+- **Sampling bias.** GBIF coverage of South Asia is uneven: herbarium-heavy, with few recent records from many regions. Under-collected species can look rarer than they are. We add sampling-effort features (record counts, fraction since 2000, single-record cells) so the model can partly separate *rare* from *unrecorded*.
+- **Grid resolution.** For very widespread species GBIF tiles are coarser than 2 km, so AOO is a loose lower bound. These species sit far above every threshold anyway.
+- **GBIF Maps vs Search.** The Maps API aggregates a quality-filtered subset of records and reports fewer records than the Search API for some taxa. We use it consistently for every species.
+- **Range-based screening cannot see harvest-driven decline.** Plants listed under IUCN criterion A (population decline from harvest), such as jatamansi, sandalwood and guggul, have large ranges. Our model misses many of them, and we report this openly. The harvest watchlist is a monitoring list, not a prediction.
+- **Use pressure ≠ harvest volume.** Literature use counts measure how widely a plant is *recorded* as medicinal, not how much is harvested or traded. Cultivated species (e.g. *Curcuma longa*) can be heavily used without wild harvest.
+- **Taxonomy.** Names were matched strictly. About 15 % of the Duke binomials could not be resolved to an accepted species and were dropped (see `data/interim/name_matching.csv`).
+
+### Responsible use of traditional knowledge
+- We use only **published, openly licensed** ethnobotanical records (Dr. Duke's, CC0), aggregated to counts and use categories. We publish no preparation methods, dosages or community-specific knowledge beyond what the source cites.
+- Recorded uses are shown as *documented in the literature*, **not as evidence of efficacy or safety**. Nothing in this tool is medical advice.
+- Prioritising a plant for conservation must not become a reason to restrict the customary, sustainable use rights of the communities who hold this knowledge. Their participation in assessment and management, under the access and benefit-sharing principles of the Nagoya Protocol and India's Biological Diversity Act, is a precondition, not an afterthought.

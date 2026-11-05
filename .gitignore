@@ -1,0 +1,10 @@
+# large or re-downloadable inputs (see README "Reproduce")
+data/raw/
+data/cache/
+data/interim/grid/
+data/interim/occ/
+data/interim/*.log
+__pycache__/
+*.pyc
+.venv/
+.streamlit/secrets.toml
