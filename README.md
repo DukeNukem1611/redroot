@@ -5,7 +5,26 @@
 > South Asian traditional medicine uses well over a thousand recorded plant species. Most of them have **never been assessed** for extinction risk, and the gap is widest for the plants with the most recorded uses. RedRoot combines open ethnobotanical, taxonomic and biodiversity data with a validated machine-learning model to show **which medicinal plants most urgently need a Red List assessment and field survey**.
 
 <!-- RESULTS_START -->
-_Results are filled in from `data/processed/metrics.json` after running the pipeline._
+## Key results
+| | |
+|---|---|
+| Medicinal species analysed (South Asian ethnobotanical records) | **1,319** |
+| …with no usable IUCN assessment (Not Evaluated or Data Deficient) | **60%** (791 species) |
+| IUCN assessments recovered from behind GBIF synonyms | **45**, 6 of them threatened (e.g. kuth *Dolomiaea costus*, CR) |
+| Unassessed species screened as likely threatened (**priority list**) | **103** (90 native to the subcontinent, 38 robust across the ensemble) |
+| Unassessed, heavily used, range-safe species (**harvest watchlist**) | **51** |
+
+**Validation** on 1,619 IUCN-assessed plants native to the Indian subcontinent (432 threatened, 195 families). Cross-validation is grouped by plant family and repeated over 5 seeds:
+
+| Metric | Criterion-B rule (baseline) | RedRoot ML |
+|---|---|---|
+| ROC-AUC | 0.884 | **0.912 ± 0.004** |
+| Sensitivity / specificity at the screening threshold | 0.99 / 0.27 | **0.83 / 0.86** |
+| ROC-AUC on the medicinal subset | 0.812 | **0.834 ± 0.013** |
+
+**Finding 1: synonyms hide threatened plants.** GBIF attaches IUCN categories to the name IUCN used, so species whose accepted name differs show as "Not Evaluated". We recover status only from homotypic synonyms. A naive "any synonym" rule would wrongly make ashwagandha Critically Endangered, via *Withania chevalieri*, a Cape Verde endemic.
+
+**Finding 2: the blind spot.** Range-based screening catches 21 of the 43 threatened medicinal species, mostly narrow-range endemics with a median of 4 recorded uses. It misses 22 widespread, heavily harvested ones with a median of 15.5 uses (p = 0.03): jatamansi, kuth, sandalwood, guggul, red sanders. Use counts alone cannot separate threatened from non-threatened among range-safe species (AUC 0.55, 95% CI 0.42–0.67). RedRoot therefore reports harvest risk as a separate monitoring list, not as a prediction.
 <!-- RESULTS_END -->
 
 ## The problem
