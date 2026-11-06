@@ -33,7 +33,8 @@ Dr. Duke's Phytochemical and Ethnobotanical Databases (USDA-ARS, CC0) · GBIF oc
 - **Blind-spot finding:** range-based screening misses the most heavily used threatened plants, with a median of 15.5 vs 4 recorded uses (p = 0.03), including jatamansi, kuth, sandalwood and guggul. Use counts alone cannot fix this (AUC 0.55). We report it openly and handle it with a separate monitoring list.
 
 ## Team
-[Team members, roles and institutions]
+- Harshil Agarwal
+- Aditi Choudhary, IIT Kharagpur
 
 ## Impact and future development
 RedRoot gives Red List assessors (such as the IUCN SSC Medicinal Plant Specialist Group), the Botanical Survey of India, State Biodiversity Boards, the National Medicinal Plants Board and herbal supply chains a transparent, reproducible starting point. Next steps: add CITES trade and market data so the watchlist can detect decline directly; field-check the top priority species; add climate exposure for Himalayan species; and co-design with harvesting communities under the Nagoya Protocol and India's Biological Diversity Act.
