@@ -4,6 +4,9 @@
 
 **Live site:** https://dukenukem1611.github.io/redroot/ · **Code:** https://github.com/DukeNukem1611/redroot
 
+## Elevator pitch (Devpost field, 200 characters max)
+60% of South Asia's medicinal plants have never been assessed for extinction risk. RedRoot uses open data and validated ML to show assessors where to look first.
+
 ## Short description
 RedRoot combines open ethnobotanical, taxonomic and biodiversity data with a family-validated machine-learning model. It shows which of South Asia's 1,319 recorded medicinal plants most urgently need an IUCN Red List assessment, and it exposes the blind spot that hides harvest-threatened species.
 
