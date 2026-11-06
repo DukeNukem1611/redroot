@@ -7,6 +7,4 @@ data/interim/*.log
 __pycache__/
 *.pyc
 .venv/
-.streamlit/secrets.toml
 data/interim/*.bak.csv
-data/interim/*.log
