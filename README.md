@@ -287,9 +287,9 @@ Details are in [docs/methods.md](docs/methods.md#limitations-and-how-to-read-the
 - IUCN Standards and Petitions Committee (2024). Guidelines for Using the IUCN Red List Categories and Criteria, v16.
 
 ## Team
-Built for EthnoHack 2026 by:
+Built for EthnoHack 2026 by two students at IIT Kharagpur:
 - [Harshil Agarwal](https://github.com/DukeNukem1611)
-- Aditi Choudhary, IIT Kharagpur
+- Aditi Choudhary
 
 ## Licence
 Code: MIT (see [LICENSE](LICENSE)). Derived data: subject to the licences of the source datasets above.
