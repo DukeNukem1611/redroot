@@ -204,17 +204,83 @@ function renderWatchlist() {
 /* ------------------------------------------------------------------ explorer */
 let spMap, spLayer;
 function setupExplorer() {
-  $("#sp-list").innerHTML = [...byName.keys()].sort().map((n) => `<option value="${esc(n)}">`).join("");
   spMap = L.map("spmap", { scrollWheelZoom: false }).setView([24, 82], 4);
   tileLayer().addTo(spMap);
   spLayer = L.layerGroup().addTo(spMap);
-  $("#sp-input").addEventListener("change", (e) => { if (byName.has(e.target.value)) selectSpecies(e.target.value); });
+  setupCombobox();
   selectSpecies(params.get("species") || "Dolomiaea costus");
+}
+
+/* searchable species dropdown (replaces the native datalist, whose arrow did nothing in some browsers) */
+function setupCombobox() {
+  const input = $("#sp-input"), list = $("#sp-list"), toggle = $("#sp-toggle");
+  const all = [...byName.values()].sort((a, b) => a.n.localeCompare(b.n));
+  let items = [], active = -1, current = "";
+
+  const open = () => { list.hidden = false; input.setAttribute("aria-expanded", "true"); };
+  const close = () => { list.hidden = true; input.setAttribute("aria-expanded", "false"); active = -1; input.removeAttribute("aria-activedescendant"); };
+
+  function render(q) {
+    q = (q || "").trim().toLowerCase();
+    if (!q) items = all;
+    else {
+      const starts = [], genus = [], other = [];
+      for (const s of all) {
+        const n = s.n.toLowerCase();
+        if (n.startsWith(q)) starts.push(s);
+        else if (n.includes(" " + q) || (s.f || "").toLowerCase().startsWith(q)) genus.push(s);
+        else if (n.includes(q)) other.push(s);
+      }
+      items = starts.concat(genus, other);
+    }
+    active = -1;
+    if (!items.length) { list.innerHTML = `<li class="sp-empty">No matching species</li>`; open(); return; }
+    list.innerHTML = items.map((s, i) =>
+      `<li role="option" id="sp-opt-${i}" data-i="${i}" aria-selected="false"${s.n === current ? ' class="current"' : ""}>` +
+      `<span class="sp-name">${esc(s.n)}</span><span class="sp-fam">${esc(s.f || "")}</span>` +
+      (s.iu ? badge(s.iu) : "") + `</li>`).join("");
+    open();
+  }
+  function setActive(i) {
+    const opts = list.querySelectorAll('[role="option"]');
+    if (!opts.length) return;
+    if (active >= 0 && opts[active]) { opts[active].classList.remove("active"); opts[active].setAttribute("aria-selected", "false"); }
+    active = (i + opts.length) % opts.length;
+    const el = opts[active];
+    el.classList.add("active"); el.setAttribute("aria-selected", "true");
+    input.setAttribute("aria-activedescendant", el.id);
+    el.scrollIntoView({ block: "nearest" });
+  }
+  function choose(i) {
+    const s = items[i]; if (!s) return;
+    current = s.n; close(); selectSpecies(s.n); input.blur();
+  }
+
+  input.addEventListener("input", () => render(input.value));
+  input.addEventListener("focus", () => { input.select(); render(input.value === current ? "" : input.value); });
+  input.addEventListener("keydown", (e) => {
+    if (e.key === "ArrowDown") { e.preventDefault(); if (list.hidden) render(input.value === current ? "" : input.value); setActive(active + 1); }
+    else if (e.key === "ArrowUp") { e.preventDefault(); setActive(active - 1); }
+    else if (e.key === "Enter") { e.preventDefault(); if (!list.hidden) choose(active >= 0 ? active : 0); }
+    else if (e.key === "Escape") { close(); input.value = current; }
+  });
+  toggle.addEventListener("mousedown", (e) => e.preventDefault());
+  toggle.addEventListener("click", () => {
+    if (!list.hidden) { close(); return; }
+    if (document.activeElement === input) render(input.value === current ? "" : input.value);
+    else input.focus();
+  });
+  list.addEventListener("mousedown", (e) => e.preventDefault());
+  list.addEventListener("click", (e) => { const li = e.target.closest('[role="option"]'); if (li) choose(+li.dataset.i); });
+  list.addEventListener("mousemove", (e) => { const li = e.target.closest('[role="option"]'); if (li && +li.dataset.i !== active) setActive(+li.dataset.i); });
+  input.addEventListener("blur", () => { close(); if (!byName.has(input.value)) input.value = current; });
+  document.addEventListener("speciesselected", (e) => { current = e.detail; });
 }
 
 function selectSpecies(name, scroll) {
   const s = byName.get(name); if (!s) return;
   $("#sp-input").value = s.n;
+  document.dispatchEvent(new CustomEvent("speciesselected", { detail: s.n }));
   const thrMissed = THREAT.has(s.iu) && s.poof != null && s.poof < T;
   const pShow = s.poof ?? s.p;
   let gauge = '<p class="note">Not scored: fewer than 3 occupied native-range cells.</p>';
