@@ -29,6 +29,7 @@ KEYS = {  # column -> short key in species.json
     "assessment_gap": "gap", "widely_cultivated": "cult", "native_range_unknown": "unk",
     "screen_threatened": "scr", "harvest_watchlist": "wl", "native_subcontinent": "nsc",
     "endemic_indian_subcontinent": "end", "enough_data": "ok", "native_l3": "l3",
+    "p_calibrated": "pc", "p_calibrated_oof": "pco", "drivers": "dr",
 }
 BOOLS = ["assessment_gap", "widely_cultivated", "native_range_unknown", "screen_threatened",
          "harvest_watchlist", "native_subcontinent", "enough_data"]
@@ -54,6 +55,8 @@ def main():
     if "iucn_source" not in df:
         df["iucn_source"] = None
     recs = [{KEYS[c]: clean(r[c]) for c in KEYS} for _, r in df[list(KEYS)].iterrows()]
+    for rec in recs:  # score drivers are stored as JSON text in the CSV
+        rec["dr"] = json.loads(rec["dr"]) if isinstance(rec["dr"], str) else None
     (SITE / "species.json").write_text(json.dumps(recs, separators=(",", ":")), encoding="utf-8")
 
     m = json.loads((PROCESSED / "metrics.json").read_text())

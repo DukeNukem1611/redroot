@@ -11,8 +11,14 @@ step 1b), plus all assessed medicinal species. Threatened = CR/EN/VU; not threat
    on the whole regional set and on the medicinal subset.
 4. A 25-member bootstrap ensemble scores the NE/DD medicinal species and reports its spread as uncertainty.
 5. Exploratory test: are heavily used medicinal species more often threatened?
+6. Decision value: how many threatened species assessors find if they work down RedRoot's ranking,
+   against a range-size ranking and random order (out-of-fold).
+7. Calibration: reliability of the scores, plus an isotonic map from score to the observed share of
+   threatened species (fitted and checked with family-grouped cross-fitting).
+8. Explanations: SHAP values from every ensemble member give each species' main score drivers.
 
-Outputs: data/processed/predictions.csv (medicinal species), metrics.json, importance.csv
+Outputs: data/processed/predictions.csv (medicinal species), oof_predictions.csv (training species),
+metrics.json, importance.csv
 """
 from __future__ import annotations
 
@@ -20,9 +26,11 @@ import json
 
 import numpy as np
 import pandas as pd
+import shap
 from scipy.stats import fisher_exact, mannwhitneyu
 from sklearn.ensemble import HistGradientBoostingClassifier
 from sklearn.inspection import permutation_importance
+from sklearn.isotonic import IsotonicRegression
 from sklearn.metrics import (balanced_accuracy_score, brier_score_loss, confusion_matrix, f1_score,
                              roc_auc_score)
 from sklearn.model_selection import StratifiedGroupKFold
@@ -108,6 +116,66 @@ def summarise(runs):
             {k: float(np.nanstd([r[k] for r in runs])) for k in runs[0]})
 
 
+def reliability(p, y, bins=10):
+    """Reliability table (equal-width bins) and expected calibration error."""
+    edges = np.linspace(0, 1, bins + 1)
+    idx = np.clip(np.digitize(p, edges) - 1, 0, bins - 1)
+    rows, ece = [], 0.0
+    for b in range(bins):
+        s = idx == b
+        if not s.any():
+            continue
+        rows.append({"lo": float(edges[b]), "hi": float(edges[b + 1]), "n": int(s.sum()),
+                     "mean_p": float(p[s].mean()), "observed": float(y[s].mean())})
+        ece += s.sum() / len(p) * abs(p[s].mean() - y[s].mean())
+    return rows, float(ece)
+
+
+# plain-language names and display values for score drivers (SHAP groups)
+def _fmt(v, f):
+    return "unknown" if pd.isna(v) else f(v)
+
+
+DRIVERS = {
+    "log_eoo": ("Extent of occurrence", lambda r: _fmt(r["eoo_km2"], lambda v: f"{v:,.0f} km²")),
+    "log_aoo": ("Area of occupancy", lambda r: _fmt(r["aoo_km2"], lambda v: f"≥ {v:,.0f} km²")),
+    "log_cells_10km": ("Occupied 10 km cells", lambda r: _fmt(r["n_cells_10km"], lambda v: f"{v:,.0f}")),
+    "log_cells_50km": ("Occupied 50 km cells", lambda r: _fmt(r["n_cells_50km"], lambda v: f"{v:,.0f}")),
+    "lat_range": ("Latitudinal span", lambda r: _fmt(r["lat_range"], lambda v: f"{v:.1f}°")),
+    "lon_range": ("Longitudinal span", lambda r: _fmt(r["lon_range"], lambda v: f"{v:.1f}°")),
+    "abs_lat_median": ("Distance from the equator", lambda r: _fmt(r["abs_lat_median"], lambda v: f"{v:.1f}°")),
+    "lat_median": ("Latitude", lambda r: _fmt(r["lat_median"], lambda v: f"{v:.1f}°")),
+    "lon_median": ("Longitude", lambda r: _fmt(r["lon_median"], lambda v: f"{v:.1f}°")),
+    "log_native_l3": ("Native botanical countries", lambda r: _fmt(r["n_native_l3"], lambda v: f"{v:.0f}")),
+    "endemic_indian_subcontinent": ("Endemic to the Indian subcontinent",
+                                    lambda r: "yes" if r["endemic_indian_subcontinent"] == 1 else "no"),
+    "log_gbif_count": ("GBIF records", lambda r: _fmt(r["gbif_count"], lambda v: f"{v:,.0f}")),
+    "log_n_native": ("Records in the native range", lambda r: _fmt(r["n_native"], lambda v: f"{v:,.0f}")),
+    "frac_native": ("Share of records in the native range", lambda r: _fmt(r["frac_native"], lambda v: f"{v:.0%}")),
+    "frac_since_2000": ("Share of records since 2000", lambda r: _fmt(r["frac_since_2000"], lambda v: f"{v:.0%}")),
+    "frac_specimen": ("Share of herbarium specimens", lambda r: _fmt(r["frac_specimen"], lambda v: f"{v:.0%}")),
+    "last_year": ("Most recent record", lambda r: _fmt(r["last_year"], lambda v: f"{v:.0f}")),
+    "n_countries_gbif": ("Countries with records", lambda r: _fmt(r["n_countries_gbif"], lambda v: f"{v:.0f}")),
+    "frac_cells_single_record": ("Cells with a single record",
+                                 lambda r: _fmt(r["frac_cells_single_record"], lambda v: f"{v:.0%}")),
+    "life": ("Life form", lambda r: r["lifeform"] if isinstance(r["lifeform"], str) else "unknown"),
+    "climate": ("Climate zone", lambda r: r["climate"] if isinstance(r["climate"], str) else "unknown"),
+}
+GROUP = {f: ("life" if f.startswith("life_") else "climate" if f.startswith("climate_") else f) for f in FEATURES}
+
+
+def score_drivers(sv, rows, top=4):
+    """Top SHAP drivers per species from a SHAP matrix (log-odds units), grouped into plain-language factors."""
+    groups = list(dict.fromkeys(GROUP.values()))
+    G = np.column_stack([sv[:, [i for i, f in enumerate(FEATURES) if GROUP[f] == g]].sum(1) for g in groups])
+    out = []
+    for i, (_, r) in enumerate(rows.iterrows()):
+        order = np.argsort(-np.abs(G[i]))[:top]
+        out.append(json.dumps([[DRIVERS[groups[j]][0], DRIVERS[groups[j]][1](r), round(float(G[i, j]), 2)]
+                               for j in order], ensure_ascii=False))
+    return out
+
+
 def main():
     df = prepare(pd.read_csv(PROCESSED / "features.csv"))
     train_mask = (df["label"] >= 0) & df["enough_data"] & (df["medicinal"] | df["native_subcontinent"])
@@ -130,10 +198,13 @@ def main():
 
     # ---- ML: repeated family-grouped CV
     runs_all, runs_med, oof_mean = [], [], np.zeros(len(lab))
+    sv_oof = np.zeros((len(lab), len(FEATURES)))  # out-of-fold SHAP, explains the out-of-fold score
     for seed in SEEDS:
         oof = np.zeros(len(lab))
         for tr, te in StratifiedGroupKFold(5, shuffle=True, random_state=seed).split(X, y, groups):
-            oof[te] = model(seed).fit(X.iloc[tr], y[tr]).predict_proba(X.iloc[te])[:, 1]
+            fm = model(seed).fit(X.iloc[tr], y[tr])
+            oof[te] = fm.predict_proba(X.iloc[te])[:, 1]
+            sv_oof[te] += np.asarray(shap.TreeExplainer(fm).shap_values(X.iloc[te])) / len(SEEDS)
         runs_all.append(metrics(y, oof))
         runs_med.append(metrics(y[med], oof[med]))
         oof_mean += oof / len(SEEDS)
@@ -144,6 +215,43 @@ def main():
     j = [metrics(y, oof_mean, t)["sensitivity"] + metrics(y, oof_mean, t)["specificity"] for t in grid_t]
     t_star = float(grid_t[int(np.argmax(j))])
     at_t = {"all": metrics(y, oof_mean, t_star), "medicinal": metrics(y[med], oof_mean[med], t_star)}
+
+    # ---- decision value: threatened species found when assessors work down a ranking (out-of-fold).
+    # Range rule = smallest AOO first, ties broken by smallest EOO (the logic of criterion B).
+    def yield_block(mask):
+        yy = y[mask]
+        ml = np.cumsum(yy[np.argsort(-oof_mean[mask], kind="stable")])
+        rb = np.cumsum(yy[np.lexsort((lab.loc[mask, "log_eoo"].values, lab.loc[mask, "log_aoo"].values))])
+        n, rate, half = len(yy), yy.mean(), int(np.ceil(yy.sum() / 2))
+        ks = list(range(10, n + 1, 10)) + ([n] if n % 10 else [])
+        return {"n": int(n), "n_threatened": int(yy.sum()), "k": ks,
+                "redroot": [int(ml[k - 1]) for k in ks], "range_rule": [int(rb[k - 1]) for k in ks],
+                "random": [round(float(k * rate), 1) for k in ks],
+                "at": {str(k): {"redroot": int(ml[k - 1]), "range_rule": int(rb[k - 1]),
+                                "random": round(float(k * rate), 1)} for k in (50, 100, 200, 400) if k <= n},
+                "k_half_redroot": int(np.searchsorted(ml, half) + 1),
+                "k_half_range_rule": int(np.searchsorted(rb, half) + 1),
+                "k_half_random": int(np.ceil(half / rate))}
+    assessment_yield = {"all": yield_block(np.ones(len(lab), bool)), "medicinal": yield_block(med)}
+
+    # ---- calibration: raw scores (class-balanced, so inflated) vs an isotonic map, cross-fitted by family
+    rel_raw, ece_raw = reliability(oof_mean, y)
+    p_cal_cv = np.zeros(len(lab))
+    for tr, te in StratifiedGroupKFold(5, shuffle=True, random_state=0).split(X, y, groups):
+        p_cal_cv[te] = IsotonicRegression(out_of_bounds="clip", y_min=0, y_max=1) \
+            .fit(oof_mean[tr], y[tr]).predict(oof_mean[te])
+    rel_cal, ece_cal = reliability(p_cal_cv, y)
+    iso = IsotonicRegression(out_of_bounds="clip", y_min=0, y_max=1).fit(oof_mean, y)
+    calibration = {"bins_raw": rel_raw, "ece_raw": ece_raw, "brier_raw": float(brier_score_loss(y, oof_mean)),
+                   "bins_calibrated": rel_cal, "ece_calibrated": ece_cal,
+                   "brier_calibrated": float(brier_score_loss(y, p_cal_cv)),
+                   "share_threatened_at_threshold": float(iso.predict([t_star])[0]),
+                   "note": "isotonic map from out-of-fold score to observed share threatened; "
+                           "checked by family-grouped cross-fitting"}
+    pd.DataFrame({"speciesKey": lab["speciesKey"], "accepted_name": lab["accepted_name"], "family": lab["family"],
+                  "medicinal": med, "threatened": y, "p_oof": oof_mean, "p_calibrated_cv": p_cal_cv,
+                  "eoo_km2": lab["eoo_km2"], "aoo_km2": lab["aoo_km2"], "criterion_b_flag": flag_b}) \
+        .to_csv(PROCESSED / "oof_predictions.csv", index=False)
 
     # ---- ablation: range-only features (what do sampling/biology features add?)
     range_only = ["log_eoo", "log_aoo", "log_cells_10km", "log_cells_50km", "lat_range", "lon_range"]
@@ -173,6 +281,22 @@ def main():
             "criterion_b_prelim"] += " (AOO lower bound)"
     oof_map = dict(zip(lab["speciesKey"], oof_mean))
     out["p_threatened_oof"] = out["speciesKey"].map(oof_map)  # honest, out-of-fold for assessed species
+    # observed share of threatened species among assessed species with a similar score
+    for src, dst in [("p_threatened", "p_calibrated"), ("p_threatened_oof", "p_calibrated_oof")]:
+        ok = out[src].notna()
+        out[dst] = np.nan
+        out.loc[ok, dst] = iso.predict(out.loc[ok, src].values)
+    # main score drivers (SHAP) for scored species: from the ensemble for unassessed species, and from the
+    # cross-validation models that never saw the species' family for assessed ones, so each explanation
+    # matches the score the website shows
+    sc = out["enough_data"].values
+    sv = np.mean([np.asarray(shap.TreeExplainer(m).shap_values(out[FEATURES])) for m in members], axis=0)
+    row_of = {k: i for i, k in enumerate(lab["speciesKey"])}
+    for i, k in enumerate(out["speciesKey"]):
+        if k in row_of:
+            sv[i] = sv_oof[row_of[k]]
+    out["drivers"] = None
+    out.loc[sc, "drivers"] = score_drivers(sv[sc], out.loc[sc])
 
     # ---- priority: no usable IUCN assessment, ranked by risk x medicinal demand
     out["use_pressure_pct"] = out["use_records_global"].rank(pct=True)
@@ -276,7 +400,7 @@ def main():
         "confusion_ml_medicinal": confusion_matrix(y[med], (oof_mean[med] >= 0.5).astype(int),
                                                    labels=[0, 1]).tolist(),
         "screening_threshold": t_star, "at_threshold": at_t, "blind_spot": blind, "watchlist_check": watch_check,
-        "gap": gap,
+        "gap": gap, "assessment_yield": assessment_yield, "calibration": calibration,
     }
     (PROCESSED / "metrics.json").write_text(json.dumps(res, indent=2, default=float))
     out.to_csv(PROCESSED / "predictions.csv", index=False)

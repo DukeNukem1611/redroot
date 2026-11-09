@@ -56,6 +56,8 @@
 | Widely cultivated species, flagged and hidden by default | 138 (e.g. black pepper, saffron) |
 | Model ROC-AUC on held-out plant families | **0.912 ± 0.004** (criterion-B rule: 0.884) |
 | Specificity at a sensitivity of 0.83 | **0.86** (criterion-B rule: 0.27) |
+| Threatened species among the top 100 of the ranking (out-of-fold) | **97** (range-size rule: 84, random: about 27) |
+| Calibration error of the reported share threatened | **0.016** (raw score: 0.052) |
 
 ## The problem
 - Most of the medicinal-plant trade in India and the Himalaya is supplied by wild harvest. Species such as *Nardostachys jatamansi* (jatamansi), *Picrorhiza kurroa* (kutki) and *Dolomiaea costus* (kuth) are already threatened by overharvesting.
@@ -124,6 +126,9 @@ The model is trained on **1,619 IUCN-assessed vascular plants native to the Indi
 - **Why it matters:** the criterion-B rule flags almost everything as threatened (866 of 1,187 non-threatened species are false alarms). At the screening threshold the model cuts that to 170 false alarms and still catches 83% of threatened species (357 of 432).
 - **Ablation:** range-size features alone reach AUC 0.894 ± 0.005. Sampling-effort, geography and life-form features add the rest.
 - **Medicinal subset:** sensitivity is lower here because of the blind spot described above, which is why the harvest watchlist exists.
+- **Decision value:** if assessors work down a ranking of the 1,619 assessed species (out-of-fold), the top 100 by RedRoot hold **97** threatened species, against 84 for the range-size rule and about 27 at random. Finding half of the 432 threatened species takes **243** assessments, against 283 and 810. On medicinal species alone, the top 50 hold 21 threatened species, against 15 and about 4.
+- **Calibration:** trained with balanced class weights, the raw score is a ranking that runs high at the top (expected calibration error 0.052). An isotonic map, checked by family-grouped cross-fitting, turns it into the observed share of threatened species among similar assessed species (error 0.016). Species cards report that share; rankings and lists are unchanged.
+- **Explanations:** every species card shows the four factors that most drive its score (exact TreeSHAP values). For assessed species they come from the cross-validation models that never saw the species' family, so they match the out-of-fold score shown.
 - **What the model relies on** (permutation importance on held-out families):
   1. extent of occurrence
   2. occupied 50 km cells
@@ -163,6 +168,8 @@ Dr. Duke's ethnobotany (CC0) ──► 1,319 medicinal species used in South Asi
 | **Model** | scikit-learn `HistGradientBoostingClassifier` (class-balanced) on 30 features: range size, geography, sampling effort and recency (to separate *rare* from *rarely recorded*), and WCVP life form and climate. **Medicinal-use data is not an input** |
 | **Threshold** | 0.29, chosen to maximise sensitivity + specificity (Youden) on out-of-fold predictions |
 | **Uncertainty** | A 25-member bootstrap ensemble. Species with fewer than 3 native-range cells are not scored |
+| **Calibration** | Isotonic map from out-of-fold score to observed share threatened, checked by family-grouped cross-fitting |
+| **Explanations** | TreeSHAP values per species, life form and climate grouped, top four shown |
 | **Flags** | *Widely cultivated*: under 20% of records in the native range and at least 100 records. *Native range unknown*: no WCVP match |
 
 Every step is documented in [docs/methods.md](docs/methods.md), which the website also renders.
@@ -177,8 +184,8 @@ A static site in `docs/`, built with HTML, CSS and JavaScript, Leaflet maps and 
 | **Map** | hotspots of unassessed, likely-threatened species on half-degree cells; click a cell to list its species |
 | **Priority list** | filter by native region (subcontinent / endemic / any), minimum P, medicinal-importance weight and family; hide cultivated or unknown-range species; download as CSV |
 | **Watchlist** | the harvest watchlist with recorded uses; download as CSV |
-| **Species** | look up any of the 1,319 plants: IUCN status and where it came from, P(threatened) with uncertainty, range metrics, recorded uses, flags, and an occurrence map coloured by the year of the latest record |
-| **Validation** | metrics against the baseline, confusion matrices, feature importance |
+| **Species** | look up any of the 1,319 plants: IUCN status and where it came from, P(threatened) with uncertainty and the calibrated share threatened, the four factors that drive its score, range metrics, recorded uses, flags, and an occurrence map coloured by the year of the latest record. **Print assessor sheet** gives a one-page summary per species |
+| **Validation** | metrics against the baseline, confusion matrices, feature importance, how many threatened species each ranking finds, and a calibration chart |
 | **Methods** | the full method, limitations and responsible-use notes |
 
 You can link straight to a species: `https://dukenukem1611.github.io/redroot/?species=Nardostachys%20jatamansi#explorer`
@@ -228,8 +235,9 @@ python s05_export_site.py        # JSON for the website in docs/data/
 ## Output files
 | File | Contents |
 |---|---|
-| `data/processed/predictions.csv` | one row per species (medicinal and training): IUCN category and its source, range metrics, `p_threatened` with `p_threatened_lo` / `p_threatened_hi`, `criterion_b_prelim`, `priority_score`, `use_pressure_pct`, and the flags `assessment_gap`, `screen_threatened`, `harvest_watchlist`, `widely_cultivated`, `native_range_unknown` |
-| `data/processed/metrics.json` | every number reported here: validation, blind-spot test, watchlist enrichment check, assessment-gap statistics |
+| `data/processed/predictions.csv` | one row per medicinal species: IUCN category and its source, range metrics, `p_threatened` with `p_threatened_lo` / `p_threatened_hi`, `p_threatened_oof` (assessed species), `p_calibrated` / `p_calibrated_oof`, `drivers` (top SHAP factors, JSON), `criterion_b_prelim`, `priority_score`, `use_pressure_pct`, and the flags `assessment_gap`, `screen_threatened`, `harvest_watchlist`, `widely_cultivated`, `native_range_unknown` |
+| `data/processed/metrics.json` | every number reported here: validation, blind-spot test, watchlist enrichment check, assessment-gap statistics, decision-value curves and calibration |
+| `data/processed/oof_predictions.csv` | one row per training species: out-of-fold score, cross-fitted calibrated share, label, range metrics and criterion-B flag, so every validation number can be re-checked |
 | `data/processed/importance.csv` | permutation importance with standard deviation |
 | `data/processed/features.csv` | the model feature table |
 | `data/processed/points.csv.gz` | native-range occurrence grid cells for medicinal species |

@@ -20,17 +20,18 @@ Traditional medicine in South Asia depends on wild-harvested plants, and several
 3. **Native-range filter:** GBIF occurrences, gridded at about 2.4 km, are kept only inside each species' native range from Kew's WCVP. For Madagascar periwinkle, 99% of records fall outside its native range.
 4. **Features:** IUCN criterion-B range metrics (extent of occurrence, area of occupancy), sampling effort and recency, life form and climate. Medicinal-use data is deliberately not a model input.
 5. **Model:** gradient-boosted trees trained on 1,619 IUCN-assessed plants native to the Indian subcontinent, compared against the standard criterion-B rule.
-6. **Two outputs for two kinds of risk:** a **priority list** of unassessed species the model screens as likely threatened, and a separate **harvest watchlist** for species whose range looks safe but whose profile matches the plants range-based screening misses.
+6. **Calibration and explanations:** an isotonic map, checked by family-grouped cross-fitting, turns each score into the share of similar assessed species that are threatened, and exact SHAP values show the four factors that drive each species' score.
+7. **Two outputs for two kinds of risk:** a **priority list** of unassessed species the model screens as likely threatened, and a separate **harvest watchlist** for species whose range looks safe but whose profile matches the plants range-based screening misses.
 
 ## Technology stack
 - **Language and analysis:** Python, pandas, NumPy, SciPy
-- **Machine learning:** scikit-learn (HistGradientBoostingClassifier, grouped cross-validation, permutation importance, bootstrap ensemble)
+- **Machine learning:** scikit-learn (HistGradientBoostingClassifier, grouped cross-validation, permutation importance, bootstrap ensemble, isotonic calibration), SHAP (TreeSHAP explanations)
 - **Geospatial:** shapely, pyproj, mapbox-vector-tile, GBIF Maps API
 - **Website:** HTML, CSS and JavaScript, Leaflet, D3.js, hosted on GitHub Pages (no backend)
 - **Datasets:** Dr. Duke's Phytochemical and Ethnobotanical Databases (USDA-ARS, CC0), GBIF occurrence data and Backbone Taxonomy, IUCN Red List categories via GBIF, Kew World Checklist of Vascular Plants (CC BY 4.0), TDWG WGSRPD level 3. Details: docs/dataset.md
 
 ## Implementation and demonstration
-- **Live website:** https://dukenukem1611.github.io/redroot/ with headline numbers, the two findings, a hotspot map, a filterable and downloadable priority list, the harvest watchlist, a species explorer for all 1,319 plants, validation results and full methods.
+- **Live website:** https://dukenukem1611.github.io/redroot/ with headline numbers, the two findings, a hotspot map, a filterable and downloadable priority list, the harvest watchlist, a species explorer for all 1,319 plants (with the drivers of each score and a printable one-page assessor sheet), validation results and full methods.
 - **Code:** an eight-script pipeline (`src/s00` to `src/s05`), reproducible from scratch in about an hour. Every API response is cached so reruns are deterministic.
 
 ## Results and validation
@@ -38,6 +39,8 @@ Traditional medicine in South Asia depends on wild-harvested plants, and several
 - ROC-AUC **0.912 ± 0.004**, against 0.884 for the criterion-B rule.
 - At the screening threshold, the criterion-B rule raises **866 false alarms** among 1,187 non-threatened species; RedRoot raises **170** and still catches **83%** of threatened species (357 of 432) (specificity 0.27 → 0.86).
 - Medicinal subset: ROC-AUC **0.834 ± 0.013** vs 0.812.
+- **Decision value:** working down RedRoot's ranking (out-of-fold), the top 100 assessed species hold **97** threatened ones, against 84 for the range-size rule and about 27 at random. Finding half of the 432 threatened species takes **243** assessments instead of 283 or 810. On medicinal species, the top 50 hold 21 threatened ones, against 15 and about 4.
+- **Calibration:** the calibrated share threatened has an expected calibration error of **0.016** (raw score: 0.052).
 - **103** unassessed medicinal species screened as likely threatened (90 native to the subcontinent); **51** species on the harvest watchlist.
 - **Blind-spot finding:** range-based screening misses the most heavily used threatened plants, with a median of 15.5 vs 4 recorded uses (Mann-Whitney p = 0.03), including jatamansi, kuth, sandalwood and guggul. Use counts alone cannot fix this (AUC 0.55). We report it openly and handle it with the separate watchlist.
 
@@ -61,6 +64,7 @@ Outputs are preliminary screening estimates, not official Red List categories. R
 4. `gallery/03_blind_spot_chart.png`: range vs demand chart
 5. `gallery/04_hotspot_map.png`: hotspot map
 6. `gallery/05_priority_list.png`: priority list
-7. `gallery/06_species_kuth.png`: species explorer (kuth)
+7. `gallery/06_species_kuth.png`: species explorer (kuth), with the drivers of its score
 8. `gallery/07_harvest_watchlist.png`: harvest watchlist
 9. `gallery/08_validation.png`: validation
+10. `gallery/09_decision_value.png`: how many threatened species each ranking finds, and calibration

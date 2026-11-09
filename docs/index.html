@@ -148,6 +148,8 @@
       <button type="button" id="sp-toggle" class="sp-toggle" aria-label="Show all species" tabindex="-1"><svg viewBox="0 0 20 20" width="18" height="18" aria-hidden="true"><path d="M5 7.5l5 5 5-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
       <ul id="sp-list" class="sp-list" role="listbox" hidden></ul>
     </div>
+    <div class="sp-actions"><button type="button" id="sp-print" class="btn btn-small">Print assessor sheet</button><span class="note">One page per species: status, score and its drivers, range figures and the occurrence map.</span></div>
+    <p class="print-head" id="print-head"></p>
     <div class="explorer-grid">
       <div id="sp-card" class="card sp-card"></div>
       <div><div id="spmap" class="map"></div><p class="map-note" id="spmap-note"></p></div>
@@ -165,6 +167,13 @@
       <div class="card"><h3>Model vs the standard rule</h3><table class="metrics" id="val-table"></table><p class="note" id="val-note"></p></div>
       <div class="card"><h3>Out-of-fold predictions</h3><div class="cm-row" id="cms"></div></div>
       <div class="card"><h3>What the model relies on</h3><div id="imp" class="bars"></div><p class="note">Permutation importance: the drop in ROC-AUC on held-out families when each feature is shuffled.</p></div>
+    </div>
+    <div class="grid-2 val-extra">
+      <div class="card"><h3>How many threatened species would assessors find?</h3>
+        <div class="seg" id="yield-seg"><button type="button" data-k="all" class="on">All assessed species</button><button type="button" data-k="medicinal">Medicinal only</button></div>
+        <div id="yield" class="chart chart-sm"></div><div class="legend" id="yield-legend"></div><p class="note" id="yield-note"></p></div>
+      <div class="card"><h3>Can the score be read as a probability?</h3>
+        <div id="calib" class="chart chart-sm"></div><div class="legend" id="calib-legend"></div><p class="note" id="calib-note"></p></div>
     </div>
   </div>
 </section>

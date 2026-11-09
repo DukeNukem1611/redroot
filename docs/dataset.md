@@ -46,10 +46,11 @@ NE (Not Evaluated) and DD (Data Deficient) together make up the 791 species (60%
 ## 5. Datasets RedRoot produces
 | File | Rows | Contents |
 |---|---|---|
-| `data/processed/predictions.csv` | 1,319 | One row per medicinal species: IUCN category and its source, range metrics, P(threatened) with a 10th–90th percentile band, preliminary criterion-B category, priority score, use-pressure percentile and flags |
+| `data/processed/predictions.csv` | 1,319 | One row per medicinal species: IUCN category and its source, range metrics, P(threatened) with a 10th–90th percentile band, the calibrated share threatened, the top score drivers (SHAP), preliminary criterion-B category, priority score, use-pressure percentile and flags |
+| `data/processed/oof_predictions.csv` | 1,619 | One row per training species: out-of-fold score, cross-fitted calibrated share, label, range metrics and criterion-B flag |
 | `data/processed/features.csv` | 4,108 | The feature table for the medicinal and training species |
 | `data/processed/points.csv.gz` | 1,243,567 | Native-range grid cells for medicinal species: latitude, longitude, record count, year of latest record |
-| `data/processed/metrics.json` | — | Every reported number: validation, blind-spot test, watchlist check, assessment-gap statistics |
+| `data/processed/metrics.json` | — | Every reported number: validation, blind-spot test, watchlist check, assessment-gap statistics, decision-value curves, calibration |
 | `data/processed/importance.csv` | 30 | Permutation importance of each feature on held-out families |
 | `data/interim/name_matching.csv` | 1,560 | Audit of every name match |
 | `data/interim/iucn_reconciled.csv` | 836 | Recovered IUCN categories and rejected synonym candidates |

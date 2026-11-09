@@ -203,6 +203,39 @@ body.shot footer { display: none; }
 body.only-chart #findings .grid-2, body.only-chart #findings > .wrap > .eyebrow, body.only-chart #findings > .wrap > h2 { display: none; }
 body.only-chart .chart-card { margin-top: 0; }
 
+/* ---------------------------------------------------------------- score drivers, decision value, calibration, print */
+.drivers { margin: 18px 0 0; }
+.drivers h4 { margin: 0 0 8px; font: 600 13px var(--sans); text-transform: uppercase; letter-spacing: .05em; color: var(--muted-2); }
+.drv { display: grid; grid-template-columns: 1fr 96px; gap: 2px 12px; align-items: center; font-size: 14px; margin: 8px 0; color: var(--ink); }
+.drv .val { color: var(--muted-2); }
+.drv .eff { font-size: 12px; font-weight: 600; text-align: right; }
+.drv.up .eff { color: var(--red); }
+.drv.down .eff { color: #4F6B4B; }
+.drv .track { grid-column: 1 / -1; height: 6px; background: #EEE9DD; border-radius: 4px; overflow: hidden; }
+.drv .fill { height: 100%; border-radius: 4px; }
+.drv.up .fill { background: var(--red); }
+.drv.down .fill { background: #5F7F5B; }
+.val-extra { margin-top: 24px; }
+.chart.chart-sm { height: 320px; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 3px; margin: 4px 0 12px; background: var(--paper); }
+.seg button { border: 0; background: none; padding: 6px 14px; border-radius: 999px; font: 600 13px var(--sans); color: var(--muted); cursor: pointer; }
+.seg button.on { background: var(--ink); color: var(--paper); }
+.sp-actions { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: -6px 0 22px; }
+.sp-actions .note { margin: 0; }
+.print-head { display: none; }
+@media print {
+  @page { size: A4 portrait; margin: 12mm; }
+  body { background: #fff; }
+  .topbar, footer, #hero, main > section:not(#explorer), .search, .sp-actions, #explorer > .wrap > .eyebrow, #explorer > .wrap > h2, .leaflet-control-zoom { display: none !important; }
+  #explorer { padding: 0; }
+  .print-head { display: block; font-size: 12px; color: #444; border-bottom: 1px solid #999; padding-bottom: 6px; margin-bottom: 12px; }
+  .explorer-grid { grid-template-columns: 1fr 1fr; gap: 16px; }
+  .card { box-shadow: none; padding: 16px; }
+  .map { height: 360px; box-shadow: none; }
+  .sp-card dl { grid-template-columns: 120px 1fr; font-size: 12px; }
+  .gauge, .drv .fill, .flag { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}
+
 /* ---------------------------------------------------------------- responsive */
 @media (max-width: 1080px) {
   .grid-val { grid-template-columns: 1fr; }

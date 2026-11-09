@@ -208,6 +208,7 @@ function setupExplorer() {
   tileLayer().addTo(spMap);
   spLayer = L.layerGroup().addTo(spMap);
   setupCombobox();
+  $("#sp-print").addEventListener("click", () => { spMap.invalidateSize(); window.print(); });
   selectSpecies(params.get("species") || "Dolomiaea costus");
 }
 
@@ -289,7 +290,18 @@ function selectSpecies(name, scroll) {
       ${s.plo != null ? `<div class="rng" style="left:${s.plo * 100}%;width:${Math.max(1, (s.phi - s.plo) * 100)}%"></div>` : ""}
       <div class="dot" style="left:${pShow * 100}%"></div></div>
       <p class="note">Model P(threatened) = <b>${fmtP(pShow)}</b>${s.poof != null ? " (out-of-fold: this species’ plant family was held out of training)" : `, ensemble 10–90% range ${fmtP(s.plo)}–${fmtP(s.phi)}`}.</p>`;
+    const pc = s.poof != null ? s.pco : s.pc;
+    const share = pc == null ? null : pc >= 0.95 ? "over 95%" : pc <= 0.05 ? "under 5%" : "about " + fmtPct(pc);
+    if (share) gauge += `<p class="note">Among assessed species with a similar score, <b>${share}</b> are officially threatened.</p>`;
   }
+  let drivers = "";
+  if (s.dr && s.dr.length) {
+    const mx = d3.max(s.dr, (d) => Math.abs(d[2])) || 1;
+    drivers = `<div class="drivers"><h4>Why this score</h4>${s.dr.map(([l, v, c]) =>
+      `<div class="drv ${c > 0 ? "up" : "down"}"><span>${esc(l)} <span class="val">· ${esc(v)}</span></span><span class="eff">${c > 0 ? "▲ raises risk" : "▼ lowers risk"}</span><div class="track"><div class="fill" style="width:${Math.max(4, 100 * Math.abs(c) / mx)}%"></div></div></div>`).join("")}
+      <p class="note">Largest SHAP contributions to the score${s.poof != null ? ", from the models that never saw this species’ family" : ", averaged over the 25-model ensemble"}.</p></div>`;
+  }
+  $("#print-head").textContent = `RedRoot assessor sheet · ${s.n} · preliminary screening, not an official Red List assessment · printed ${new Date().toISOString().slice(0, 10)} · dukenukem1611.github.io/redroot/?species=${encodeURIComponent(s.n)}`;
   const flags = [];
   if (s.src) flags.push(["info", `Assessed by IUCN under <i>${esc(s.src.split(" (")[0].replace(/\.$/, ""))}</i>. GBIF’s accepted name returns “Not Evaluated”, so this status was recovered by taxonomic reconciliation.`]);
   if (thrMissed) flags.push(["", "Officially threatened but missed by range-based screening. Its decline is likely driven by harvest, not range size (the blind spot)."]);
@@ -302,6 +314,7 @@ function selectSpecies(name, scroll) {
     <p>${badge(s.iu)} <b>${CAT_NAME[s.iu] || s.iu}</b> <span class="note">official IUCN status</span></p>
     ${gauge}
     ${flags.map(([c, t]) => `<p class="flag ${c}">${t}</p>`).join("")}
+    ${drivers}
     <dl>
       <dt>Criterion B (prelim.)</dt><dd>${esc(s.cb)}</dd>
       <dt>Range</dt><dd>EOO ${fmtInt(s.eoo)} km² · AOO ≥ ${fmtInt(s.aoo)} km²</dd>
@@ -350,6 +363,66 @@ function renderValidation() {
   $("#cms").innerHTML = cm("Criterion-B rule", M.confusion_baseline_all) + cm("RedRoot (cut-off 0.5)", M.confusion_ml_all);
   const mx = d3.max(IMP, (d) => d.importance);
   $("#imp").innerHTML = IMP.slice(0, 10).map((d) => `<div class="bar"><span>${esc(d.label.replace(/^life /, "Life form: ").replace(/^climate /, "Climate: "))}</span><div class="track"><div class="fill" style="width:${Math.max(2, 100 * d.importance / mx)}%"></div></div></div>`).join("");
+  if (M.assessment_yield) setupYield();
+  if (M.calibration) renderCalibration();
+}
+
+/* decision value: threatened species found when assessors work down a ranking (out-of-fold) */
+function setupYield() {
+  const seg = $("#yield-seg");
+  const draw = (key) => {
+    seg.querySelectorAll("button").forEach((b) => b.classList.toggle("on", b.dataset.k === key));
+    renderYield(M.assessment_yield[key], key);
+  };
+  seg.addEventListener("click", (e) => { const b = e.target.closest("button"); if (b) draw(b.dataset.k); });
+  draw("all");
+}
+function renderYield(Y, key) {
+  const el = $("#yield"); el.innerHTML = "";
+  const W = el.clientWidth || 560, H = el.clientHeight || 320, m = { t: 12, r: 16, b: 44, l: 52 };
+  const pts = Y.k.map((k, i) => ({ k, r: Y.redroot[i], b: Y.range_rule[i], n: Y.random[i] }));
+  const x = d3.scaleLinear().domain([0, Y.n]).range([m.l, W - m.r]);
+  const y = d3.scaleLinear().domain([0, Y.n_threatened]).range([H - m.b, m.t]).nice();
+  const svg = d3.select(el).append("svg").attr("viewBox", `0 0 ${W} ${H}`);
+  svg.append("g").attr("class", "grid").attr("transform", `translate(${m.l},0)`)
+    .call(d3.axisLeft(y).ticks(5).tickSize(-(W - m.l - m.r)).tickFormat("")).call((g) => g.select(".domain").remove());
+  svg.append("g").attr("class", "axis").attr("transform", `translate(0,${H - m.b})`).call(d3.axisBottom(x).ticks(6));
+  svg.append("g").attr("class", "axis").attr("transform", `translate(${m.l},0)`).call(d3.axisLeft(y).ticks(5));
+  svg.append("text").attr("class", "axis-label").attr("x", W - m.r).attr("y", H - 8).attr("text-anchor", "end").text("Species assessed, in ranked order →");
+  svg.append("text").attr("class", "axis-label").attr("transform", "rotate(-90)").attr("x", -m.t).attr("y", 14).attr("text-anchor", "end").text("Threatened species found →");
+  const lines = [["n", "#A9AFA9", "3 4", 2], ["b", "#17251D", "", 2], ["r", "#B4432E", "", 3]];
+  lines.forEach(([f, c, dash, w]) => svg.append("path").datum(pts).attr("fill", "none").attr("stroke", c).attr("stroke-width", w)
+    .attr("stroke-dasharray", dash).attr("d", d3.line().x((d) => x(d.k)).y((d) => y(d[f]))));
+  const at = Y.at["100"];
+  $("#yield-legend").innerHTML = [["#B4432E", "RedRoot ranking"], ["#17251D", "Range-size rule (smallest AOO first)"], ["#A9AFA9", "Random order"]]
+    .map(([c, l]) => `<span><i class="sw" style="background:${c}"></i>${l}</span>`).join("");
+  $("#yield-note").innerHTML = `${key === "all" ? `All ${fmtInt(Y.n)} assessed species` : `The ${fmtInt(Y.n)} assessed medicinal species`}, ranked out-of-fold. Assessing the top 100 finds <b>${at.redroot}</b> threatened species with RedRoot, ${at.range_rule} with the range rule and about ${Math.round(at.random)} at random. Finding half of the ${Y.n_threatened} threatened species takes <b>${Y.k_half_redroot}</b> assessments with RedRoot, against ${Y.k_half_range_rule} and ${fmtInt(Y.k_half_random)}.`;
+}
+
+/* calibration: reliability diagram of raw scores and of the calibrated share */
+function renderCalibration() {
+  const C = M.calibration, el = $("#calib"); el.innerHTML = "";
+  const W = el.clientWidth || 560, H = el.clientHeight || 320, m = { t: 12, r: 16, b: 44, l: 64 };
+  const x = d3.scaleLinear().domain([0, 1]).range([m.l, W - m.r]), y = d3.scaleLinear().domain([0, 1]).range([H - m.b, m.t]);
+  const svg = d3.select(el).append("svg").attr("viewBox", `0 0 ${W} ${H}`);
+  svg.append("g").attr("class", "grid").attr("transform", `translate(${m.l},0)`)
+    .call(d3.axisLeft(y).ticks(5).tickSize(-(W - m.l - m.r)).tickFormat("")).call((g) => g.select(".domain").remove());
+  svg.append("g").attr("class", "axis").attr("transform", `translate(0,${H - m.b})`).call(d3.axisBottom(x).ticks(5));
+  svg.append("g").attr("class", "axis").attr("transform", `translate(${m.l},0)`).call(d3.axisLeft(y).ticks(5, ".0%"));
+  svg.append("text").attr("class", "axis-label").attr("x", W - m.r).attr("y", H - 8).attr("text-anchor", "end").text("Predicted, mean per bin →");
+  svg.append("text").attr("class", "axis-label").attr("transform", "rotate(-90)").attr("x", -m.t).attr("y", 14).attr("text-anchor", "end").text("Observed share threatened →");
+  svg.append("line").attr("x1", x(0)).attr("y1", y(0)).attr("x2", x(1)).attr("y2", y(1)).attr("stroke", "#A9AFA9").attr("stroke-dasharray", "3 4");
+  const r = d3.scaleSqrt().domain([0, d3.max(C.bins_raw.concat(C.bins_calibrated), (d) => d.n)]).range([3, 13]);
+  const series = [[C.bins_raw, "#FBF9F4", "#B4432E"], [C.bins_calibrated, "#17251D", "#17251D"]];
+  series.forEach(([bins, fill, stroke]) => {
+    svg.append("path").datum(bins).attr("fill", "none").attr("stroke", stroke).attr("stroke-width", 1.2).attr("opacity", .6)
+      .attr("d", d3.line().x((d) => x(d.mean_p)).y((d) => y(d.observed)));
+    svg.append("g").selectAll("circle").data(bins).join("circle").attr("cx", (d) => x(d.mean_p)).attr("cy", (d) => y(d.observed))
+      .attr("r", (d) => r(d.n)).attr("fill", fill).attr("stroke", stroke).attr("stroke-width", 2)
+      .append("title").text((d) => `${d.n} species · predicted ${fmtP(d.mean_p)} · observed ${fmtP(d.observed)}`);
+  });
+  $("#calib-legend").innerHTML = `<span><i class="sw" style="background:#FBF9F4;border:2px solid #B4432E"></i>Raw score (ECE ${C.ece_raw.toFixed(3)})</span><span><i class="sw" style="background:#17251D"></i>Calibrated share (ECE ${C.ece_calibrated.toFixed(3)})</span>`;
+  $("#calib-note").innerHTML = `Circle size = species per bin; the dashed line is perfect calibration. The model is trained with balanced class weights, so raw scores are a ranking, inflated at the top. An isotonic map, checked by family-grouped cross-fitting, turns a score into the share of similar assessed species that are threatened; the species cards report that share. At the screening threshold it is about ${fmtPct(C.share_threatened_at_threshold)}.`;
 }
 
 /* ------------------------------------------------------------------ methods */
