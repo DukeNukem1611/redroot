@@ -121,7 +121,7 @@ The model is trained on **1,619 IUCN-assessed vascular plants native to the Indi
 | ROC-AUC, medicinal subset | 0.812 | **0.834 ± 0.013** |
 | Sensitivity / specificity on the medicinal subset at the threshold | 0.95 / 0.36 | 0.49 / 0.94 |
 
-- **Why it matters:** the criterion-B rule flags almost everything as threatened (866 of 1,187 non-threatened species are false alarms). The model cuts that to 108 false alarms and still catches 83% of threatened species.
+- **Why it matters:** the criterion-B rule flags almost everything as threatened (866 of 1,187 non-threatened species are false alarms). At the screening threshold the model cuts that to 170 false alarms and still catches 83% of threatened species (357 of 432).
 - **Ablation:** range-size features alone reach AUC 0.894 ± 0.005. Sampling-effort, geography and life-form features add the rest.
 - **Medicinal subset:** sensitivity is lower here because of the blind spot described above, which is why the harvest watchlist exists.
 - **What the model relies on** (permutation importance on held-out families):

@@ -36,7 +36,7 @@ Traditional medicine in South Asia depends on wild-harvested plants, and several
 ## Results and validation
 - Validated with 5-fold cross-validation **grouped by plant family**, repeated over 5 seeds, so every score comes from families the model never trained on.
 - ROC-AUC **0.912 ± 0.004**, against 0.884 for the criterion-B rule.
-- At the screening threshold, the criterion-B rule raises **866 false alarms** among 1,187 non-threatened species; RedRoot raises **108** and still catches **83%** of threatened species (specificity 0.27 → 0.86).
+- At the screening threshold, the criterion-B rule raises **866 false alarms** among 1,187 non-threatened species; RedRoot raises **170** and still catches **83%** of threatened species (357 of 432) (specificity 0.27 → 0.86).
 - Medicinal subset: ROC-AUC **0.834 ± 0.013** vs 0.812.
 - **103** unassessed medicinal species screened as likely threatened (90 native to the subcontinent); **51** species on the harvest watchlist.
 - **Blind-spot finding:** range-based screening misses the most heavily used threatened plants, with a median of 15.5 vs 4 recorded uses (Mann-Whitney p = 0.03), including jatamansi, kuth, sandalwood and guggul. Use counts alone cannot fix this (AUC 0.55). We report it openly and handle it with the separate watchlist.
