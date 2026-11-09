@@ -30,7 +30,7 @@ BASIS = ["PRESERVED_SPECIMEN", "HUMAN_OBSERVATION", "OBSERVATION", "MATERIAL_SAM
 MAX_TILES = 16
 EXTENT = 512
 _s = requests.Session()
-_s.headers["User-Agent"] = "EthnoHack2026-medicinal-plant-risk/0.1 (research prototype)"
+_s.headers["User-Agent"] = "RedRoot/0.1 (medicinal-plant extinction-risk research prototype)"
 
 
 def iucn(key: int) -> dict:

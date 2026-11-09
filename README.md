@@ -3,9 +3,10 @@
 <h1 align="center">RedRoot: extinction-risk radar for South Asia's medicinal plants</h1>
 
 <p align="center">
-<b>EthnoHack 2026 · Track 3: Biodiversity &amp; Sustainability</b><br>
+<b>DataNova 2026 Global Data-thon · Open Innovation Challenge (DN-OP-01) · Sustainability &amp; Environmental Innovation</b><br>
 <a href="https://dukenukem1611.github.io/redroot/"><b>Live website</b></a> ·
 <a href="docs/methods.md">Methods</a> ·
+<a href="docs/dataset.md">Dataset description</a> ·
 <a href="docs/devpost.md">Devpost write-up</a> ·
 <a href="#reproduce-from-scratch">Reproduce</a>
 </p>
@@ -14,7 +15,19 @@
 
 > South Asian traditional medicine uses well over a thousand recorded plant species. Most of them have **never been assessed** for extinction risk. An unassessed plant is invisible to Red List-based policy, trade regulation (CITES) and conservation funding. RedRoot combines five open datasets with a machine-learning model, validated on plant families it never saw, to show **which medicinal plants most urgently need a Red List assessment and field survey**. It also shows where the standard range-based screening goes blind.
 
+## Submission at a glance
+| DataNova requirement (DN-OP-01) | Where to find it |
+|---|---|
+| Problem statement | [The problem](#the-problem) |
+| Working demo | **https://dukenukem1611.github.io/redroot/** |
+| Code | this repository, [`src/`](src) and [`docs/`](docs) |
+| Documentation | this README and [docs/methods.md](docs/methods.md) |
+| Dataset description | [docs/dataset.md](docs/dataset.md) |
+| Results and validation | [Validation](#validation) and [`data/processed/metrics.json`](data/processed/metrics.json) |
+| Impact assessment | [Who this is for and what comes next](#who-this-is-for-and-what-comes-next) |
+
 ## Contents
+- [Submission at a glance](#submission-at-a-glance)
 - [At a glance](#at-a-glance)
 - [The problem](#the-problem)
 - [What we found](#what-we-found)
@@ -141,7 +154,7 @@ Dr. Duke's ethnobotany (CC0) ──► 1,319 medicinal species used in South Asi
 | Stage | Detail |
 |---|---|
 | **Species list** | Every plant binomial with at least one ethnobotanical record from India (including named communities), Nepal, Pakistan, Bangladesh, Sri Lanka, Bhutan or the Himalaya in Dr. Duke's database |
-| **Name resolution** | Strict GBIF Backbone match (confidence ≥ 90, kingdom Plantae). About 15% of binomials could not be resolved and are listed in `data/interim/name_matching.csv` |
+| **Name resolution** | Strict GBIF Backbone match (confidence ≥ 90, kingdom Plantae). 163 of the 1,560 binomials (about 10%) could not be resolved; every match and non-match is listed in `data/interim/name_matching.csv` |
 | **IUCN status** | GBIF's IUCN checklist mirror, plus homotypic synonym and WCVP accepted-name reconciliation |
 | **Occurrences** | GBIF Maps API vector tiles: georeferenced records without geospatial issues, with garden specimens and fossils excluded. Pulling gridded tiles is far faster than paging through individual records |
 | **Native-range filter** | Each grid cell is assigned to a TDWG level-3 botanical country. Only cells in the species' WCVP native range are kept, so introduced, cultivated and naturalised records are removed. For Madagascar periwinkle, 99% of records fall outside its native range |
@@ -228,7 +241,7 @@ python s05_export_site.py        # JSON for the website in docs/data/
 |---|---|
 | `src/common.py` | paths, the South Asia country list, and a cached, rate-limit-aware HTTP helper |
 | `src/s00_download.py` … `src/s05_export_site.py` | the pipeline steps, in run order (see above) |
-| `docs/` | the website (`index.html`, `css/`, `js/app.js`, `data/`, `img/`), plus `methods.md` and `devpost.md` |
+| `docs/` | the website (`index.html`, `css/`, `js/app.js`, `data/`, `img/`), plus `methods.md`, `dataset.md` and `devpost.md` |
 | `data/interim/` | species list, name-matching audit, IUCN categories and synonym reconciliation, GBIF counts |
 | `data/processed/` | model inputs and outputs (see [Output files](#output-files)) |
 | `gallery/` | Devpost gallery images (1500×1000, 3:2) |
@@ -287,7 +300,7 @@ Details are in [docs/methods.md](docs/methods.md#limitations-and-how-to-read-the
 - IUCN Standards and Petitions Committee (2024). Guidelines for Using the IUCN Red List Categories and Criteria, v16.
 
 ## Team
-Built for EthnoHack 2026 by two students at IIT Kharagpur:
+Built by two students at IIT Kharagpur:
 - [Harshil Agarwal](https://github.com/DukeNukem1611)
 - Aditi Choudhary
 

@@ -26,7 +26,7 @@ SOUTH_ASIA_PREFIXES = (
 )
 
 _session = requests.Session()
-_session.headers["User-Agent"] = "EthnoHack2026-medicinal-plant-risk/0.1 (research prototype)"
+_session.headers["User-Agent"] = "RedRoot/0.1 (medicinal-plant extinction-risk research prototype)"
 
 
 def get_json(url: str, params: dict | None = None, cache: bool = True, retries: int = 9):
