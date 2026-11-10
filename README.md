@@ -5,6 +5,7 @@
 <p align="center">
 <b>DataNova 2026 Global Data-thon · Open Innovation Challenge (DN-OP-01) · Sustainability &amp; Environmental Innovation</b><br>
 <a href="https://dukenukem1611.github.io/redroot/"><b>Live website</b></a> ·
+<a href="https://youtu.be/UYnvHg-U6BM"><b>Demo Video</b></a> ·
 <a href="docs/methods.md">Methods</a> ·
 <a href="docs/dataset.md">Dataset description</a> ·
 <a href="docs/devpost.md">Devpost write-up</a> ·
